@@ -13,6 +13,7 @@ from docx.oxml.ns import qn
 ROOT = Path(__file__).resolve().parents[1]
 COVER = ROOT / "assets" / "阿奇封面-v1.png"
 OUT = ROOT / "output"
+ORIGINALS = ROOT / "source" / "originals"
 
 def set_font(run, name="宋体", size=10.5, bold=False, color=None):
     run.font.name = name
@@ -88,20 +89,48 @@ def setup(doc):
     sec.page_width, sec.page_height = Cm(14.8), Cm(21)
     sec.top_margin, sec.bottom_margin = Cm(1.8), Cm(1.7)
     sec.left_margin, sec.right_margin = Cm(1.75), Cm(1.75)
+    text_direction = sec._sectPr.find(qn("w:textDirection"))
+    if text_direction is None:
+        text_direction = OxmlElement("w:textDirection")
+        sec._sectPr.append(text_direction)
+    text_direction.set(qn("w:val"), "lrTb")
+    columns = sec._sectPr.find(qn("w:cols"))
+    if columns is None:
+        columns = OxmlElement("w:cols")
+        sec._sectPr.append(columns)
+    columns.set(qn("w:num"), "1")
     add_page_number(sec)
     normal = doc.styles["Normal"]
     normal.font.name = "宋体"
     normal._element.rPr.rFonts.set(qn("w:eastAsia"), "宋体")
     normal.font.size = Pt(10.5)
     normal.paragraph_format.line_spacing = 1.45
-    normal.paragraph_format.space_after = Pt(6)
+    normal.paragraph_format.space_after = Pt(5.5)
     normal.paragraph_format.first_line_indent = Cm(0.74)
     for name, size in [("Title", 26), ("Heading 1", 20), ("Heading 2", 15), ("Heading 3", 12)]:
-        s = doc.styles[name]
+        try:
+            s = doc.styles[name]
+        except KeyError:
+            s = doc.styles.add_style(name, WD_STYLE_TYPE.PARAGRAPH)
+            s.base_style = normal
         s.font.name = "宋体"
         s._element.rPr.rFonts.set(qn("w:eastAsia"), "宋体")
         s.font.size = Pt(size)
         s.font.bold = True
+    try:
+        doc.styles["List Bullet"]
+    except KeyError:
+        s = doc.styles.add_style("List Bullet", WD_STYLE_TYPE.PARAGRAPH)
+        s.base_style = normal
+        s.paragraph_format.left_indent = Cm(0.74)
+        s.paragraph_format.first_line_indent = Cm(-0.37)
+
+def clear_document_body(doc):
+    """Clear the copied rolebook body while retaining its package, theme and styles."""
+    body = doc._element.body
+    for child in list(body):
+        if child.tag != qn("w:sectPr"):
+            body.remove(child)
 
 def cover(doc, volume):
     sec = doc.sections[0]
@@ -162,12 +191,11 @@ def add_markdown(doc, text):
             continue
         m = re.match(r"^(\d+)\.\s+(.*)", line)
         if m:
-            if active_num_id is None:
-                active_num_id = new_decimal_numbering(doc)
             p = doc.add_paragraph()
-            apply_decimal_numbering(p, active_num_id)
             p.paragraph_format.first_line_indent = Cm(0)
-            p.add_run(m.group(2))
+            p.paragraph_format.left_indent = Cm(0.74)
+            p.paragraph_format.hanging_indent = Cm(0.37)
+            p.add_run(f"{m.group(1)}. {m.group(2)}")
             continue
         active_num_id = None
         if line.startswith("- "):
@@ -185,7 +213,12 @@ def add_markdown(doc, text):
 
 def build(src, target=None):
     volume = re.search(r"阿奇([ABC])本", src.stem).group(1)
-    doc = Document()
+    # AGENTS.md requires the final file to derive from an original rolebook copy.
+    # Loading the matching 黛利拉 volume preserves the original package/theme/style
+    # lineage; only the copied document body is cleared. The source file is never saved.
+    template = ORIGINALS / f"黛利拉{volume}本.docx"
+    doc = Document(template)
+    clear_document_body(doc)
     setup(doc)
     cover(doc, volume)
     text = src.read_text(encoding="utf-8")
@@ -207,5 +240,10 @@ if __name__ == "__main__":
     if args.source:
         build(Path(args.source), args.output)
     else:
-        for src in sorted((ROOT / "drafts").glob("阿奇?本-v1.md")):
-            build(src)
+        versions = {
+            "A": ROOT / "drafts" / "阿奇A本-v3.md",
+            "B": ROOT / "drafts" / "阿奇B本-v2.md",
+            "C": ROOT / "drafts" / "阿奇C本-v2.md",
+        }
+        for volume, src in versions.items():
+            build(src, OUT / f"阿奇{volume}本-定稿.docx")

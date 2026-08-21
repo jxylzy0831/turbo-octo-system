@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$~
+~$*.docx
+
+# 可由 DOCX/PDF 重新生成的逐页渲染物
+qa/final-v3/
+qa/final-v4/
