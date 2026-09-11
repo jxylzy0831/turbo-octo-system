@@ -6,3 +6,9 @@ __pycache__/
 # 可由 DOCX/PDF 重新生成的逐页渲染物
 qa/final-v3/
 qa/final-v4/
+
+# 修图工具：本地密钥与产物一律不入库
+scripts/photo/photo.env.ps1
+scripts/photo/.env
+scripts/photo/_tmp/
+photo_out/
