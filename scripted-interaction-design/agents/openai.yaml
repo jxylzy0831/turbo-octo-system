@@ -1,0 +1,5 @@
+interface:
+  display_name: "剧本互动研究与设计"
+  short_description: "逐幕学习主持手册，积累有来源的公核与恋陪互动规则，并用于新流程设计"
+  default_prompt: "使用 $scripted-interaction-design 学习这份剧本手册，梳理逐幕互动并更新有证据支持的规则。"
+

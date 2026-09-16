@@ -1,0 +1,780 @@
+46:{"part": "word/document.xml", "paragraph": 46, "style": "11", "text": "虽然事业里混了一点和cp  的互动，但大部分就是在干巴搞事业，很干巴!"}
+50:{"part": "word/document.xml", "paragraph": 50, "style": "3", "text": "程聿怀(该角色男女皆可，cp 为 主d 羌青瓷【瑞法 ·莱诺】。"}
+51:{"part": "word/document.xml", "paragraph": 51, "style": "11", "text": "程聿怀人物本男女版本的差别主要集中于对羌青瓷的外貌、行为、性格的描述。"}
+53:{"part": "word/document.xml", "paragraph": 53, "style": "11", "text": "一般来说，为了主d 更贴合文本里的描述，程聿怀的本需要根据羌青瓷的性别 来定，女羌青瓷就发男程聿怀的本，男羌青瓷就发女程聿怀的本。)"}
+55:{"part": "word/document.xml", "paragraph": 55, "style": "11", "text": "——1994年之前，父亲记者，母亲历史学教授，家庭美满，智商超群，在前半 生中顺风顺水，遇到的基本都是好人，因此待人处世都温柔平和，也是在这个阶 段的大学时期，遇见、治愈了当时心理有重大创伤的【瑞法 · 莱诺】(后取名为 羌青瓷),与其相爱。"}
+57:{"part": "word/document.xml", "paragraph": 57, "style": "11", "text": "后，调查到了真相，但也被爱人羌青瓷用催眠术消除记忆。 (详情请见羌青瓷人"}
+61:{"part": "word/document.xml", "paragraph": 61, "style": "11", "text": "2000年和羌青瓷重逢，不记得跟TA 的全部过往，只想从TA 口中得到莱诺家  族更多信息，为此，不惜一次次伤害羌青瓷，羌青瓷全部知晓，但因为爱程聿怀， 全部纵容。"}
+189:{"part": "word/document.xml", "paragraph": 189, "style": "11", "text": "(羌青瓷、奥丁、阿奇) 其中羌青瓷(男女都可)和阿奇都属于恋陪位"}
+191:{"part": "word/document.xml", "paragraph": 191, "style": "2", "text": "一 ：羌青瓷【玩家程聿怀的cp】"}
+192:{"part": "word/document.xml", "paragraph": 192, "style": "11", "text": "羌青瓷(又名瑞法 · 莱诺)生平"}
+228:{"part": "word/document.xml", "paragraph": 228, "style": "11", "text": "TA还给自己取了一个新的东国名字——羌青瓷。"}
+232:{"part": "word/document.xml", "paragraph": 232, "style": "11", "text": "自那天起，羌青瓷因程聿怀而生。"}
+233:{"part": "word/document.xml", "paragraph": 233, "style": "11", "text": "两个人在2000年结婚，并在此后的五年，羌青瓷演出不爱程聿怀的样子， 让程聿怀觉得TA只是为了利益联姻。"}
+234:{"part": "word/document.xml", "paragraph": 234, "style": "11", "text": "但实际上，羌青瓷痛苦地压抑住了自己所有的爱。"}
+235:{"part": "word/document.xml", "paragraph": 235, "style": "11", "text": "程聿怀需要在众人面前编造一套他们相爱的故事，羌青瓷就提议，可以说他 们是一对恩爱多年的大学情侣。"}
+236:{"part": "word/document.xml", "paragraph": 236, "style": "11", "text": "程聿怀只觉得羌青瓷很擅长说谎，后来发现羌青瓷说的所有话全部都是真的。"}
+237:{"part": "word/document.xml", "paragraph": 237, "style": "11", "text": "后来，2005年，在羌青瓷的帮助下，程聿怀和其他人一起揭穿了莱诺家族 的真面目，程聿怀也狠心地让人把羌青瓷心中的芯片取出，羌青瓷因此死亡。"}
+238:{"part": "word/document.xml", "paragraph": 238, "style": "11", "text": "在羌青瓷死后，程聿怀才知道原来他们从1990年就相爱了。 羌青瓷爱了程聿怀十五年，却沉默了十年。"}
+239:{"part": "word/document.xml", "paragraph": 239, "style": "11", "text": "羌青瓷性格(需要转换)"}
+241:{"part": "word/document.xml", "paragraph": 241, "style": "11", "text": "第四幕以后，开始在程聿怀面前演坏人，需要阴阳怪气、激起所有人的 仇 恨 。"}
+242:{"part": "word/document.xml", "paragraph": 242, "style": "11", "text": "进入羌青瓷最后两个演绎后(鲨鱼手环和火柴疗法),羌青瓷的状态就 回归正常的温柔即可，就像卸下了面具一样轻松，但带着一点遗憾。"}
+243:{"part": "word/document.xml", "paragraph": 243, "style": "11", "text": "羌青瓷和程聿怀的互动"}
+246:{"part": "word/document.xml", "paragraph": 246, "style": "11", "text": "中期程聿怀会觉得羌青瓷很恶心，骂羌青瓷也是可能的，这个时候羌青 瓷就可以笑着阴阳怪气地回去，适度气一气程聿怀。"}
+247:{"part": "word/document.xml", "paragraph": 247, "style": "11", "text": "羌青瓷外在特征："}
+249:{"part": "word/document.xml", "paragraph": 249, "style": "11", "text": "前期会穿白大褂，在第四幕演绎时，需要脱掉。"}
+252:{"part": "word/document.xml", "paragraph": 252, "style": "2", "text": "奥丁"}
+253:{"part": "word/document.xml", "paragraph": 253, "style": "11", "text": "奥丁生平"}
+254:{"part": "word/document.xml", "paragraph": 254, "style": "11", "text": "奥丁，1960年出生于【布雷诺】。"}
+257:{"part": "word/document.xml", "paragraph": 257, "style": "11", "text": "种族之间的暴乱无限循环，从未得到过真正的平息。 奥丁的前半生经历了无数次种族间的战争。"}
+263:{"part": "word/document.xml", "paragraph": 263, "style": "11", "text": "家人的牺牲更是让他刻骨铭心，那一声“跑啊，奥丁!”如同一道命令， 让他在绝望中找到了前进的方向，让他在接下来的人生中，总是跑步前进。"}
+264:{"part": "word/document.xml", "paragraph": 264, "style": "11", "text": "并且，奥丁从此经常听《born    to    run》(生来奔跑)。"}
+265:{"part": "word/document.xml", "paragraph": 265, "style": "11", "text": "失去家人的奥丁，没有沉沦，而是站了出来，组建了【狂草帮】。"}
+267:{"part": "word/document.xml", "paragraph": 267, "style": "11", "text": "而他也成为了这个新家庭的领导者，用摇滚乐和笑话驱散每个人心中的阴 霾，尽管奥丁的笑话并不好笑，但他从未放弃。"}
+270:{"part": "word/document.xml", "paragraph": 270, "style": "11", "text": "奥丁教授狂草帮很多人如何使用武器、如何保护自己，后来为了谋生，狂 草帮很多人成为了打手、杀手。"}
+271:{"part": "word/document.xml", "paragraph": 271, "style": "11", "text": "而且奥丁本人也十分憎恨在战争中施暴的凶手，所以如果接到的杀人订单 目标正好是某一次种族屠杀中的刽子手，他就会主动为对方打折。"}
+272:{"part": "word/document.xml", "paragraph": 272, "style": "11", "text": "因为奥丁爱好和平，讨厌挑事的人，所以，狂草帮也会在奥丁的带领下去 维护些社会治安，算半个义警。"}
+275:{"part": "word/document.xml", "paragraph": 275, "style": "11", "text": "但奥丁并不知道这个实际原因，他只看到有外国佬来布雷诺，建了一个电 台，然后种族战争就开始了。"}
+276:{"part": "word/document.xml", "paragraph": 276, "style": "11", "text": "自此以后，奥丁就非常讨厌外国人，更讨厌外国人来布雷诺建公共设施。"}
+277:{"part": "word/document.xml", "paragraph": 277, "style": "11", "text": "那段时间，奥丁知道那个负责兴建电台的东国负责人叫做【蒋伯驾】,他 深深记住了这个名字，并很厌烦这个人。"}
+280:{"part": "word/document.xml", "paragraph": 280, "style": "11", "text": "后来奥丁知道黛利拉是战争之子，也就是在大屠杀中男人强暴女人生下的 孩子，身世可怜，奥丁很心疼这个女孩，开始把她当女儿一样疼爱。"}
+282:{"part": "word/document.xml", "paragraph": 282, "style": "11", "text": "奥丁因为黛利拉变得细腻、多了耐心，不厌其烦地想用亲情让这个天天嚷 嚷着要许多爱的小女孩拥有足够多的安全感。"}
+283:{"part": "word/document.xml", "paragraph": 283, "style": "11", "text": "同年，没过多久，奥丁又认识了以撒。"}
+285:{"part": "word/document.xml", "paragraph": 285, "style": "11", "text": "但奥丁从不屑于遵守没有道理的规矩，所以当他看到明明很想跑，却不敢"}
+287:{"part": "word/document.xml", "paragraph": 287, "style": "11", "text": "以撒问他，布雷诺不是不能慢跑吗?奥丁说，那只要跑得够快，就可以!"}
+288:{"part": "word/document.xml", "paragraph": 288, "style": "11", "text": "那天以撒戴上了奥丁的耳机，听到里面摇滚的轰鸣，那首歌曲，就是《born to  run》。"}
+290:{"part": "word/document.xml", "paragraph": 290, "style": "11", "text": "奥丁觉得跟以撒有很多共同点，比如说喜欢跑步、喜欢听《born   to   run》, 最重要的是，以撒有狂笑证，他有的时候会控制不住地大笑，而奥丁的笑话总是 没人捧场，但以撒会笑，于是奥丁开始不厌其烦地给以撒讲笑话。"}
+291:{"part": "word/document.xml", "paragraph": 291, "style": "11", "text": "奥丁有一个笑话小本，专门记预备讲给以撒听的笑话，并会在上面批注以 撒听到这些笑话时的反应。"}
+292:{"part": "word/document.xml", "paragraph": 292, "style": "11", "text": "布雷诺很多人不知道狂笑症是什么东西，都觉得以撒是邪灵入侵了，说他 有病，但奥丁觉得以撒很正常，一个人想笑就笑，算什么疾病?"}
+293:{"part": "word/document.xml", "paragraph": 293, "style": "11", "text": "奥丁觉得说以撒不正常的人才是脑子有病。"}
+295:{"part": "word/document.xml", "paragraph": 295, "style": "11", "text": "奥丁觉得又是外国佬建东西，肯定会引发危机，于是带着狂草帮的人在金 狮医院开业仪式上大闹一场，想要把这些外国佬都赶回去。"}
+296:{"part": "word/document.xml", "paragraph": 296, "style": "11", "text": "也是在这次闹剧中，他认识了【金狮医院】的院长【羌青瓷】(又名：瑞 法 ·莱诺)、副院长【缪宏谟】、记者【程走柳】、记者【程聿怀】,最后，还 见到了1995年那个建电台的【蒋伯驾】。"}
+297:{"part": "word/document.xml", "paragraph": 297, "style": "11", "text": "大家不打不相识，在这次之后，奥丁发现这几个人品性还不错，但也并不 是完全地相信他们，直到后来，金狮医院发生小规模械斗，这几个人和狂草帮一 起共同对抗暴民，维持治安，奥丁才真正地相信他们。"}
+298:{"part": "word/document.xml", "paragraph": 298, "style": "11", "text": "也是这一次，奥丁对蒋伯驾彻底改观，他发现这个小子身手不错也仗义， 并不像自己想象中是一个很冷漠不负责任的上位者，奥丁开始喜欢蒋伯驾。"}
+301:{"part": "word/document.xml", "paragraph": 301, "style": "11", "text": "大屠杀结束后，奥丁察觉出莱诺家族一定和大屠杀脱不了干系，并在这个 时候收到了政府的指令——所有经历大屠杀之后的人必须进行心理治疗。"}
+302:{"part": "word/document.xml", "paragraph": 302, "style": "11", "text": "而给他治疗的人正是莱诺家族的人——瑞法 · 莱诺(羌青瓷),在这一次  治疗中，瑞法暗示奥丁大屠杀就是莱诺家族挑起的，挑衅奥丁，向他们家族复仇。"}
+303:{"part": "word/document.xml", "paragraph": 303, "style": "11", "text": "从此，代表莱诺家族的瑞法 ·莱诺和奥丁彻底站在了对立面。"}
+304:{"part": "word/document.xml", "paragraph": 304, "style": "11", "text": "一年之后，程走柳和缪宏谟找到了奥丁，说他们要向莱诺家族复仇，并且 她们提供军火和钱财，想要组织一个正规的复仇组织。"}
+308:{"part": "word/document.xml", "paragraph": 308, "style": "11", "text": "族，奥丁同意了下来，并成为了怒河表面上的指挥官。"}
+311:{"part": "word/document.xml", "paragraph": 311, "style": "11", "text": "但奥丁知道她们的苦楚和难处，不觉得她们该死，开始想方设法劝她们活 下来，但两人死志坚定，奥丁只能暂时答应她们。"}
+312:{"part": "word/document.xml", "paragraph": 312, "style": "11", "text": "奥丁说，她们的死法只能由奥丁来决定。"}
+313:{"part": "word/document.xml", "paragraph": 313, "style": "11", "text": "但实际上奥丁给她们想的死法只是自然老死。"}
+314:{"part": "word/document.xml", "paragraph": 314, "style": "11", "text": "后来，在一次机缘巧合下，羌青瓷绑架了主角所有人，并在他们之间挑拨 离间，还好奥丁及时赶到，把所有人救下，并且带领所有人明确了一起向莱诺家 族的复仇目标。"}
+316:{"part": "word/document.xml", "paragraph": 316, "style": "11", "text": "而这个时候，奥丁和怒河的成员就在大门口替他们守着，不让任何一个莱 诺家族的人进来打扰他们。"}
+317:{"part": "word/document.xml", "paragraph": 317, "style": "11", "text": "也是在这场战役里，奥丁和怒河所有人都牺牲了，但也成功守住了大门。"}
+318:{"part": "word/document.xml", "paragraph": 318, "style": "11", "text": "奥丁的一生永远戴着耳机，他用耳机隔绝了很多暴力和混乱的声音，但是 在他生命的最后，他那个播放着《生来奔跑》的耳机也被子弹打穿了，里面再没 有音乐，他踏上了一条无声之旅。"}
+319:{"part": "word/document.xml", "paragraph": 319, "style": "11", "text": "奥丁性格特点："}
+321:{"part": "word/document.xml", "paragraph": 321, "style": "11", "text": "乐观、单纯、不聪明，经常进入聪明人(比如羌青瓷)的语言陷阱， 一听好话就很容易上当。"}
+324:{"part": "word/document.xml", "paragraph": 324, "style": "3", "text": "奥丁形象："}
+329:{"part": "word/document.xml", "paragraph": 329, "style": "11", "text": "虽然奥丁生平里一直在提的歌是《Born   To   Run》,但奥丁会在流程里提 的歌，和沉浸的歌都是《Don't        Cry》,希望落地后大家不要换歌，前者不适 配文本、也不适配流程，拜托大家了。"}
+383:{"part": "word/document.xml", "paragraph": 383, "style": "11", "text": "她开始幻想出来一个阿奇的人格，让阿奇在那之后日日陪伴着她。 奥丁知道这一切，带着黛利拉去治疗，但始终没有效果。"}
+385:{"part": "word/document.xml", "paragraph": 385, "style": "11", "text": "奥丁只能当着黛利拉的面说阿奇不好，不允许他们在一起。"}
+386:{"part": "word/document.xml", "paragraph": 386, "style": "11", "text": "黛利拉只以为奥丁是不喜欢阿奇，其实奥丁是不想让黛利拉病情加重。"}
+399:{"part": "word/document.xml", "paragraph": 399, "style": "11", "text": "人物关系与互动原则："}
+400:{"part": "word/document.xml", "paragraph": 400, "style": "11", "text": "与黛利拉是爱人，可以跟她说悄悄话，但是不要太多!阿奇在第一幕  和第二幕出场以后，主要作用为活跃气氛!可以跟羌青瓷、奥丁一起开玩笑， 一起吃别人的瓜， 一起把场子活跃起来，千万不要只跟小黛一直说话!"}
+401:{"part": "word/document.xml", "paragraph": 401, "style": "11", "text": "与程聿怀似君臣，似战友，似朋友，全场不需要跟程聿怀有一点互动! 尤其是女程聿怀，阿奇千万要注意不能让黛利拉吃醋！"}
+402:{"part": "word/document.xml", "paragraph": 402, "style": "11", "text": "阿奇互动注意事项：【*****重要!*****】"}
+403:{"part": "word/document.xml", "paragraph": 403, "style": "11", "text": "第五幕的文本结束于2005年，但阿真正的阿奇死于2003年!"}
+404:{"part": "word/document.xml", "paragraph": 404, "style": "11", "text": "所以，在第五幕后，所有出现的阿奇全部都是黛利拉幻想出来的假阿奇，只 能在小黑屋互动，不能当着其他玩家跟黛利拉互动!"}
+405:{"part": "word/document.xml", "paragraph": 405, "style": "11", "text": "阿奇在场上不需要跟程聿怀互动!程聿怀在场上的身份就是程聿怀本 人 ，TA 要隐藏“延迟”的身份，因此按理来说，记者身份的程聿怀和阿奇是 绝对不会认识的!"}
+406:{"part": "word/document.xml", "paragraph": 406, "style": "11", "text": "所以，绝对不要跟程聿怀互动!不要让黛利拉吃醋!"}
+408:{"part": "word/document.xml", "paragraph": 408, "style": "11", "text": "前期只能宣传羌青瓷和程聿怀为“纯恨情侣”,羌青瓷为“恨陪”,千万不能 剧透他们两个是纯爱，会影响反转的惊喜程度。"}
+485:{"part": "word/document.xml", "paragraph": 485, "style": "11", "text": "(如果玩家的回答是，体验过，且喜欢。那么分角可以考虑程走柳，因为程走柳 这个剧本中的联动是最多的，特别是在第五幕的小黑屋环节。)"}
+598:{"part": "word/document.xml", "paragraph": 598, "style": "11", "text": "奥丁： “在正式开始之前，我要最后再嘱咐几句，请大家一定要认真 听，这非常重要!”"}
+607:{"part": "word/document.xml", "paragraph": 607, "style": "11", "text": "奥丁退场。"}
+621:{"part": "word/document.xml", "paragraph": 621, "style": "11", "text": "(停顿，等一下回答，简略进行互动) (如果回答是遗照，话术如下】"}
+630:{"part": "word/document.xml", "paragraph": 630, "style": "11", "text": "奥丁站在幕后，不出人，只出声音。"}
+631:{"part": "word/document.xml", "paragraph": 631, "style": "11", "text": "奥丁：“嘿，抱歉，打断一下你们的电台直播，先别管什么纪念典礼 了，说个更重要的事。”"}
+650:{"part": "word/document.xml", "paragraph": 650, "style": "11", "text": "切第一幕读本音乐"}
+653:{"part": "word/document.xml", "paragraph": 653, "style": "11", "text": "第一幕"}
+663:{"part": "word/document.xml", "paragraph": 663, "style": "11", "text": "斧子【奥丁携带1一把弹簧刀【奥丁携带)、耳机【奥丁携带】"}
+668:{"part": "word/document.xml", "paragraph": 668, "style": "11", "text": "第一幕个人线索卡共6张【第一幕-个人线索1-6】;蒋伯驾老派约会卡 第一张【蒋伯驾老派约会卡-第一幕-第一个路口】;布雷诺背景相关资料【6份 A4】"}
+671:{"part": "word/document.xml", "paragraph": 671, "style": "11", "text": "羌青瓷 ："}
+672:{"part": "word/document.xml", "paragraph": 672, "style": "11", "text": "这一幕开始，羌青瓷和奥丁会有两个阵营发生适当冲突的感觉的，但是羌"}
+673:{"part": "word/document.xml", "paragraph": 673, "style": "11", "text": "青瓷千万不能一直跟奥丁拉对立，一定要把冲突平下去。"}
+674:{"part": "word/document.xml", "paragraph": 674, "style": "11", "text": "羌青瓷是抱着好奇心去听他们这些人的信息，去奥丁、以撒、黛利拉全部介绍完 之后，羌青瓷要开始慢慢帮忙打圆场，要尽力让对立感平下来。"}
+675:{"part": "word/document.xml", "paragraph": 675, "style": "11", "text": "各位羌青瓷要使用儿童心理学，“哄”着奥丁不要再闹事了。"}
+676:{"part": "word/document.xml", "paragraph": 676, "style": "11", "text": "并在分享完信息后，强调这都是一场误会，我们不打不相识，更好地认识了彼此。 尤 其 是 男 羌 青 瓷 ，和奥丁之间更容易起对立关系，所以男羌青瓷更要避免这 点。男羌青瓷需要要更幽默，更圆滑，对奥丁可以开玩笑，但注意要适度。"}
+677:{"part": "word/document.xml", "paragraph": 677, "style": "11", "text": "羌青瓷需要时刻谨记自 己 是 主D,  是金狮医院的院长，是风暴最中心的 人，在这一幕，是要搞清楚来闹事的人究竟是谁的。羌青瓷哪怕和程聿怀有恋爱 关系，但一定不能和程聿怀一直在说悄悄话。在这一幕，羌青瓷跟六个人都要有 互动的，看完所有人本之后，听到别的玩家说话，要尽力接话、开玩笑，把气氛 搞得热闹起来。羌青瓷一定要接玩家的话、奥丁和阿奇的话。"}
+678:{"part": "word/document.xml", "paragraph": 678, "style": "11", "text": "羌青瓷在这一幕语气一定要是很明显的“开玩笑”,虽然说“我们高等文 明”这些高高在上的话，但一定要让大家听出来是玩笑话!羌青瓷的台词本身是"}
+681:{"part": "word/document.xml", "paragraph": 681, "style": "11", "text": "主要负责搞笑，跟羌青瓷一样，千万不能一直煽动对立，而是很幽默地去 调侃羌青瓷和四个东国人，然后把误会平息下去。"}
+682:{"part": "word/document.xml", "paragraph": 682, "style": "11", "text": "奥丁也是一样的，作为副D,   除了跟黛利拉和以撒，一定跟其他四个人拉 羁绊、说话，奥丁最后是打所有人的，所以前期必须都要照顾到。"}
+683:{"part": "word/document.xml", "paragraph": 683, "style": "11", "text": "尤其是跟蒋伯驾，奥丁这一幕说他是1995年建电台的人时，一定不能刻薄、指 责、质疑，而是给蒋伯驾气口去解释为什么要那样做，然后在他解释完之后，要 表现出来还算相信的感觉，稍微平息下去和蒋伯驾的冲突。"}
+685:{"part": "word/document.xml", "paragraph": 685, "style": "11", "text": "在这一幕，除了跟黛利拉说话，还是要跟奥丁、羌青瓷接话，一起把这一幕气氛 带起来，在其他两个dm 和其他玩家说话的时候，阿奇带着黛利拉去听，打趣别"}
+687:{"part": "word/document.xml", "paragraph": 687, "style": "11", "text": "阿奇在场上不需要、也不可以跟程聿怀互动。"}
+690:{"part": "word/document.xml", "paragraph": 690, "style": "11", "text": "读本期间，玩家程聿怀和玩家黛利拉都会出门互动，分别找羌青瓷和 阿奇。"}
+691:{"part": "word/document.xml", "paragraph": 691, "style": "11", "text": "【阿奇和黛利拉具体互动内容，地可以见阿奇互动手册【互动1】。"}
+692:{"part": "word/document.xml", "paragraph": 692, "style": "11", "text": "黛利拉看人物A 本第一幕的中途，会出来见阿奇。"}
+694:{"part": "word/document.xml", "paragraph": 694, "style": "11", "text": "互动1"}
+695:{"part": "word/document.xml", "paragraph": 695, "style": "11", "text": "(第一幕看本中途：私聊)"}
+698:{"part": "word/document.xml", "paragraph": 698, "style": "11", "text": "【此演绎见售后资料：第一幕黛利拉阿奇私聊】"}
+699:{"part": "word/document.xml", "paragraph": 699, "style": "11", "text": "互动前准备："}
+702:{"part": "word/document.xml", "paragraph": 702, "style": "11", "text": "阿奇的第二张，贴在沿途比较明显的地方；阿奇的第三张留言， 贴在阿奇和黛利拉私聊的房间门上。"}
+710:{"part": "word/document.xml", "paragraph": 710, "style": "11", "text": "私聊房间BGM  循环播放："}
+750:{"part": "word/document.xml", "paragraph": 750, "style": "11", "text": "【程聿怀和羌青瓷的互动内容】"}
+751:{"part": "word/document.xml", "paragraph": 751, "style": "11", "text": "【此演绎见售后资料：第一幕程聿怀羌青瓷私聊】"}
+752:{"part": "word/document.xml", "paragraph": 752, "style": "11", "text": "程聿怀看完人物A 本第一幕，会出来见羌青瓷进行第一次的私聊互 动——"}
+753:{"part": "word/document.xml", "paragraph": 753, "style": "11", "text": "羌青瓷和程聿怀互动1 (第一幕看完本：私聊)"}
+754:{"part": "word/document.xml", "paragraph": 754, "style": "11", "text": "互动前准备："}
+756:{"part": "word/document.xml", "paragraph": 756, "style": "11", "text": "羌青瓷里面穿一件绿色裙子(男羌西装或者衬衫),外面穿一件 白大褂，把扣子扣上，先不要漏出里面的裙子或者西装/衬衫"}
+757:{"part": "word/document.xml", "paragraph": 757, "style": "11", "text": "私聊房间BGM  循环播放： 《巴赫G 弦上的咏叹调》"}
+758:{"part": "word/document.xml", "paragraph": 758, "style": "11", "text": "羌青瓷坐在桌前等着程聿怀"}
+760:{"part": "word/document.xml", "paragraph": 760, "style": "11", "text": "羌青瓷轻笑一下说：“聿，今天过来一定是庆贺我开业的吧，我为你 倒了两杯酒，你喝哪一杯呢?”"}
+762:{"part": "word/document.xml", "paragraph": 762, "style": "11", "text": "羌青瓷笑： “亲爱的，喝完这杯酒，希望我们一会能在他们面前好好 演一对恩爱情侣。”"}
+763:{"part": "word/document.xml", "paragraph": 763, "style": "11", "text": "(羌青瓷把自己杯子里一半的酒倒进程聿怀的杯子里，看着对方笑) 羌青瓷：“聿，庆贺我开业，是不是应该拿出一点诚意呢?”"}
+764:{"part": "word/document.xml", "paragraph": 764, "style": "11", "text": "(羌青瓷笑着看程聿怀，不管程聿怀是否打算要喝，羌青瓷都拿起那 一个酒比较多的， 一饮而尽。)"}
+770:{"part": "word/document.xml", "paragraph": 770, "style": "11", "text": "羌青瓷： “别急啊聿，我说的是，我们。分开回去怎么像夫妻呢?是 你挽着我，还是我挽着你?”"}
+771:{"part": "word/document.xml", "paragraph": 771, "style": "11", "text": "羌青瓷带着程聿怀一起回去，DM 可以酌情有肢体互动，和程聿怀挽着。"}
+772:{"part": "word/document.xml", "paragraph": 772, "style": "11", "text": "羌青瓷坐在程聿怀身旁，回去后，如果其他玩家没看完，可以稍 稍互动一下。"}
+773:{"part": "word/document.xml", "paragraph": 773, "style": "11", "text": "比如有人看向你们时，羌青瓷可以拉住程聿怀，仿佛在宣誓主权， 也可以自然的为对方倒杯水。"}
+775:{"part": "word/document.xml", "paragraph": 775, "style": "11", "text": "切第一幕流程音乐切BGM:《Kevin Beak'n》Michael Giacchino"}
+776:{"part": "word/document.xml", "paragraph": 776, "style": "11", "text": "羌青瓷：“各位，今天是金狮医院的开业典礼，我是金狮医院的院长 羌青瓷，你们也可以叫我瑞法 ·莱诺。"}
+780:{"part": "word/document.xml", "paragraph": 780, "style": "11", "text": "羌青瓷：“两位看起来，很硬气的样子。果然，布雷诺的人和我们这 些来自其他国家的人，确实是不太一样。"}
+785:{"part": "word/document.xml", "paragraph": 785, "style": "11", "text": "引导其他四名玩家配合羌青瓷审讯黛利拉和以撒。 比如问黛利拉和以撒："}
+791:{"part": "word/document.xml", "paragraph": 791, "style": "11", "text": "羌青瓷(说话时保持温柔、优雅但又犀利的状态): “行了，嘴里听 着就没一句实话，今天这事解决不了，你们谁也走不了。 ”"}
+793:{"part": "word/document.xml", "paragraph": 793, "style": "11", "text": "此时奥丁戴着耳机，一手拿着弹簧刀，背对玩家，站在演绎帘子后。"}
+795:{"part": "word/document.xml", "paragraph": 795, "style": "11", "text": "切奥丁出场音乐"}
+799:{"part": "word/document.xml", "paragraph": 799, "style": "11", "text": "奥丁在灯光下背对众人尬舞"}
+801:{"part": "word/document.xml", "paragraph": 801, "style": "11", "text": "【此处视频见售后资料：奥丁出场】"}
+802:{"part": "word/document.xml", "paragraph": 802, "style": "11", "text": "(羌青瓷要有一个小动作，就是把程聿怀往自己身后护一下)"}
+803:{"part": "word/document.xml", "paragraph": 803, "style": "11", "text": "把音乐切换成第一幕正常的BGM"}
+804:{"part": "word/document.xml", "paragraph": 804, "style": "11", "text": "切第一幕流程音乐"}
+805:{"part": "word/document.xml", "paragraph": 805, "style": "11", "text": "奥丁： “嘿，你们就是这么招待客人的?!黛利拉，以撒，快过来， 坐在布雷诺人该坐的位置上!”"}
+808:{"part": "word/document.xml", "paragraph": 808, "style": "11", "text": "奥丁： “不好意思各位，狂草帮老大奥丁，来接我的人回家!”"}
+810:{"part": "word/document.xml", "paragraph": 810, "style": "11", "text": "奥丁： “黛利拉，以撒，怎么样，刚才我帅不帅?”"}
+812:{"part": "word/document.xml", "paragraph": 812, "style": "11", "text": "奥丁： “你们干什么的，凭什么把我的人绑起来? ”"}
+813:{"part": "word/document.xml", "paragraph": 813, "style": "11", "text": "羌青瓷看着奥丁，还是笑得意味深长，但摆出一副院长的姿态，想要 把这件事查到水落石出的感觉。"}
+815:{"part": "word/document.xml", "paragraph": 815, "style": "11", "text": "奥丁(被戳穿的心虚):“……额，瞎说!其实我们都是延迟的人， 他让我们来的，别冤枉好人! (快速看一眼大家，开始吹嘘延迟，试 图把仇恨拉他身上)一看你们这些外国人就不知道延迟吧?我就好心 给你们科普一下!”"}
+817:{"part": "word/document.xml", "paragraph": 817, "style": "11", "text": "奥丁： “在布雷诺，生活着“两个种族”,以撒、黛利拉，给他们科 普一下，是哪两个种族?”"}
+818:{"part": "word/document.xml", "paragraph": 818, "style": "11", "text": "【和玩家互动，让玩家自己来介绍，是布雷诺和诺族】"}
+820:{"part": "word/document.xml", "paragraph": 820, "style": "11", "text": "奥丁： “没错，分别是“布雷族”和 “诺族”,合起来就是布雷诺! 好记吧?”"}
+825:{"part": "word/document.xml", "paragraph": 825, "style": "11", "text": "奥丁： “怎么样，我们就是他派来的，有本事，找他麻烦去!”"}
+826:{"part": "word/document.xml", "paragraph": 826, "style": "11", "text": "羌青瓷看着奥丁，心知肚明的模样： “是么?”"}
+827:{"part": "word/document.xml", "paragraph": 827, "style": "11", "text": "奥丁(心虚转移话题，指着众人问):“当然是了!不对啊，和你们絮 叨这么久了，你们都谁啊?”"}
+828:{"part": "word/document.xml", "paragraph": 828, "style": "11", "text": "羌青瓷(饶有兴致): “真是有意思，搞破坏的竟然让受害者先介绍。  行吧，各位，我们配合一下这位‘大舞蹈家’先生，先介绍一下吧。”"}
+829:{"part": "word/document.xml", "paragraph": 829, "style": "11", "text": "羌青瓷： “理论上来说，作为院长应该我先来，但对我来说，今天有 一位比我更值得第一个介绍自己的。”"}
+830:{"part": "word/document.xml", "paragraph": 830, "style": "11", "text": "羌青瓷看向程聿怀，假装很恩爱的样子，温柔笑着： “聿，你先来吧 ~介绍一下，告诉他们你的名字和职业~”"}
+832:{"part": "word/document.xml", "paragraph": 832, "style": "11", "text": "【如果程聿怀没介绍跟羌青瓷的关系】"}
+833:{"part": "word/document.xml", "paragraph": 833, "style": "11", "text": "羌青瓷带着点挑逗和不满的对程聿怀说： “聿，为什么不告诉大家， 我是你的夫人/丈夫，你是觉得我拿不出手吗? ”"}
+834:{"part": "word/document.xml", "paragraph": 834, "style": "11", "text": "羌青瓷假装委屈，然后转向众人，介绍自己。"}
+836:{"part": "word/document.xml", "paragraph": 836, "style": "11", "text": "羌青瓷：“我叫羌青瓷，是个心理医生，大家也可以叫我程夫人。 ( 男"}
+837:{"part": "word/document.xml", "paragraph": 837, "style": "11", "text": "羌：我叫羌青瓷，是个心理医生，大家不介意的话，也可以叫我程先 生，反正我是不介意了~) ”"}
+839:{"part": "word/document.xml", "paragraph": 839, "style": "11", "text": "“前面也和大家介绍了我的另一个名字，“瑞法 ·莱诺”, 而 我 的 家 族就是莱诺家族。 (看向奥丁)这位大舞蹈家先生可听说过?”"}
+840:{"part": "word/document.xml", "paragraph": 840, "style": "11", "text": "奥丁无语： “什么什么家族?没听说过!”"}
+841:{"part": "word/document.xml", "paragraph": 841, "style": "11", "text": "羌青瓷笑： “那你可真是孤陋寡闻了~”"}
+842:{"part": "word/document.xml", "paragraph": 842, "style": "11", "text": "羌青瓷： “好了，那接下来，就由这一位走柳记者来自我介绍吧。”"}
+845:{"part": "word/document.xml", "paragraph": 845, "style": "11", "text": "羌青瓷对程走柳： “走柳，不好意思啊，我跟你哥哥/你姐姐，结婚 比较急，没来得及跟你说。等之后，咱们一家人吃个饭，再好好给你 道个歉。”"}
+847:{"part": "word/document.xml", "paragraph": 847, "style": "11", "text": "羌青瓷对程走柳： “那走柳记者，你和我老公/夫人都姓程，都是记 者，我看你们，还长得也很像，你们之间有什么关系啊?”"}
+849:{"part": "word/document.xml", "paragraph": 849, "style": "11", "text": "羌青瓷对程聿怀说：“那老公/夫人，我们结婚的事情，你之前有告诉 妹妹吗?”"}
+851:{"part": "word/document.xml", "paragraph": 851, "style": "11", "text": "羌青瓷打圆场，做结束：“走柳不好意思啊，应该是我跟你哥哥/你姐 姐，结婚的比较急，没来得及跟你说。等之后，咱们一家人吃个饭， 再好好给你道个歉~”"}
+853:{"part": "word/document.xml", "paragraph": 853, "style": "11", "text": "羌青瓷：“我刚刚看，走柳妹妹在介绍的时候， 一旁蒋先生的神色，  一直不太自然啊。蒋先生，不如下一个，就你来介绍一下自己吧。”"}
+857:{"part": "word/document.xml", "paragraph": 857, "style": "11", "text": "羌青瓷要点出来：“蒋先生呢，来自“东国缪家”。缪家呢，是一个“资 产十分雄厚”的家族，一直在做“医疗器械”。所以金狮医院，便是 我们莱诺家族和缪家一起出资建设的。因此啊，蒋先生，是我们金狮 医院的“投资人”。”(主要就是要表现缪家有钱!!!)"}
+859:{"part": "word/document.xml", "paragraph": 859, "style": "11", "text": "【等玩家蒋伯驾的回应，羌青瓷需要总结补充】"}
+860:{"part": "word/document.xml", "paragraph": 860, "style": "11", "text": "羌青瓷：“这事我也是知道的，当时是我们莱诺家族提出的建设想法。 被派来负责电台的人就是蒋先生，说起来，我和蒋先生就是那时认识  的呢。”"}
+861:{"part": "word/document.xml", "paragraph": 861, "style": "11", "text": "奥丁不爽： “这就是我讨厌你们这些外乡人的原因!说是为我们建设 电台，最后建设好，你们转身走了。因为这个电台的归属权，布雷族"}
+863:{"part": "word/document.xml", "paragraph": 863, "style": "11", "text": "羌青瓷(哄一哄奥丁): “奥丁先生，我们的出发点都是好的~而且这 一次，金狮医院是为你们布雷诺人民提供医疗方面服务的~相信我， 这对你们来说， 一定是一件好事!”"}
+866:{"part": "word/document.xml", "paragraph": 866, "style": "11", "text": "如果蒋没看见，羌青瓷可以提醒： “蒋先生，你电话好像响了，你可 以先接。”"}
+873:{"part": "word/document.xml", "paragraph": 873, "style": "11", "text": "挂了电话，奥丁问一句：“谁给你打的电话啊，神神秘秘的。” 羌青瓷揶揄一句：“不会是哪个女生吧，蒋先生?”"}
+874:{"part": "word/document.xml", "paragraph": 874, "style": "11", "text": "这里根据玩家反应，随机互动两句，就继续流程!"}
+875:{"part": "word/document.xml", "paragraph": 875, "style": "11", "text": "羌青瓷： “好了，说到缪家人，我们现场还有一位呢。来，缪医生， 该你了。”"}
+878:{"part": "word/document.xml", "paragraph": 878, "style": "11", "text": "羌青瓷： “我听说，我们缪副院长在医学院时，可是同时攻读了外科 和眼科，真的是非常专业且优秀的医生呢。”"}
+879:{"part": "word/document.xml", "paragraph": 879, "style": "11", "text": "奥丁：“确实确实，那医生有男朋友吗?我一进来就看见我们家小以 撒的眼睛一直在你身上，作为老大，我替他问问!”"}
+881:{"part": "word/document.xml", "paragraph": 881, "style": "11", "text": "羌青瓷：“我们都已经介绍完毕，(看向奥丁)舞蹈家先生，总不能只 有我们介绍吧?”"}
+882:{"part": "word/document.xml", "paragraph": 882, "style": "11", "text": "奥丁：“黛利拉，以撒，让他们认识认识你们。(小声的对以撒和黛利 拉说)介绍的帅一点，黛利拉你先来。”"}
+884:{"part": "word/document.xml", "paragraph": 884, "style": "11", "text": "介绍完，奥丁骄傲的说： “黛利拉可是我们狂草帮最厉害的杀手!别 看她个子小， 一个能打二十个，就只有一个坏毛病，(看向黛利拉，"}
+886:{"part": "word/document.xml", "paragraph": 886, "style": "11", "text": "羌青瓷：“等等，你刚刚不是说自己是延迟的手下吗?你们又说的这 狂草帮，是什么?”"}
+887:{"part": "word/document.xml", "paragraph": 887, "style": "11", "text": "奥丁：“嗯……你不管!至于狂草帮，你们这些外国人都听好了!真 正的布雷诺人，只在狂草帮出没!知道为什么吗?因为狂草帮是唯一 一个在布雷诺这片土地上，没有种族冲突的地方。布雷族人和诺族人 在帮派里，都是可以和平相处的，帮里的每个人都是彼此的家人。”"}
+888:{"part": "word/document.xml", "paragraph": 888, "style": "11", "text": "(看向羌青瓷)"}
+891:{"part": "word/document.xml", "paragraph": 891, "style": "11", "text": "奥丁说：“好了，小以撒，该你了。”"}
+893:{"part": "word/document.xml", "paragraph": 893, "style": "11", "text": "介绍完，羌青瓷问：“我之前听一些本地人说，以撒，你好像有一个 特别的病症，叫狂笑症，对吧?这是什么病啊? ”"}
+895:{"part": "word/document.xml", "paragraph": 895, "style": "11", "text": "等说完，奥丁要接过话： “谁说这是病?我们小以撒，才没有病呢。”"}
+896:{"part": "word/document.xml", "paragraph": 896, "style": "11", "text": "奥丁看向以撒，很骄傲"}
+897:{"part": "word/document.xml", "paragraph": 897, "style": "11", "text": "奥丁笑着：“我们以撒，是整个布雷诺最有幽默细胞的人!我讲的每 个笑话，以撒也都是最捧场的!”"}
+901:{"part": "word/document.xml", "paragraph": 901, "style": "11", "text": "奥丁看一眼没有笑的人，嫌弃地说：“只有以撒懂我，你们这些外乡 人，确实没有什么幽默细胞，真可怜!”"}
+902:{"part": "word/document.xml", "paragraph": 902, "style": "11", "text": "【下面轮到奥丁自我介绍环节】"}
+903:{"part": "word/document.xml", "paragraph": 903, "style": "11", "text": "奥丁：“好了，我还没介绍自己是吧!那你们都听好了哈!"}
+904:{"part": "word/document.xml", "paragraph": 904, "style": "11", "text": "我!奥丁!在黛利拉没有篡位成功之前，现在是狂草帮的老大，布雷 诺最纯正的硬汉!"}
+906:{"part": "word/document.xml", "paragraph": 906, "style": "11", "text": "奥丁：“所以，羌青瓷，(此时突然正经一点，看向羌青瓷)你们说是"}
+907:{"part": "word/document.xml", "paragraph": 907, "style": "11", "text": "来建设医院，但实际上，到底为什么要来布雷诺呢?” 羌青瓷：“说到这里，那就必须好好给你们讲一讲了。”"}
+908:{"part": "word/document.xml", "paragraph": 908, "style": "11", "text": "羌青瓷此时站起身，站在DM  的位置，轻轻把奥丁推开。 昂首挺胸，很优雅的样子"}
+910:{"part": "word/document.xml", "paragraph": 910, "style": "11", "text": "羌青瓷：“首先，我作为一位心理医生，哪怕在布雷诺这片不见人烟 的地方，也致力于传播爱与和平!就像我胸前佩戴的这枚孤挺花一样， 我也想要在遍地荒芜与废墟之中种植出这样炙热而又赤忱的希望。"}
+914:{"part": "word/document.xml", "paragraph": 914, "style": "11", "text": "奥丁回到自己的位置， 一边对着黛利拉和以撒不解地说：“我的天， 她好上价值啊!(再看向羌青瓷)而且，你说话就说话，为什么要站 起来?我已经离你够远了，你站起来还要推我一把?”"}
+915:{"part": "word/document.xml", "paragraph": 915, "style": "11", "text": "羌青瓷保持优雅的微笑就行，不用回答。"}
+916:{"part": "word/document.xml", "paragraph": 916, "style": "11", "text": "奥丁继续说：“不过你老说布雷诺这么乱，那你们来这里，就不怕遇 到什么危险?”"}
+917:{"part": "word/document.xml", "paragraph": 917, "style": "11", "text": "羌青瓷开始诱哄：“我们这些外乡人来到这里，自然是会有些担忧的。 但是奥丁，按你说的，你们狂草帮这么正义，这么厉害， 一定不会让  我们遇到危险的，对吧?”"}
+918:{"part": "word/document.xml", "paragraph": 918, "style": "11", "text": "奥丁(骄傲): “那必须，以后有问题，就找狂草帮!”"}
+921:{"part": "word/document.xml", "paragraph": 921, "style": "11", "text": "羌青瓷：“好了，奥丁，这不重要。我觉得我们的矛盾都出于我们彼 此不了解，我知道你们没说实话，你们也不相信我们，那不如找个不 舞刀弄枪又能互相了解的方法把事情解决了吧。我想，你们狂草帮一 定是非常讲道理的，对吧?”"}
+922:{"part": "word/document.xml", "paragraph": 922, "style": "11", "text": "奥丁：“这话我爱听，这算是你今天说的第一句好听的话!我告诉你， 我们狂草帮有的是方法，你等着!”"}
+924:{"part": "word/document.xml", "paragraph": 924, "style": "11", "text": "奥丁拿的过程中，羌青瓷对大家说：“没想到你们老大是个这么好说 话的人啊。”"}
+925:{"part": "word/document.xml", "paragraph": 925, "style": "11", "text": "奥丁拿完东西回来：“我，布雷诺最纯正的硬汉，当然有的是办法， 今天我们来玩一场：流氓决斗!”"}
+928:{"part": "word/document.xml", "paragraph": 928, "style": "11", "text": "奥丁接着炫耀： “这可是我女朋友温蒂教我玩的游戏!”"}
+929:{"part": "word/document.xml", "paragraph": 929, "style": "11", "text": "羌青瓷：“等一下，你 … … 有女朋友?”"}
+931:{"part": "word/document.xml", "paragraph": 931, "style": "11", "text": "羌青瓷无语：“额，那可是真可惜啊，你还是赶紧说说这个怎么玩吧。”"}
+932:{"part": "word/document.xml", "paragraph": 932, "style": "11", "text": "【如果在聊到温蒂时，有玩家接话，奥丁可以告诉黛利拉和以撒，你 和温蒂在一起很久了，但是她太忙了，有机会总会见面的。】"}
+934:{"part": "word/document.xml", "paragraph": 934, "style": "11", "text": "奥丁：“很简单哈。流氓决斗，就是把命运交到别人手上的一场游戏。 我这里有把枪，枪膛里有根针，针可能会在任意一次出现，我们把气  球放在上面，谁开枪打爆了气球，谁就是失败者，需要接受处罚。开 枪顺序是，我们几个人交叉顺序开枪，谁打爆了，就安装新的气球， 继续进行下一轮，在下一轮失败者轮流对另外三组开枪，打到了谁谁 就是新的失败者，最后两组互相开枪，谁打到了对面谁就是失败者， 而最后一组，只需要对自己开三枪，如果没有打到自己，就可以免受"}
+936:{"part": "word/document.xml", "paragraph": 936, "style": "11", "text": "羌青瓷：“奥丁，虽然我很不想打击你，但是，这个游戏的分享部分 在哪呢?我们不是说要让大家彼此了解一下吗?”"}
+937:{"part": "word/document.xml", "paragraph": 937, "style": "11", "text": "奥丁做一些小动作掩饰尴尬： “哈哈，是吗?”"}
+938:{"part": "word/document.xml", "paragraph": 938, "style": "11", "text": "羌青瓷(扶额头):“行了奥丁，再加个我的游戏吧，两人彼此背靠着 背，在各自的题板上面回答同一个问题，回答完后同时揭露答案。两 个人不需要刻意去迎合对方，按照自己真实答案回复即可，这不是一 种默契测试，而是挖掘人内心的心理测试。”"}
+941:{"part": "word/document.xml", "paragraph": 941, "style": "11", "text": "奥丁无语：“你把你们夫妻小游戏拿出来给我们玩是吧!”"}
+942:{"part": "word/document.xml", "paragraph": 942, "style": "11", "text": "羌青瓷：“怎么能这么说呢奥丁，我是大方的拿出来和大家分享。” 奥丁：“行，你说你有理!那竟然了解嘛，就透彻一点，我最爱吃瓜 了!那也别我们狂草帮和你们分开了，干脆就两人一队。(指着羌青"}
+944:{"part": "word/document.xml", "paragraph": 944, "style": "11", "text": "【如果前面没有说彼此是前任，奥丁就加一句:“你两这态度，一看"}
+956:{"part": "word/document.xml", "paragraph": 956, "style": "11", "text": "黛利拉回答，奥丁在旁边， 一定要狂翻白眼。"}
+957:{"part": "word/document.xml", "paragraph": 957, "style": "11", "text": "羌青瓷：“奥丁，这个又是?你不介绍一下吗?”"}
+958:{"part": "word/document.xml", "paragraph": 958, "style": "11", "text": "奥丁：“一个勾搭黛利拉的臭小子，我才不要介绍他。”"}
+959:{"part": "word/document.xml", "paragraph": 959, "style": "11", "text": "阿奇：“奥丁，你今天没有吃饭吗，对我恶意这么大? (谐音梗：“饿 意”,小小玩一个梗，然后转头温柔的对黛利拉说)小黛，不介绍一 下我吗?”"}
+962:{"part": "word/document.xml", "paragraph": 962, "style": "11", "text": "奥丁一脸受不了的样子：“把音乐给我关掉!把灯给我打开!”"}
+966:{"part": "word/document.xml", "paragraph": 966, "style": "11", "text": "奥丁看一眼黛利拉，无奈道：“行行行，黛利拉跟这小子一组，真是 的，温蒂要是在就好了。那今天我当裁判行了吧，我很生气，谁输了 我问死谁!别废话了，开始吧，羌青瓷你们组来第一个，决定下一组 需要开的枪数量了。”"}
+969:{"part": "word/document.xml", "paragraph": 969, "style": "11", "text": "因为无法确定上场顺序，都是随机的，所以在这里奥丁、羌青瓷、阿 奇三个人根据场上情况，随机互动就可以。"}
+971:{"part": "word/document.xml", "paragraph": 971, "style": "11", "text": "奥丁、羌青瓷、阿奇，随机问，不要让任何一个npc 在场上冷场!"}
+975:{"part": "word/document.xml", "paragraph": 975, "style": "11", "text": "第一：【轮流开枪的环节，阿奇和黛利拉有个特殊互动】"}
+978:{"part": "word/document.xml", "paragraph": 978, "style": "11", "text": "羌青瓷看到这里要看向程聿怀说：“聿，你不会对我开枪的对吧。”"}
+981:{"part": "word/document.xml", "paragraph": 981, "style": "11", "text": "开枪爆气球的那一对，上台做心理测试时，奥丁话术：“来，咱们上 台，背对背站好哈。只需要针对我们的问题进行回答，写在自己的白 板上，不可以交流!”"}
+982:{"part": "word/document.xml", "paragraph": 982, "style": "11", "text": "奥丁和羌青瓷、阿奇开始问，就同时写下答案。"}
+984:{"part": "word/document.xml", "paragraph": 984, "style": "11", "text": "奥丁看一眼两人写的答案，引导分享话术：“哟，你们这回答的相差 挺大啊/看起来两个人有挺多故事啊?”"}
+986:{"part": "word/document.xml", "paragraph": 986, "style": "11", "text": "奥丁：“那我们一起说出这个问题的答案!”"}
+987:{"part": "word/document.xml", "paragraph": 987, "style": "11", "text": "奥丁：“不如说说呢，为什么是这个答案?”(引导分享爱情)"}
+988:{"part": "word/document.xml", "paragraph": 988, "style": "11", "text": "测试结束后，奥丁会针对每一对，再问对应的个人线索卡进行八卦【个一人一张】人线索卡6张，"}
+991:{"part": "word/document.xml", "paragraph": 991, "style": "11", "text": "程聿怀和羌青瓷输了后的问题："}
+992:{"part": "word/document.xml", "paragraph": 992, "style": "11", "text": "奥丁问：你们初见是在哪里?(羌青瓷需要写：大学/校园)"}
+993:{"part": "word/document.xml", "paragraph": 993, "style": "11", "text": "阿奇让小黛问：你们认识多少年了?(羌青瓷需要写：十年)"}
+995:{"part": "word/document.xml", "paragraph": 995, "style": "11", "text": "奥丁：“我想，程记者作为妹妹肯定也有想问的问题吧，那就多给你 一个提问的机会!”"}
+997:{"part": "word/document.xml", "paragraph": 997, "style": "11", "text": "不管程聿怀如何，羌青瓷一定要写初见是：大学时期，认识10年了。"}
+998:{"part": "word/document.xml", "paragraph": 998, "style": "11", "text": "羌青瓷分享的话术是： “之前和大家说过，我和聿呢，是大学时期的  校友，算一算，时间过得真快，我们都认识10年了。是吧，聿?”"}
+999:{"part": "word/document.xml", "paragraph": 999, "style": "11", "text": "羌青瓷一定要让程聿怀觉得，两个人在合伙骗大家，所以在堂而皇之 的合谋撒谎。"}
+1001:{"part": "word/document.xml", "paragraph": 1001, "style": "11", "text": "测试结束，奥丁拿出【程聿怀第一幕个人线索】,八卦的语气。 奥丁：“好，答案不一样是吧，那得接受惩罚。”"}
+1002:{"part": "word/document.xml", "paragraph": 1002, "style": "11", "text": "念完线索卡后，奥丁立马八卦"}
+1003:{"part": "word/document.xml", "paragraph": 1003, "style": "11", "text": "奥丁：“许多人猜测，程聿怀脸上的青花瓷纹面和羌青瓷有关。看来， 对羌青瓷用情至深啊。哟，这是真爱啊!名字都纹脸上了!”"}
+1005:{"part": "word/document.xml", "paragraph": 1005, "style": "11", "text": "羌青瓷和程聿怀结束坐回位置后，羌青瓷要假装在程聿怀耳边低语秀 恩 爱。"}
+1009:{"part": "word/document.xml", "paragraph": 1009, "style": "11", "text": "奥丁问：第一次见到对方的场景?"}
+1013:{"part": "word/document.xml", "paragraph": 1013, "style": "11", "text": "【奥丁需要在这里引导以撒说出缪当年认识以撒，还答应花开的时候 会回来】"}
+1016:{"part": "word/document.xml", "paragraph": 1016, "style": "11", "text": "【拿出第一幕以撒个人线索】"}
+1017:{"part": "word/document.xml", "paragraph": 1017, "style": "11", "text": "念完线索卡后，奥丁： “这蛇我肯定是知道的哈，想笑就笑嘛，迷你 可爱小蛇~也就才两米多吧，是吧小以撒!你们肯定没见过这个是吧 \t(看着缪说这句话引导她说她见过)医生竟然见过!那你肯定不知道 这是谁送的，这是以撒的妹妹撒该送的，撒该你们总没见过吧? ( 引 导缪和程走柳说过自己见过撒该)这你们都见过?行吧，撒该可是我 们布雷诺最可爱的小女孩，黛利拉是最可爱的女孩。(大概了解一下"}
+1019:{"part": "word/document.xml", "paragraph": 1019, "style": "11", "text": "等以撒分享完，奥丁： “那我们再来看看缪医生的。”"}
+1020:{"part": "word/document.xml", "paragraph": 1020, "style": "11", "text": "【拿出第一幕缪宏谟个人线索】"}
+1021:{"part": "word/document.xml", "paragraph": 1021, "style": "11", "text": "念完线索卡后，奥丁：“这是怎么回事啊缪医生?怎么16岁，就订 过婚啊?男方都可以当你爷爷了吧!你别欺骗我们小以撒感情啊!”"}
+1023:{"part": "word/document.xml", "paragraph": 1023, "style": "11", "text": "奥丁问：你们第一次遇见是什么场景?"}
+1025:{"part": "word/document.xml", "paragraph": 1025, "style": "11", "text": "羌青瓷问：你们回到那一天，还想分手吗?"}
+1028:{"part": "word/document.xml", "paragraph": 1028, "style": "11", "text": "奥丁可以多调侃前任梗。"}
+1029:{"part": "word/document.xml", "paragraph": 1029, "style": "11", "text": "做完测试，奥丁：“那来看看这对前任的。”"}
+1030:{"part": "word/document.xml", "paragraph": 1030, "style": "11", "text": "【拿出第一幕程走柳个人线索】"}
+1031:{"part": "word/document.xml", "paragraph": 1031, "style": "11", "text": "念完线索卡后，奥丁： “还挺有钱啊程记者……这豪宅……当记者这 么挣钱的么?”"}
+1033:{"part": "word/document.xml", "paragraph": 1033, "style": "11", "text": "奥丁：“看看电台哥的。”"}
+1034:{"part": "word/document.xml", "paragraph": 1034, "style": "11", "text": "【拿出第一幕蒋伯驾个人线索】"}
+1035:{"part": "word/document.xml", "paragraph": 1035, "style": "11", "text": "念完线索卡后，奥丁：“电台哥，这贝姬是啥， 一个对讲机起个奇奇 怪怪的名字?”"}
+1038:{"part": "word/document.xml", "paragraph": 1038, "style": "11", "text": "这里程走柳如果说自己第一次接近蒋伯驾是故意的，羌青瓷可以在程 聿怀耳边说："}
+1043:{"part": "word/document.xml", "paragraph": 1043, "style": "11", "text": "【把黄油多士、啤酒和第一幕-约会卡放在门外，让蒋伯驾拿走。】"}
+1044:{"part": "word/document.xml", "paragraph": 1044, "style": "11", "text": "蒋伯驾拿回来之后，奥丁：“这是什么东西?!给我们说说你拿了什 么 ? ”"}
+1045:{"part": "word/document.xml", "paragraph": 1045, "style": "11", "text": "让蒋伯驾直接在台上把约会卡读出来，同时送东西给程走柳 羌青瓷可以指着蒋伯驾手里的约会卡，直接cue"}
+1046:{"part": "word/document.xml", "paragraph": 1046, "style": "11", "text": "羌青瓷：“这上面写了什么,就在这读出来吧，蒋先生。” 送完东西，奥丁：“没想到小子，你还挺深情啊。”"}
+1047:{"part": "word/document.xml", "paragraph": 1047, "style": "11", "text": "羌青瓷：“蒋先生对我们走柳妹妹还是很上心的，但是要挽回我们走 柳妹妹的心，还是要继续加油啊。”"}
+1050:{"part": "word/document.xml", "paragraph": 1050, "style": "11", "text": "奥丁问：第一次遇见是什么场景?  (阿奇需要写：我救了小 黛 )"}
+1051:{"part": "word/document.xml", "paragraph": 1051, "style": "11", "text": "奥丁问：你们是什么时候爱上对方的?  (阿奇需要写：一见 钟情)"}
+1052:{"part": "word/document.xml", "paragraph": 1052, "style": "11", "text": "羌青瓷问：如果奥丁不同意，你们会私奔吗? ( 随 便 答 )"}
+1054:{"part": "word/document.xml", "paragraph": 1054, "style": "11", "text": "奥丁要不满：“等一下!是背对背，不是背靠背!”"}
+1063:{"part": "word/document.xml", "paragraph": 1063, "style": "11", "text": "奥丁：“那来看看我们黛利拉的吧，我可是感兴趣很久了!”"}
+1064:{"part": "word/document.xml", "paragraph": 1064, "style": "11", "text": "【拿出第一幕黛利拉个人线索】"}
+1065:{"part": "word/document.xml", "paragraph": 1065, "style": "11", "text": "念完线索卡后，奥丁：“嘿，一张破扑克牌你那么宝贵干嘛，哪来的?”"}
+1068:{"part": "word/document.xml", "paragraph": 1068, "style": "11", "text": "羌青瓷：“奥丁，了解我们了吗?我们的误会消除了吧?”"}
+1069:{"part": "word/document.xml", "paragraph": 1069, "style": "11", "text": "奥丁：“前面你们说过，你们都是来做好事的，但我觉得，这个世界 上做好事的只有两种人， 一种是善人，一种就是憋着做更大坏事的恶 人，我不清楚你们究竟是哪种，这次就算了，但你们几个外国人注意 着点，我会注视着你们，永远永远。”"}
+1071:{"part": "word/document.xml", "paragraph": 1071, "style": "11", "text": "阿奇打断：“奥丁先别急，你不是说学了一个新魔术要跟我比试一下 吗 ? ”"}
+1072:{"part": "word/document.xml", "paragraph": 1072, "style": "11", "text": "奥丁： “对，我早就准备好了，但是，小子你先来，精彩的都要放到 后面出场。”"}
+1073:{"part": "word/document.xml", "paragraph": 1073, "style": "11", "text": "阿奇：“当然可以啊奥丁。” 阿奇变魔术"}
+1075:{"part": "word/document.xml", "paragraph": 1075, "style": "11", "text": "阿奇：“奥丁，该你了。”"}
+1076:{"part": "word/document.xml", "paragraph": 1076, "style": "11", "text": "奥丁： “哼，我的比你的精彩多了。” 奥丁变魔术"}
+1078:{"part": "word/document.xml", "paragraph": 1078, "style": "11", "text": "魔术表演失败后，奥丁尴尬的咳嗽两声。"}
+1079:{"part": "word/document.xml", "paragraph": 1079, "style": "11", "text": "奥丁：“我下次一定会成功的，等着吧! (看向羌青瓷)窗户的钱我 会赔的，硬汉从不骗人。记得，有困难，就找狂草帮!”"}
+1080:{"part": "word/document.xml", "paragraph": 1080, "style": "11", "text": "奥丁退场带着阿奇一起走"}
+1081:{"part": "word/document.xml", "paragraph": 1081, "style": "11", "text": "奥丁：“你小子，跟我来好好聊一聊。(直接掐着阿奇退场，类似于岳 父要和女婿私聊那架势)”"}
+1082:{"part": "word/document.xml", "paragraph": 1082, "style": "11", "text": "羌青瓷笑了一下，对黛利拉和以撒说： “你们老大还挺有趣。”"}
+1086:{"part": "word/document.xml", "paragraph": 1086, "style": "11", "text": "羌青瓷退场"}
+1087:{"part": "word/document.xml", "paragraph": 1087, "style": "11", "text": "——播放雨声Thunder   &Rain   ,提示玩家开始阅读第二幕。"}
+1088:{"part": "word/document.xml", "paragraph": 1088, "style": "11", "text": "切第二幕读本音乐"}
+1101:{"part": "word/document.xml", "paragraph": 1101, "style": "11", "text": "蒋伯驾老派约会卡第二张【蒋伯驾老派约会卡-第二幕-第二个路口】"}
+1103:{"part": "word/document.xml", "paragraph": 1103, "style": "11", "text": "第二幕带本要领："}
+1104:{"part": "word/document.xml", "paragraph": 1104, "style": "11", "text": "羌青瓷：和程走柳的私聊要真诚一些；和程聿怀的私聊还是处于调情、周旋状态； 在场上的状态搞笑一点，跟着吃瓜就可以。"}
+1105:{"part": "word/document.xml", "paragraph": 1105, "style": "11", "text": "奥丁：搞笑，一起吃瓜就行。"}
+1107:{"part": "word/document.xml", "paragraph": 1107, "style": "11", "text": "阿奇的出场，取决于黛利拉什么时候说“有爱了不起吗?”所以，如果阿奇不忙 的话，奥丁可以早一点cue 黛利拉绷带的事情，让黛利拉说出这句话，阿奇就会 陪伴得多一点，但时间再早也得是问完程走柳蒋伯驾的关系以后，也就是让蒋伯 驾叫了小妈以后了，不然会打断气氛，如果阿奇忙的话，奥丁在最后cue 就可以 了。"}
+1108:{"part": "word/document.xml", "paragraph": 1108, "style": "11", "text": "【程走柳和羌青盗的互动内容】"}
+1109:{"part": "word/document.xml", "paragraph": 1109, "style": "11", "text": "程走柳看到人物A 本第二幕开头，会出来见羌青瓷进行第一次的私 聊互动 — —"}
+1110:{"part": "word/document.xml", "paragraph": 1110, "style": "11", "text": "羌青瓷和程走柳互动1"}
+1111:{"part": "word/document.xml", "paragraph": 1111, "style": "11", "text": "(第二幕中途：私聊)"}
+1112:{"part": "word/document.xml", "paragraph": 1112, "style": "11", "text": "程走柳走进来之后，羌青瓷面露惊讶，似乎没料到程走柳会来找自己， 但很快恢复了正常。"}
+1113:{"part": "word/document.xml", "paragraph": 1113, "style": "11", "text": "羌青瓷指了一下座位： “走柳，你来找我有什么事吗?”"}
+1114:{"part": "word/document.xml", "paragraph": 1114, "style": "11", "text": "程走柳会问羌青瓷关于程聿怀的事情，等程走柳问完。"}
+1115:{"part": "word/document.xml", "paragraph": 1115, "style": "11", "text": "羌青瓷认真、严肃： “走柳，你是不是发觉了你哥哥/姐姐和以前有 些不一样?也是，毕竟你是聿的亲妹妹，不可能毫无察觉。”"}
+1123:{"part": "word/document.xml", "paragraph": 1123, "style": "11", "text": "羌青瓷：“走柳，我一定会治好你哥哥/姐姐的，相信我!”"}
+1124:{"part": "word/document.xml", "paragraph": 1124, "style": "11", "text": "【程聿怀和羌青瓷的互动内容】"}
+1125:{"part": "word/document.xml", "paragraph": 1125, "style": "11", "text": "程聿怀看第二幕的中途，会出来见羌青瓷进行第二次的私聊互动——"}
+1126:{"part": "word/document.xml", "paragraph": 1126, "style": "11", "text": "羌青瓷和程聿怀互动2 (第一幕看本中途：私聊)"}
+1127:{"part": "word/document.xml", "paragraph": 1127, "style": "11", "text": "【此演绎见售后资料：第二幕程聿怀羌青瓷私聊】"}
+1128:{"part": "word/document.xml", "paragraph": 1128, "style": "11", "text": "互动前准备："}
+1130:{"part": "word/document.xml", "paragraph": 1130, "style": "11", "text": "一个高脚杯，装了吐真剂(什么水都行)的茅根竹蔗水，在程聿 怀看本中途出来互动的时候，随便找个人把这杯茅根竹蔗水递给程聿 怀。"}
+1132:{"part": "word/document.xml", "paragraph": 1132, "style": "11", "text": "私聊房间BGM  循环播放： 《巴赫G 弦上的咏叹调》"}
+1133:{"part": "word/document.xml", "paragraph": 1133, "style": "11", "text": "羌青瓷坐在桌前"}
+1134:{"part": "word/document.xml", "paragraph": 1134, "style": "11", "text": "(程聿怀进来之后，羌青瓷玩味的看着程聿怀)"}
+1135:{"part": "word/document.xml", "paragraph": 1135, "style": "11", "text": "羌青瓷：“聿，你等不及来找我了?抱歉，刚才临时有些事情要处理， 不过你放心，我把那些事情都推掉了，不会有什么再打扰到我们今晚  的独处，聿，你拿的是什么啊?”"}
+1136:{"part": "word/document.xml", "paragraph": 1136, "style": "11", "text": "玩家程聿怀会撒谎，告诉羌青瓷这是茅根竹蔗水，广府特色。"}
+1137:{"part": "word/document.xml", "paragraph": 1137, "style": "11", "text": "羌青瓷听完之后： “哦~原来聿给我准备了家乡的特色，那一定是把  我当作家人了吧。那这样珍贵的礼物，我怎么能一个人独享呢?聿， 那我们一人一半吧~”"}
+1138:{"part": "word/document.xml", "paragraph": 1138, "style": "11", "text": "羌青瓷接过程聿怀的那杯，给面前空杯倒了半杯，递给程聿怀。"}
+1140:{"part": "word/document.xml", "paragraph": 1140, "style": "11", "text": "羌青瓷就问： “为什么呢，难道你不想跟我碰杯吗? ”"}
+1142:{"part": "word/document.xml", "paragraph": 1142, "style": "11", "text": "羌青瓷：“聿，你要知道，你只要说些让人心动的话，哪怕面前是毒 药，我也愿意喝下去的。”"}
+1143:{"part": "word/document.xml", "paragraph": 1143, "style": "11", "text": "羌青瓷：“噗，跟你开玩笑的。 (必须要一人倒半杯)来吧，我们干 杯吧，我的……爱人。”"}
+1145:{"part": "word/document.xml", "paragraph": 1145, "style": "11", "text": "【喝下之后，缓缓的假装自己好像醉了一样，微微低着头，程聿怀会 试探羌青瓷是不是醉了，演就行。】"}
+1148:{"part": "word/document.xml", "paragraph": 1148, "style": "11", "text": "羌青瓷： “是事故，当年你父亲出事后，家族也找了很多人，结果找 到凶手的时候，对方已经自杀了。"}
+1151:{"part": "word/document.xml", "paragraph": 1151, "style": "11", "text": "羌青瓷： “莱诺家族出资建立电台，其实是想要引起两族争斗，煽动 战争，并给两边贩卖军火，从中牟利。”"}
+1153:{"part": "word/document.xml", "paragraph": 1153, "style": "11", "text": "这个问题羌青瓷不回答，要假装醒过来。"}
+1155:{"part": "word/document.xml", "paragraph": 1155, "style": "11", "text": "羌青瓷清醒过来，看着程聿怀说： “我刚才是怎么了?”"}
+1157:{"part": "word/document.xml", "paragraph": 1157, "style": "11", "text": "程聿怀会否认，羌青瓷遗憾： “那挺让人失落的，看来我在你面前没 有那么有魅力啊……好了，今天也没什么兴致了，聿，还是早点回去 休息吧。”"}
+1168:{"part": "word/document.xml", "paragraph": 1168, "style": "11", "text": "切第二幕羌青瓷出场音乐"}
+1170:{"part": "word/document.xml", "paragraph": 1170, "style": "11", "text": "羌青瓷站在演绎帘子后面，帘子微微打开"}
+1171:{"part": "word/document.xml", "paragraph": 1171, "style": "11", "text": "羌青瓷背对着玩家，白大褂穿松散一点，漏出一点肩膀，手里端着一"}
+1172:{"part": "word/document.xml", "paragraph": 1172, "style": "11", "text": "杯白葡萄酒【男羌青瓷，就一只手摇高脚杯，边说话，另一只手边解 衬衣领口的扣子就行，耍帅!】"}
+1173:{"part": "word/document.xml", "paragraph": 1173, "style": "11", "text": "羌青瓷晃着高脚杯侧着头，不看玩家：“聿，你说过……只有白葡萄 酒可以中和干炒牛河的重油。我准备了之前喝过口感最好的一瓶，这"}
+1176:{"part": "word/document.xml", "paragraph": 1176, "style": "11", "text": "羌青瓷假装惊讶： “怎么这么多人?!” (大惊失色，快速溜走!)"}
+1177:{"part": "word/document.xml", "paragraph": 1177, "style": "11", "text": "【男羌青瓷看众人一眼，假装咳嗽两声：“这么多人啊……”然后假 装淡定转身回到帘子后】"}
+1179:{"part": "word/document.xml", "paragraph": 1179, "style": "11", "text": "【见售后资料：羌青瓷第二幕互动出场演绎】"}
+1180:{"part": "word/document.xml", "paragraph": 1180, "style": "11", "text": "切第二幕流程音乐"}
+1182:{"part": "word/document.xml", "paragraph": 1182, "style": "11", "text": "羌青瓷穿戴整齐重新出场，和之前一样白大褂穿外面，扣好扣子"}
+1183:{"part": "word/document.xml", "paragraph": 1183, "style": "11", "text": "羌青瓷假装无声发生，恢复正经的模样"}
+1184:{"part": "word/document.xml", "paragraph": 1184, "style": "11", "text": "羌青瓷：“本来只邀请了聿一个人来，看来是我记性不好，不过按理 来说，现在应该是我的下班时间吧?诸位不速之客这个时候来，是有 什么事吗?”"}
+1185:{"part": "word/document.xml", "paragraph": 1185, "style": "11", "text": "【这里玩家会翻页，然后看任务回答羌青瓷问题】"}
+1186:{"part": "word/document.xml", "paragraph": 1186, "style": "11", "text": "如果玩家忘记翻页，羌青瓷可以做翻页手势，提醒大家一下。"}
+1188:{"part": "word/document.xml", "paragraph": 1188, "style": "11", "text": "羌青瓷： “平常看不出来，大家的心理状况这么紧急?必须要在我下 班后私 · 人 · 时 · 间来才可以?”"}
+1190:{"part": "word/document.xml", "paragraph": 1190, "style": "11", "text": "羌青瓷起范，准备装逼"}
+1191:{"part": "word/document.xml", "paragraph": 1191, "style": "11", "text": "羌青瓷：“火——是人类学会使用的第一项自然资源 …… ”"}
+1192:{"part": "word/document.xml", "paragraph": 1192, "style": "11", "text": "此时奥丁闯入，再次打断羌青瓷"}
+1193:{"part": "word/document.xml", "paragraph": 1193, "style": "11", "text": "奥丁： “羌医生!我要做心理咨询!妈的我真想不通，莱诺家族那个 叫卢特的老头听说要结婚了，他都快六十了!还能找!我这么个五十 啷当岁的俊俏帅老头凭什么 …… ”"}
+1197:{"part": "word/document.xml", "paragraph": 1197, "style": "11", "text": "羌青瓷假装微笑：“奥丁，你还挺自来熟哈。 ( 阴 阳 )很显然，大家 在我这里开派对呢。好了，你竟然也有问题，就别再打断我了，让我 继续。”"}
+1199:{"part": "word/document.xml", "paragraph": 1199, "style": "11", "text": "羌青瓷： “火，是人类学会使用的第一项自然资源。古时，甚至以火 来沟通上天与神灵。因此，我在研究中发现，人在火焰的靠近下，最 容易说出内心最真诚的话语。"}
+1207:{"part": "word/document.xml", "paragraph": 1207, "style": "11", "text": "奥丁：“听懂了，点着火大家就得坦诚相待说实话!火灭了就不说了， 想说说，不想说就吹灭!你们心理医生怎么不爱说人话呢 …… ”"}
+1208:{"part": "word/document.xml", "paragraph": 1208, "style": "11", "text": "羌青瓷无语，假装微笑：“奥丁，有时候话少一点，会显得你更可爱 哦~”"}
+1209:{"part": "word/document.xml", "paragraph": 1209, "style": "11", "text": "边说，羌青瓷边拿出火柴，一人分配三根。"}
+1210:{"part": "word/document.xml", "paragraph": 1210, "style": "11", "text": "羌青瓷：“好，那每个人三根火柴。”"}
+1213:{"part": "word/document.xml", "paragraph": 1213, "style": "11", "text": "给奥丁的时候，奥丁摆摆手表示拒绝，自己不需要。"}
+1219:{"part": "word/document.xml", "paragraph": 1219, "style": "11", "text": "羌青瓷先看向程聿怀，假装深情款款"}
+1220:{"part": "word/document.xml", "paragraph": 1220, "style": "11", "text": "羌青瓷：“对了，聿，你知道吗，火柴燃烧时，火焰便会如同我胸前 佩戴的这枚孤挺花一般，炙红、热烈。那我想，在火光和孤挺花面前， 你也一定会对我说真话的，对吧?”"}
+1221:{"part": "word/document.xml", "paragraph": 1221, "style": "11", "text": "等程聿怀回复，不管说什么,程聿怀说完，奥丁直接接话："}
+1222:{"part": "word/document.xml", "paragraph": 1222, "style": "11", "text": "奥丁： “你俩就别腻歪了!我就先开始了!刚才就着急问呢!”"}
+1224:{"part": "word/document.xml", "paragraph": 1224, "style": "11", "text": "“你们记得那个卢特 · 莱诺吧?! (八卦的样子)就是TA 叔叔(看 一下羌青瓷),也是莱诺家族的!他订婚了!有意思的是，他这订婚 对象，比他小30多岁呢!”"}
+1228:{"part": "word/document.xml", "paragraph": 1228, "style": "11", "text": "奥丁： “快回答快回答!”"}
+1230:{"part": "word/document.xml", "paragraph": 1230, "style": "11", "text": "【这里实际上，是奥丁在给大家示范怎么玩这个环节，先说事，问问题的时候再点燃火柴。】看场上情况，气氛差不多了，再点一根火柴问蒋伯驾"}
+1231:{"part": "word/document.xml", "paragraph": 1231, "style": "11", "text": "奥丁：“电台哥，听说卢特收你当义子了，那你现在是不是得叫她( 指 程走柳)…… ”"}
+1233:{"part": "word/document.xml", "paragraph": 1233, "style": "11", "text": "【如果蒋伯驾没说，奥丁可以自己点出来。类似话术：“这关系 ……"}
+1234:{"part": "word/document.xml", "paragraph": 1234, "style": "11", "text": "叫一声小妈不过分吧?/哈哈哈哈，挺有意思，前任变小妈啊!”】\t 羌青瓷无语：“奥丁先生，火柴疗法是测验真话的，不是用来让你问 八卦的…… ”"}
+1235:{"part": "word/document.xml", "paragraph": 1235, "style": "11", "text": "奥丁：“哎呀一样的，蒋伯驾你再问问她，你有啥问题，快问快问!"}
+1237:{"part": "word/document.xml", "paragraph": 1237, "style": "11", "text": "(继续给他们一点时间互相问问题，蒋伯驾会问程走柳：我有什么比 不上卢特的?奥丁中途不断起哄)"}
+1238:{"part": "word/document.xml", "paragraph": 1238, "style": "11", "text": "奥丁： “好好好!好好好!真刺激!真刺激!!”"}
+1239:{"part": "word/document.xml", "paragraph": 1239, "style": "11", "text": "蒋问题问完之后，奥丁要拉一下蒋伯驾羁绊：“可以啊你电台哥，我 最欣赏你这种为爱冲锋的战士，咱俩也算是不打不相识了，小子，以 后在布雷诺我奥丁罩着你。”"}
+1241:{"part": "word/document.xml", "paragraph": 1241, "style": "11", "text": "这时，肖须言来电话，让蒋伯驾去门口拿东西，把第二幕约会卡和两张船票放在门外，让蒋伯驾拿走。"}
+1242:{"part": "word/document.xml", "paragraph": 1242, "style": "11", "text": "蒋伯驾拿回来之后，羌青瓷cue: “蒋先生，这次又准备了什么啊?” 奥丁：“是啊小子，咱现在都是自己人，关系这么好，你当着大家面， 再给走柳读读呗。"}
+1244:{"part": "word/document.xml", "paragraph": 1244, "style": "11", "text": "等送完以后，奥丁：“还得是你啊小子，小以撒，跟你大舅哥好好学 学。”"}
+1245:{"part": "word/document.xml", "paragraph": 1245, "style": "11", "text": "奥丁：“诶!等等啊大家，说到这，还有一个事儿我可要好好问一问 ——莱诺家族的第一继承人，叫什么伯纳德 ·莱诺的，对!就是羌医 生的哥哥!听说啊，他最近也要订婚了!和他订婚的这人啊……也坐 在这儿呢!”"}
+1249:{"part": "word/document.xml", "paragraph": 1249, "style": "11", "text": "(示意以撒和缪宏谟互相问问题聊天，奥丁不断起哄) 奥丁对缪、以其实就是起哄、撮合就可以了!"}
+1250:{"part": "word/document.xml", "paragraph": 1250, "style": "11", "text": "【中间缪宏谟问到羌青瓷：怎么和伯纳德 · 莱诺退婚?】"}
+1251:{"part": "word/document.xml", "paragraph": 1251, "style": "11", "text": "羌青瓷回答： “抱歉，爱莫能助了缪小姐。莱诺家族非常在意自己的 颜面，退婚对于莱诺家族， 一定是不被允许的事情。说实话，除非你 死或者伯纳德死。毕竟莱诺家族没有冥婚这个习俗。”"}
+1252:{"part": "word/document.xml", "paragraph": 1252, "style": "11", "text": "(等玩家自己回答，缪宏谟和蒋伯驾很可能会说，死还不简单类似的， 如果没人说，奥丁可以说，死一个是吧，小以撒放心，老大帮你想想 办法。)"}
+1253:{"part": "word/document.xml", "paragraph": 1253, "style": "11", "text": "不管大家如何“密谋”,羌青瓷都可以说： “虽然我和我哥关系不是   很好，但各位还是尽量小声点，刚才的话我当没听见。咱们继续吧。”"}
+1255:{"part": "word/document.xml", "paragraph": 1255, "style": "11", "text": "奥丁cue 黛利拉： “我看，我们黛利拉心情不是很好啊，下面一个，"}
+1257:{"part": "word/document.xml", "paragraph": 1257, "style": "11", "text": "(此时黛利拉会提问以撒，说有爱了不起吗!奥丁需要引导黛利拉分"}
+1259:{"part": "word/document.xml", "paragraph": 1259, "style": "11", "text": "【如果黛利拉一直不问这个问题，奥丁必须想办法去Q这个事，因为这是需要引导阿奇出场的截点】"}
+1261:{"part": "word/document.xml", "paragraph": 1261, "style": "11", "text": "奥丁起哄： “有爱了不起吗!”"}
+1264:{"part": "word/document.xml", "paragraph": 1264, "style": "11", "text": "见售后资料:阿奇第二幕互动出场演绎"}
+1280:{"part": "word/document.xml", "paragraph": 1280, "style": "11", "text": "此时，奥丁看不下去，走过来，在阿奇身边站立"}
+1281:{"part": "word/document.xml", "paragraph": 1281, "style": "11", "text": "奥丁吐槽：“还home,    你四六级都考不上。你应该学的第一个词是 abandon! 放弃!”"}
+1282:{"part": "word/document.xml", "paragraph": 1282, "style": "11", "text": "阿奇看着黛利拉，不移开目光，但是轻轻把一旁的奥丁推到一边"}
+1285:{"part": "word/document.xml", "paragraph": 1285, "style": "11", "text": "“来，神偷先生为杀手小姐带来了一盒专属火柴，你可以肆无忌惮的  探索他们的秘密。 (看向羌青瓷)羌医生，不介意我不请自来吧?” 羌青瓷(咬牙切齿依然微笑): “当然不会，毕竟今天最不缺的就   是不速之客~只是希望下次你可以走正门，而不是为了耍帅从窗户进   来。特别是我刚把窗户关上的情况下~”"}
+1287:{"part": "word/document.xml", "paragraph": 1287, "style": "11", "text": "切回第二幕流程音乐"}
+1291:{"part": "word/document.xml", "paragraph": 1291, "style": "11", "text": "如果没出现奥丁就直接点对点 cue  人进行提问就可以了"}
+1292:{"part": "word/document.xml", "paragraph": 1292, "style": "11", "text": "【遇见程走柳提问程聿怀羌青瓷】"}
+1293:{"part": "word/document.xml", "paragraph": 1293, "style": "11", "text": "程走柳会问程聿怀： “你和羌青瓷的爱情是怎么开始的? ”"}
+1295:{"part": "word/document.xml", "paragraph": 1295, "style": "11", "text": "羌青瓷在一旁可以适当补充，一定要提——"}
+1297:{"part": "word/document.xml", "paragraph": 1297, "style": "11", "text": "【如果程聿怀说的时候，说是羌青瓷给ta种了孤挺花圃，羌青瓷可以 说】"}
+1301:{"part": "word/document.xml", "paragraph": 1301, "style": "11", "text": "说的差不多了，羌青瓷cue 程聿怀：“聿，他们问了彼此这么多，难"}
+1303:{"part": "word/document.xml", "paragraph": 1303, "style": "11", "text": "【如果程聿怀没问，羌青瓷直接主动问你爱我吗?】"}
+1304:{"part": "word/document.xml", "paragraph": 1304, "style": "11", "text": "羌青瓷回答： “当然了，聿。我对你的爱，自大学起，直到如今，从 未变过。所以你呢?”"}
+1308:{"part": "word/document.xml", "paragraph": 1308, "style": "11", "text": "羌青瓷转移话题，挽着程聿怀，开始cue 荔 枝 ：“聿，你看，走柳妹 妹问这些都是因为关心你啊。其实你也一直挂念着走柳妹妹，你怎么 不说呢。”"}
+1313:{"part": "word/document.xml", "paragraph": 1313, "style": "11", "text": "【遇见黛利拉提问奥丁】"}
+1314:{"part": "word/document.xml", "paragraph": 1314, "style": "11", "text": "黛利拉可能会问奥丁： “温蒂到底是谁，我怎么从来见过她?!”"}
+1315:{"part": "word/document.xml", "paragraph": 1315, "style": "11", "text": "奥丁可以回答： “当然是我女朋友了!我们非常恩爱，但我们都有各   自的事业要忙，当然没时间每天你侬我侬了，大人的事小孩子别管!”"}
+1316:{"part": "word/document.xml", "paragraph": 1316, "style": "11", "text": "【遇见以撒提问奥丁】"}
+1317:{"part": "word/document.xml", "paragraph": 1317, "style": "11", "text": "以撒可能会问奥丁： “奥丁，你当时为什么要拉着我一起跑步呢?”"}
+1318:{"part": "word/document.xml", "paragraph": 1318, "style": "11", "text": "奥丁可以回答：“害!那天远远看见你一个人走在路上，又孤独又谨 慎，心里就在想，这个小孩到底背着什么压力啊 ……"}
+1322:{"part": "word/document.xml", "paragraph": 1322, "style": "11", "text": "羌青瓷做结束语：“好了，大家还有什么想问想咨询的吗?没有的话， 是不是大家就可以……回家好好休息了?真是被打扰的有些生气了   呢，呵呵。”"}
+1324:{"part": "word/document.xml", "paragraph": 1324, "style": "11", "text": "奥丁： “那羌医生，你就先忙着，我先……走一步，处理点家事!”"}
+1326:{"part": "word/document.xml", "paragraph": 1326, "style": "11", "text": "奥丁： “走吧你小子!离黛利拉远点!”"}
+1327:{"part": "word/document.xml", "paragraph": 1327, "style": "11", "text": "——播放雨声Thunder   &Rain   ,提示玩家开始阅读第三幕。"}
+1328:{"part": "word/document.xml", "paragraph": 1328, "style": "11", "text": "切第三幕读本音乐"}
+1330:{"part": "word/document.xml", "paragraph": 1330, "style": "11", "text": "第三幕"}
+1336:{"part": "word/document.xml", "paragraph": 1336, "style": "11", "text": "加深奥丁和大家的羁绊"}
+1342:{"part": "word/document.xml", "paragraph": 1342, "style": "11", "text": "歌词线索卡共11张大卡【第三幕-唱片歌词卡1-11;1-8是给玩家选的， 剩下9奥丁自己拿着；10-11羌青瓷拿着。】"}
+1343:{"part": "word/document.xml", "paragraph": 1343, "style": "11", "text": "蒋伯驾老派约会卡第三张【蒋伯驾老派约会卡-第三幕-第三个路口】"}
+1344:{"part": "word/document.xml", "paragraph": 1344, "style": "11", "text": "(等蒋伯驾看完本，把馥芮白和老派约会-第三幕-第三个路口的约会 卡给他，让他像之前 一样 一会儿给程走柳。L"}
+1346:{"part": "word/document.xml", "paragraph": 1346, "style": "11", "text": "读本期间，玩家蒋伯驾会出门互动，找羌青瓷聊【受控燃烧】计划。"}
+1347:{"part": "word/document.xml", "paragraph": 1347, "style": "11", "text": "【私聊视频见售后资料：蒋伯驾和羌青瓷私聊视频】"}
+1348:{"part": "word/document.xml", "paragraph": 1348, "style": "11", "text": "第三幕带本要领："}
+1349:{"part": "word/document.xml", "paragraph": 1349, "style": "11", "text": "羌青瓷：耐心倾听大家的故事，并在每个人讲完故事的时候，接话表示关心，在 这一幕，羌青瓷需要树立的形象是一个好朋友、好医生，跟大家终于解开了误会， 想跟大家以后友好相处。"}
+1350:{"part": "word/document.xml", "paragraph": 1350, "style": "11", "text": "奥丁：奥丁在这一幕末尾进来的时候，一定要非常沮丧、失落，如果笑，也是强 颜欢笑，因为狂草帮都被他当作家人，但是他的家人在暴乱中死了很多人，所以 和前两幕的欢乐话唠形象截然不同，带着悲伤情绪进。"}
+1351:{"part": "word/document.xml", "paragraph": 1351, "style": "11", "text": "蒋伯驾看人物A 本第三幕中途，会出来见羌青瓷进行唯一一次私聊 互动——"}
+1352:{"part": "word/document.xml", "paragraph": 1352, "style": "11", "text": "羌青瓷和蒋伯驾互动1 (第三幕看本中途：私聊)"}
+1353:{"part": "word/document.xml", "paragraph": 1353, "style": "11", "text": "【此演绎见售后资料：第三幕蒋伯驾羌青瓷私聊】"}
+1354:{"part": "word/document.xml", "paragraph": 1354, "style": "11", "text": "互动前准备："}
+1356:{"part": "word/document.xml", "paragraph": 1356, "style": "11", "text": "羌青瓷在门外等候时可以装作翻阅资料或者看书，不用 一 副专门等候"}
+1358:{"part": "word/document.xml", "paragraph": 1358, "style": "11", "text": "蒋伯驾会主动过来找羌青瓷攀谈，如果有条件可以到一个房间坐下说， 羌青瓷先不着急说话，等蒋伯驾开口或者几秒钟——"}
+1359:{"part": "word/document.xml", "paragraph": 1359, "style": "11", "text": "【蒋伯驾知道了伯纳德他们筹划了两年大屠杀，他想要阻止，只能找 人配合，于是选择了金狮医院的院长，羌青瓷。因为他能看出来，羌 青瓷和伯纳德不同，会在乎人的性命。】"}
+1360:{"part": "word/document.xml", "paragraph": 1360, "style": "11", "text": "羌青瓷听完后，对他说： “我明白你要做什么了，你想用少部分人的 性命，换取更多人的存活，以火灭火。这件事情我会好好考虑，或许 我可以发布一条广播，邀请诺族的官员来金狮医院免费体检。”"}
+1365:{"part": "word/document.xml", "paragraph": 1365, "style": "11", "text": "说完以后，羌青瓷让蒋伯驾先回去。"}
+1366:{"part": "word/document.xml", "paragraph": 1366, "style": "11", "text": "这一幕拿出所有第三幕歌词卡线索，总共十一张"}
+1368:{"part": "word/document.xml", "paragraph": 1368, "style": "11", "text": "【Secret   (秘密)】:羌青瓷要给程走柳的"}
+1369:{"part": "word/document.xml", "paragraph": 1369, "style": "11", "text": "【Mountain    Mama(山峦母亲)】:羌青瓷要给程聿怀的 【Don't Cry(别哭)】:奥丁自己拿出来"}
+1374:{"part": "word/document.xml", "paragraph": 1374, "style": "11", "text": "、羌青瓷：“聿，这里还挺独特的，不只是店，老板也很独特呢。大家 知道，今天来这里是为了买唱片送给奥丁的吧?”"}
+1376:{"part": "word/document.xml", "paragraph": 1376, "style": "11", "text": "羌青瓷：“我刚刚去找老板，她问了我一个问题。”"}
+1378:{"part": "word/document.xml", "paragraph": 1378, "style": "11", "text": "羌青瓷： “老板问我，你们从这上面看见了什么?”"}
+1380:{"part": "word/document.xml", "paragraph": 1380, "style": "11", "text": "羌青瓷：“歌词?不，老板说，这上面都是故事。摇滚乐充斥着故事 和人生，听得不止是一段旋律，而是自己的过往。所以，以撒说得没 错，这里是需要用故事交换唱片的。”"}
+1381:{"part": "word/document.xml", "paragraph": 1381, "style": "11", "text": "羌青瓷：“我拿来了老板珍藏的专辑，你们先选一下。有没有觉得喜"}
+1383:{"part": "word/document.xml", "paragraph": 1383, "style": "11", "text": "(羌青瓷拿出歌词线索8张A4 大卡；第三幕-唱片1-8,除了Don't"}
+1387:{"part": "word/document.xml", "paragraph": 1387, "style": "11", "text": "切第三幕流程音乐"}
+1388:{"part": "word/document.xml", "paragraph": 1388, "style": null, "text": "切BGM:《Born To Be Alive》Bea and Her Business\n羌青瓷：“都挑完了?那就依次来讲讲自己的故事吧，不然这唱片我 们可能就买不走了。黛利拉，你是布雷诺人，你先来吧。”"}
+1391:{"part": "word/document.xml", "paragraph": 1391, "style": "11", "text": "羌青瓷：“战争之子，这个称呼在东国说起来可能很好听，但没想到  在布雷诺却是代表着这样惨痛的身份。以前，我总开高等文明的玩笑， 但听了黛利拉的故事，我想，我该向黛利拉和以撒道歉，过去，我不 了解你们的文化，说的话并不恰当，以后，我会更加努力了解布雷诺， 希望能在心理上，帮助你们疗愈一些伤疤。"}
+1394:{"part": "word/document.xml", "paragraph": 1394, "style": "11", "text": "羌青瓷： “从心理学角度上看，黛利拉是一个需要很多很多爱的人， 我听说奥丁总是跟在黛利拉身后，陪你去买最粉的裙子，没想到，他 这个总说自己是纯正硬汉的人还有这一面呢。”"}
+1395:{"part": "word/document.xml", "paragraph": 1395, "style": "11", "text": "羌青瓷： “对了黛利拉，奥丁说过你总是想当老大，火柴燃烧的时间  很短，他也说过别急，你再等一等，就让他再当一分钟的老大吧。”"}
+1397:{"part": "word/document.xml", "paragraph": 1397, "style": "11", "text": "羌青瓷： “以撒，你也是布雷诺人，那来说说你的故事吧?”"}
+1399:{"part": "word/document.xml", "paragraph": 1399, "style": "11", "text": "羌青瓷： “奥丁总说自己其实很不明白，为什么很多人都说以撒有病 呢?以撒明明是布雷诺最正常的人，是最懂他幽默的人。”"}
+1400:{"part": "word/document.xml", "paragraph": 1400, "style": "11", "text": "羌青瓷：“对了，奥丁吐槽过一件事，他说以撒也是很矫情的人，有 几次啊，以撒听了奥丁的笑话明明很想笑，可就是在那忍着，不敢笑 出声来，奥丁实在看不下去，就搓着他的脸，硬挤出了一个笑容，然 后还说什么:小以撒，在老大面前，你可以想笑就笑。是有这事吗， 以 撒 ? ”"}
+1402:{"part": "word/document.xml", "paragraph": 1402, "style": "11", "text": "羌青瓷： “这种事情也只有奥丁做的出来了。如此看来，在奥丁的眼 里，以撒真的和大家是一样的，非要说不同，可能以撒就是一个更能 读懂别人幽默的人吧。”"}
+1404:{"part": "word/document.xml", "paragraph": 1404, "style": "11", "text": "羌青瓷： “好了，缪医生，来说说你的吧。”"}
+1407:{"part": "word/document.xml", "paragraph": 1407, "style": "11", "text": "羌青瓷： “不过，缪医生追求自由这条路上，可能我兄长伯纳德首先 就是你前方道路上的一道难缠的荆棘呢。我记得前不久，我兄长似乎 和你还有以撒发生了冲突?好像和戒指相关?”"}
+1409:{"part": "word/document.xml", "paragraph": 1409, "style": "11", "text": "羌青瓷： “听起来很有趣呢，从小到大，我几乎没有见过我兄长吃瘪"}
+1413:{"part": "word/document.xml", "paragraph": 1413, "style": "11", "text": "羌青瓷： “来听听缪医生的哥哥有什么故事，蒋先生分享一下吧。”"}
+1415:{"part": "word/document.xml", "paragraph": 1415, "style": "11", "text": "羌青瓷： “蒋先生和缪医生之间的兄妹感情很深啊，听说你们小时候 一起杀过人?”"}
+1417:{"part": "word/document.xml", "paragraph": 1417, "style": "11", "text": "羌青瓷： “没想到蒋先生和缪医生都还有这样的一面呢，也算是对你 们有了新的认知了。”"}
+1419:{"part": "word/document.xml", "paragraph": 1419, "style": "11", "text": "羌青瓷： “对了，我之前应该在一张照片上见过蒋先生，也是一个记 者。在新闻社我遇见过他，他人很不错，在他身上我看见过一张合照。 我现在想起来了，照片上他旁边那个人，就是你啊。他叫肖须言，你  认识吧?”"}
+1421:{"part": "word/document.xml", "paragraph": 1421, "style": "11", "text": "羌青瓷： “有时候啊，缘分就是这么奇妙的东西……(这时转头对程 聿怀温柔地说)你说是吧聿，就像我们之间一样?”"}
+1423:{"part": "word/document.xml", "paragraph": 1423, "style": "11", "text": "羌青瓷： “那让我们再来听听走柳的故事吧。”"}
+1425:{"part": "word/document.xml", "paragraph": 1425, "style": "11", "text": "羌青瓷： “劳伦的事情我非常遗憾，她是一名优秀的记者，但也许正   是她的优秀，带给了她更大的痛苦。她能完全共情每一张拍摄下的照   片中的故事，这是莱诺家族忽视的地方，也是莱诺家族的错误。走柳，  希望你能成为一名很优秀的记者，但要时刻要以劳伦的事情提醒自己， 不要重蹈劳伦的覆辙。”"}
+1426:{"part": "word/document.xml", "paragraph": 1426, "style": "11", "text": "羌青瓷点到为止，程走柳分享结束"}
+1427:{"part": "word/document.xml", "paragraph": 1427, "style": "11", "text": "羌青瓷要装出温柔，含情脉脉： “最后，到你了聿。”"}
+1429:{"part": "word/document.xml", "paragraph": 1429, "style": "11", "text": "羌青瓷： “聿，你把自己的事说的很平淡，但看你选的歌，我能感受 到你的在乎，聿，不怕有一天把自己陷进去吗?”"}
+1431:{"part": "word/document.xml", "paragraph": 1431, "style": null, "text": "【程聿怀一定不会信你的羌青瓷，但是这句一定要很认真的说，因为 羌青瓷说的就是真心话。】"}
+1432:{"part": "word/document.xml", "paragraph": 1432, "style": "11", "text": "羌青瓷认真两秒后，要立马笑着变脸，给程聿怀一种这个人真是很虚 假的样子。"}
+1433:{"part": "word/document.xml", "paragraph": 1433, "style": "11", "text": "羌青瓷此时拿出第三幕-唱片-11【羌青瓷致程聿怀】这张歌词卡—— 羌青瓷： “聿，你选的这张很好，但我也为你选了一张更适合你的。 你别给其他人看，自己看好吗，这是我们夫妻之间的秘密~”"}
+1435:{"part": "word/document.xml", "paragraph": 1435, "style": "11", "text": "羌青瓷要指着歌词卡最后一句上面的“伪装”二字，装作亲密地给程 聿怀说： “聿，你看我选的好吗，这句话多适合你啊~”"}
+1436:{"part": "word/document.xml", "paragraph": 1436, "style": "11", "text": "羌青瓷又拿出第三幕-唱片-10【羌青瓷致程走柳】这张歌词卡 — — 羌青瓷： “妹妹，我也给你选了一张，你也自己一个人看吧。”"}
+1438:{"part": "word/document.xml", "paragraph": 1438, "style": "11", "text": "羌青瓷： “好了。那故事都讲完了，我们去把这几张唱片买下来吧， 蒋先生，你付钱可以吗?”"}
+1440:{"part": "word/document.xml", "paragraph": 1440, "style": "11", "text": "羌青瓷： “那就这样定了。老板!我们选好了，结账吧。”"}
+1441:{"part": "word/document.xml", "paragraph": 1441, "style": "11", "text": "幕后出奥丁声音"}
+1443:{"part": "word/document.xml", "paragraph": 1443, "style": "11", "text": "奥丁走出来，看见大家： “你们怎么在这里?”"}
+1444:{"part": "word/document.xml", "paragraph": 1444, "style": "11", "text": "羌青瓷：“奥丁，你怎么突然来了，上次金狮医院的事情多亏你和狂 草帮，为了感谢，大家在这给你买唱片，想当礼物送你呢。”"}
+1445:{"part": "word/document.xml", "paragraph": 1445, "style": "11", "text": "奥丁： “谢谢大家!那天的事都是我们狂草帮该做的。”"}
+1446:{"part": "word/document.xml", "paragraph": 1446, "style": "11", "text": "奥丁收起牵强的笑容，要表现出低落：“其实我今天来，也是为了选 唱片，我选了一首我很喜欢的歌，歌名叫dont  cry,放给你们听一 下”"}
+1450:{"part": "word/document.xml", "paragraph": 1450, "style": "11", "text": "奥丁：“这家唱片店的规矩我也知道，需要用故事换唱片。我也来简 单讲一讲我的故事吧，以前我也有一个自己的大家庭，有很多兄弟姐 妹，一帮人待在一起吵得很，可后来，这个家就剩我自己了。也是因 为摇滚乐我才认识了温蒂……算了，也没什么好说的，不说了，不好 意思，我今天心情实在不太好。”"}
+1452:{"part": "word/document.xml", "paragraph": 1452, "style": "11", "text": "奥丁：“最近布雷诺不是到处都在发生暴动，上次金狮医院平息后，"}
+1456:{"part": "word/document.xml", "paragraph": 1456, "style": "11", "text": "羌青瓷： “竟然如此，那今天就散了吧，回去好好休息。”"}
+1460:{"part": "word/document.xml", "paragraph": 1460, "style": "11", "text": "——播放雨声Thunder   &Rain  ,提示玩家开始阅读第四幕—— 切第四幕读本音乐"}
+1463:{"part": "word/document.xml", "paragraph": 1463, "style": "11", "text": "这里第三幕流程结束以后，玩家程走柳需要出门找羌青瓷互动，如果 程走柳忘记出来，羌青瓷要记得提醒她。"}
+1464:{"part": "word/document.xml", "paragraph": 1464, "style": "3", "text": "【程走柳和羌青瓷的互动内容】"}
+1465:{"part": "word/document.xml", "paragraph": 1465, "style": "11", "text": "第三幕流程结束，程走柳会出来见羌青瓷进行第二次的私聊互动——"}
+1466:{"part": "word/document.xml", "paragraph": 1466, "style": "11", "text": "羌青瓷和程走柳互动2 (第三幕流程结束：私聊)"}
+1467:{"part": "word/document.xml", "paragraph": 1467, "style": "11", "text": "羌青瓷指了一下座位： “走柳，先坐。”"}
+1468:{"part": "word/document.xml", "paragraph": 1468, "style": "11", "text": "羌青瓷认真、严肃： “走柳，最近布雷诺两族之间的冲突频繁发生， 暴乱事件更是层出不穷。许多事情已经悄无声息地开始推进了。”  “我没有办法和你具体说太多，但是，我想提醒你，近期布雷诺发生  的这些冲突，还只是开始。”"}
+1474:{"part": "word/document.xml", "paragraph": 1474, "style": "11", "text": "羌青瓷：“走柳，可能很多时候，我们做许多事许多选择，都身不由  己。但我可以和你保证的是，我绝不会伤害你和你的哥哥/姐姐!”"}
+1475:{"part": "word/document.xml", "paragraph": 1475, "style": "2", "text": "第四幕"}
+1478:{"part": "word/document.xml", "paragraph": 1478, "style": "11", "text": "本幕任务：1、演绎奥丁和羌青瓷的对峙，揭示羌青瓷的身份 本幕道具："}
+1483:{"part": "word/document.xml", "paragraph": 1483, "style": "11", "text": "7份病例线索【第四幕-病例线索1-7】"}
+1487:{"part": "word/document.xml", "paragraph": 1487, "style": "11", "text": "羌青瓷穿着白大褂，从门口进入，一根羽毛插在胸前的口袋白大褂里面穿着衬衫或者西服(男羌)/礼服(女羌)"}
+1504:{"part": "word/document.xml", "paragraph": 1504, "style": "11", "text": "切第四幕流程音乐"}
+1506:{"part": "word/document.xml", "paragraph": 1506, "style": "11", "text": "(这个演绎是看起来大家在一起找的羌青瓷去治疗，实际上，都是在 不同时间段找的羌青瓷，)"}
+1507:{"part": "word/document.xml", "paragraph": 1507, "style": "11", "text": "羌青瓷认真看手中的病例记录： “现在是19:41分 (说开本时当时 的时间),马上进行对患者的心理治疗，希望这次能够得到进展。"}
+1514:{"part": "word/document.xml", "paragraph": 1514, "style": "11", "text": "羌青瓷： “二号病人以撒，病症：狂笑症，病情逐渐加深，加重原因"}
+1523:{"part": "word/document.xml", "paragraph": 1523, "style": "11", "text": "羌青瓷： “三号病人缪宏谟，病症：恐惧症恐惧物品：手术刀恐惧 原因不明，三号病人请你阐述病情。”"}
+1530:{"part": "word/document.xml", "paragraph": 1530, "style": "11", "text": "羌青瓷： “四号病人程走柳，病症：同样为恐惧症恐惧物品：相机、 新闻恐惧原因不明，四号病人请阐述病情。”"}
+1538:{"part": "word/document.xml", "paragraph": 1538, "style": "11", "text": "羌青瓷： “五号病人蒋伯驾，病症：并不清楚，但以我的判断，你在 压抑自己。病因：不可告人，五号病人，如果你愿意，请阐述你的病 情。”"}
+1545:{"part": "word/document.xml", "paragraph": 1545, "style": "11", "text": "羌青瓷： “六号病人(停顿),程聿怀，病症：欺瞒自己的爱人，病 因，野心?不坦然?或者是欲望，阐述病情吧我的六号病人。 ”"}
+1551:{"part": "word/document.xml", "paragraph": 1551, "style": "11", "text": "羌青瓷说完看向舞台方向。"}
+1552:{"part": "word/document.xml", "paragraph": 1552, "style": "11", "text": "【下面是奥丁羌青瓷互动演绎】"}
+1553:{"part": "word/document.xml", "paragraph": 1553, "style": "11", "text": "【见售后资料视频：第四幕奥丁羌青瓷对峙演绎】"}
+1554:{"part": "word/document.xml", "paragraph": 1554, "style": "11", "text": "【奥丁整体情绪：悲伤、愤怒】"}
+1555:{"part": "word/document.xml", "paragraph": 1555, "style": "11", "text": "【羌青瓷整体情绪：尽在掌握，略带嘲讽，注意，羌青瓷的语气千万不能太正， 这里羌青瓷想要做的，就是让自己的话语激起奥丁的愤怒和复仇情绪，所以其实"}
+1557:{"part": "word/document.xml", "paragraph": 1557, "style": "11", "text": "羌青瓷：“最后一位，患者姓名。”"}
+1559:{"part": "word/document.xml", "paragraph": 1559, "style": "11", "text": "奥丁： “奥丁。”"}
+1560:{"part": "word/document.xml", "paragraph": 1560, "style": "11", "text": "奥丁从舞台区出场，走到桌前，和羌青瓷隔着桌子面对面"}
+1561:{"part": "word/document.xml", "paragraph": 1561, "style": "11", "text": "羌青瓷： “是否清楚的知道自己的病症?”"}
+1562:{"part": "word/document.xml", "paragraph": 1562, "style": "11", "text": "奥丁冷笑，不屑： “兴许吧，可能我根本没有病，我说过，你这套东 西对一个真正的硬汉不起作用。”"}
+1563:{"part": "word/document.xml", "paragraph": 1563, "style": "11", "text": "羌青瓷： “奥丁，虽然很不想打击你的自信，可我还是要提醒你，这 已经是你又一次来进行这个你认为没用的治疗了。你是在害怕对 吗 ? ”"}
+1564:{"part": "word/document.xml", "paragraph": 1564, "style": "11", "text": "奥丁： “害怕?这话要是让黛利拉听到了，她恐怕会双眼放光的说奥 丁你老了，你要不要考虑一下把老大的位置让给我哈哈哈……不过， 那天的场景跟地狱有什么区别。”"}
+1565:{"part": "word/document.xml", "paragraph": 1565, "style": "11", "text": "羌青瓷： “我知道，你是那场大屠杀的幸存者 …… ”"}
+1566:{"part": "word/document.xml", "paragraph": 1566, "style": "11", "text": "奥丁： “不，我要再次指正你的错误，我是亲历者，是见证者，也是 会让那帮做出这些肮脏事情的蛆虫，付出代价的复仇者，但绝不是什 么幸存者，活下来挺不幸的。”"}
+1567:{"part": "word/document.xml", "paragraph": 1567, "style": "11", "text": "羌青瓷： “或许你可以尝试放下。”"}
+1568:{"part": "word/document.xml", "paragraph": 1568, "style": "11", "text": "奥丁： “医生，那天是什么颜色?”"}
+1569:{"part": "word/document.xml", "paragraph": 1569, "style": "11", "text": "羌青瓷平静地说： “黑色。”"}
+1570:{"part": "word/document.xml", "paragraph": 1570, "style": "11", "text": "奥丁语气越来越激动：“不，是红色，难以想象吧， 一层层的红染到 最后竟然是墨水一样的颜色，那颜色就盖在我的身上，我分辨不出来 哪一层是谁的。"}
+1575:{"part": "word/document.xml", "paragraph": 1575, "style": "11", "text": "(说到最后，奥丁双手撑着桌子死死盯着羌青瓷)"}
+1576:{"part": "word/document.xml", "paragraph": 1576, "style": "11", "text": "羌青瓷(站起来，看着奥丁，动作自信优雅，千万不要发怒，语气无 奈，好像真的自己也没有办法一样): “奥丁你太自大了，我见证过 比你更多，本该救命的地方成为了埋葬生命的坟冢，本是最纯洁的女 孩成为了举起屠刀的理由，本是大自然馈赠的财宝变成了带来魔鬼觊 觎的灾祸。上位者也有上位者的灾难，上位者也有上位者的救赎。”"}
+1578:{"part": "word/document.xml", "paragraph": 1578, "style": "11", "text": "“奥丁，看见了吗，这是莱诺家族的标志渡鸦，没错，你憎恨的就是"}
+1579:{"part": "word/document.xml", "paragraph": 1579, "style": "11", "text": "我的家族，它很强大，强大于你们数倍，奥丁，你敢向我复仇吗?” 奥丁冷笑：“……哈哈哈，我必须称赞你是一位好医生，你帮我这个  病入膏肓的病人找到了目标!等着吧，狂草帮会随时出现在你们身边  把你们头颅砍碎的，我保证!”"}
+1580:{"part": "word/document.xml", "paragraph": 1580, "style": "11", "text": "羌青瓷慢条斯理，挑衅地说： “可是，他们敢吗?”"}
+1581:{"part": "word/document.xml", "paragraph": 1581, "style": "11", "text": "奥丁看向程聿怀： “他们比你想象的更有勇气，你不相信他吗?”"}
+1582:{"part": "word/document.xml", "paragraph": 1582, "style": "11", "text": "羌青瓷也看程聿怀： “我比任何人都要相信他，你呢?” 奥丁： “狂草帮没有孬种。”"}
+1583:{"part": "word/document.xml", "paragraph": 1583, "style": "11", "text": "羌青瓷、奥丁同时说： “所以。”"}
+1584:{"part": "word/document.xml", "paragraph": 1584, "style": "11", "text": "羌青瓷和奥丁开始分别对同一个人输出，要紧凑一些，把握好节奏。"}
+1586:{"part": "word/document.xml", "paragraph": 1586, "style": "11", "text": "注意，羌青瓷下面说的每一句话，都是相反的含义，TA不是真的好意在问询每一个病人和给建议，而是在嘲讽、刺痛他们，语气带着弓诱、哄骗、嘲笑、阴阳怪气……总之，是一个反派的语气，千万不能很正、不能温柔、不能耐心要和刚才第三幕的耐心好医生形象形成鲜明对比!让大家意识到，这才是羌青瓷的真面目，前面的都是伪装!"}
+1587:{"part": "word/document.xml", "paragraph": 1587, "style": "11", "text": "奥丁对黛利拉：“黛利拉，拿好匕首，随时准备割开他们的喉咙。”"}
+1588:{"part": "word/document.xml", "paragraph": 1588, "style": "11", "text": "羌青瓷对黛利拉：“黛利拉，失去爱痛苦吗?那你要铭记这种感受，"}
+1590:{"part": "word/document.xml", "paragraph": 1590, "style": "11", "text": "奥丁对以撒： “以撒，狂草帮接了个大单子，杀了所有伤害了撒该的 人，这单子你来接。”"}
+1591:{"part": "word/document.xml", "paragraph": 1591, "style": "11", "text": "羌青瓷对以撒：“以撒，笑吧，放肆的笑吧，狂笑症如果无法治愈， 那你要学会终身与它共处。”"}
+1592:{"part": "word/document.xml", "paragraph": 1592, "style": "11", "text": "奥丁对缪宏谟： “缪医生，仁慈的医生，这一次，别再仁慈了。”"}
+1593:{"part": "word/document.xml", "paragraph": 1593, "style": "11", "text": "羌青瓷对缪宏谟： “医生，你有一双锐利的眼睛，你要物尽其用，可 对世界这张巨网，你看得穿吗?”"}
+1594:{"part": "word/document.xml", "paragraph": 1594, "style": "11", "text": "奥丁对程走柳： “程走柳，相机?真相?除了我们这些受害者谁还会 在乎?”"}
+1595:{"part": "word/document.xml", "paragraph": 1595, "style": "11", "text": "羌青瓷对程走柳： “程走柳，你很有勇气，你有勇气揭穿谎言，但还 有勇气活下去吗?”"}
+1596:{"part": "word/document.xml", "paragraph": 1596, "style": "11", "text": "奥丁对蒋伯驾： “蒋伯驾，我看得出来，你是个走极端的疯子，但小 心引火烧身。”"}
+1597:{"part": "word/document.xml", "paragraph": 1597, "style": "11", "text": "羌青瓷对蒋伯驾： “蒋伯驾，别演戏了，你和他们，从来都不是一样 的人。”"}
+1598:{"part": "word/document.xml", "paragraph": 1598, "style": "11", "text": "奥丁对程聿怀：“程大记者，聚焦你的镜头，用镜头对准那些嘴脸吧。”"}
+1599:{"part": "word/document.xml", "paragraph": 1599, "style": "11", "text": "羌青瓷对程聿怀： “我的爱人，充满谎言、利用、背叛的生活，你还 没厌倦吗?”"}
+1601:{"part": "word/document.xml", "paragraph": 1601, "style": "11", "text": "羌青瓷： “奥丁，可能最后真相仍旧是沉默的。”"}
+1602:{"part": "word/document.xml", "paragraph": 1602, "style": "11", "text": "奥丁： “你到底想说些什么?”"}
+1603:{"part": "word/document.xml", "paragraph": 1603, "style": "11", "text": "羌青瓷： “这个世界所有事情都有对应的代价。想接近莱诺家族，就 要拿出能力，想揭露真相，就要承担后果，这就是我要说的。”"}
+1604:{"part": "word/document.xml", "paragraph": 1604, "style": "11", "text": "奥丁：“你刚才说的，我一句都没听懂，但你最好记住，他们是我奥 丁罩着的，最好别做伤害他们的事，不然我奥丁不会放过你们的。走 了医生，我跟你，会再见的。”"}
+1605:{"part": "word/document.xml", "paragraph": 1605, "style": "11", "text": "奥丁退场"}
+1606:{"part": "word/document.xml", "paragraph": 1606, "style": "11", "text": "羌青瓷起身，边脱下白大褂，边说话。"}
+1607:{"part": "word/document.xml", "paragraph": 1607, "style": "11", "text": "羌青瓷： “聿，各位，从现在开始，你们不该再叫我羌青瓷，应该叫"}
+1610:{"part": "word/document.xml", "paragraph": 1610, "style": "11", "text": "关灯，羌青瓷退场。"}
+1611:{"part": "word/document.xml", "paragraph": 1611, "style": "11", "text": "羌青瓷退场后，随便派个人出去发人物B本男程和女程区分在于，封面打开第一页，女程有一只手拿着熄灭火柴的图标，男程没有这个图标。"}
+1612:{"part": "word/document.xml", "paragraph": 1612, "style": "11", "text": "—播放雨声Thunder   &Rain  ,提示玩家开始阅读第五幕—— 切第五幕读本音乐"}
+1613:{"part": "word/document.xml", "paragraph": 1613, "style": "11", "text": "=======第五幕========"}
+1616:{"part": "word/document.xml", "paragraph": 1616, "style": "11", "text": "羌青瓷出来挑事QA  说出一些反转的东西(可能会吵架)"}
+1617:{"part": "word/document.xml", "paragraph": 1617, "style": "11", "text": "羌青瓷以站在大家对立面的方式，促成大家的合谋 本幕道具："}
+1621:{"part": "word/document.xml", "paragraph": 1621, "style": "11", "text": "一副手铐(钥匙羌青瓷自己拿着)"}
+1623:{"part": "word/document.xml", "paragraph": 1623, "style": "11", "text": "一个遥控器(随便店里拿一个不用的遥控，羌青瓷自己拿着)"}
+1624:{"part": "word/document.xml", "paragraph": 1624, "style": "11", "text": "第五幕带本要领："}
+1625:{"part": "word/document.xml", "paragraph": 1625, "style": "11", "text": "羌青瓷："}
+1626:{"part": "word/document.xml", "paragraph": 1626, "style": "11", "text": "羌青瓷和程走柳的私聊时，一定要非常真诚，如果是女羌青瓷，带过《山 岗上的长风》陈安华的DM 宝宝，这里就用陈安华在烧八千卷楼前和大家诀别的 语气就可以。如果没有玩过山岗的宝宝，就是用赴死前的感觉、交代后事的情绪 去说就可以。"}
+1627:{"part": "word/document.xml", "paragraph": 1627, "style": "11", "text": "羌青瓷带着程走柳进入房间以后，要马上进入反派角色，TA 需要表现出来"}
+1629:{"part": "word/document.xml", "paragraph": 1629, "style": "11", "text": "前面，我为了利用你们，所以我才会跟你们好好说话，但现在你们已经没有任何 的利用价值了，那我也就不必伪装了，跟你们坦诚相对吧，所以这一幕的羌青瓷 可以极尽刻薄和嘲讽。"}
+1630:{"part": "word/document.xml", "paragraph": 1630, "style": "11", "text": "但是，羌青瓷的刻薄绝对不是说用粗鄙、尖锐的话去攻击人，"}
+1632:{"part": "word/document.xml", "paragraph": 1632, "style": "11", "text": "羌青瓷在这里，要以挑事的态度把每个人的身份，彼此之前的矛盾全部挑明出来。 表面上，TA 是为了激化在场所有人的矛盾，让他们彼此相恨，但实际上，羌青  瓷这里是为了让他们解开误会，更团结地对抗莱诺家族。"}
+1633:{"part": "word/document.xml", "paragraph": 1633, "style": "11", "text": "第五幕看本中途，程走柳会出来见羌青瓷进行第三次的私聊互动 -"}
+1634:{"part": "word/document.xml", "paragraph": 1634, "style": "11", "text": "【程走柳和羌青瓷的互动内容】"}
+1635:{"part": "word/document.xml", "paragraph": 1635, "style": "11", "text": "羌青瓷和程走柳互动3"}
+1636:{"part": "word/document.xml", "paragraph": 1636, "style": "11", "text": "(第五幕中途：私聊)"}
+1637:{"part": "word/document.xml", "paragraph": 1637, "style": "11", "text": "【此演绎见售后资料：第五幕程走柳羌青瓷私聊】"}
+1638:{"part": "word/document.xml", "paragraph": 1638, "style": "11", "text": "互动前准备："}
+1640:{"part": "word/document.xml", "paragraph": 1640, "style": "11", "text": "第五幕的小黑屋音乐直接放【《浮城旧梦》橙光音乐/走狗】。"}
+1643:{"part": "word/document.xml", "paragraph": 1643, "style": "11", "text": "程走柳进来以后，羌青瓷示意她坐下。 羌青瓷： “走柳，好久不见。”"}
+1645:{"part": "word/document.xml", "paragraph": 1645, "style": "11", "text": "【羌青瓷苦笑，无奈】"}
+1673:{"part": "word/document.xml", "paragraph": 1673, "style": "11", "text": "当然，走柳，我不会真的让你受到伤害，我会派人联系奥丁，他最后 会来救你们，但在此之前，你要忍耐一下。你帮我一起，好吗?”"}
+1676:{"part": "word/document.xml", "paragraph": 1676, "style": "11", "text": "【羌青瓷拿出一支录音笔】"}
+1687:{"part": "word/document.xml", "paragraph": 1687, "style": "11", "text": "羌青瓷停顿一下，站起来。"}
+1689:{"part": "word/document.xml", "paragraph": 1689, "style": "11", "text": "羌青瓷伸出右手对程走柳正式发问： “程走柳，你做好准备，站在我 的对立面了吗?”"}
+1691:{"part": "word/document.xml", "paragraph": 1691, "style": "11", "text": "如果是女羌青瓷，以下版本为："}
+1696:{"part": "word/document.xml", "paragraph": 1696, "style": "11", "text": "“走柳，一会，我会把你放在整个仓库最前面的位置，我会尽量让你  们解开误会，我可能会对你出言不逊，但这，不是羌青瓷对走柳说的， 是瑞法 · 莱诺对程走柳记者说的，你明白吗?那去吧，走柳，我就在  我会一直站在你的身后，在你一回头，就能看见的地方。”"}
+1697:{"part": "word/document.xml", "paragraph": 1697, "style": "11", "text": "如果是男羌青瓷，以下版本为："}
+1702:{"part": "word/document.xml", "paragraph": 1702, "style": null, "text": "待所有玩家阅读完毕 ， 羌青瓷出场 。"}
+1703:{"part": "word/document.xml", "paragraph": 1703, "style": "11", "text": "切第五幕流程音乐"}
+1706:{"part": "word/document.xml", "paragraph": 1706, "style": "11", "text": "羌青瓷不可以生气、不可以发怒，全程不管场上如何， 一定要  沉得住气，可以笑(冷笑和嘲笑),可以阴阳怪气，但一定要优雅， 然后不断地挑事。"}
+1707:{"part": "word/document.xml", "paragraph": 1707, "style": "11", "text": "如果场上有人叫你“羌青瓷”,你要纠正TA, 说“叫我瑞法莱 诺。】"}
+1708:{"part": "word/document.xml", "paragraph": 1708, "style": "11", "text": "但实际上的目的，羌青瓷只是用坏人的姿态，让大家互相把隔阂说出来，有机会好好地解释清楚每个人的苦衷。但这个目的玩家们不需要知道，羌青瓷只管气人就可以了。】"}
+1709:{"part": "word/document.xml", "paragraph": 1709, "style": "11", "text": "【此处视频，见售后资料：第五幕羌青瓷绑架演绎】"}
+1711:{"part": "word/document.xml", "paragraph": 1711, "style": "11", "text": "羌青瓷： “走柳，我的座上宾，我为你安排的座位，还满意吗?”"}
+1714:{"part": "word/document.xml", "paragraph": 1714, "style": "11", "text": "羌青瓷端详着玩家，先不着急说话。"}
+1723:{"part": "word/document.xml", "paragraph": 1723, "style": "11", "text": "等程走柳自己说，如果自她不说话，羌青瓷就说。好吧，走柳记者既然不说，那么,有人自己站出来吗?”等缪宏谟自己承认，如果她不说话，羌青瓷就说"}
+1724:{"part": "word/document.xml", "paragraph": 1724, "style": "11", "text": "羌青瓷嘲讽笑道： “你们的情谊也不过如此嘛，走柳妹妹，你看也没 人在乎你的性命，不如你直接告诉我吧。”"}
+1725:{"part": "word/document.xml", "paragraph": 1725, "style": "11", "text": "程走柳肯定不会说，羌青瓷直接点破。"}
+1727:{"part": "word/document.xml", "paragraph": 1727, "style": "11", "text": "如果缪宏谟自己承认了 ，那么羌青瓷说。"}
+1728:{"part": "word/document.xml", "paragraph": 1728, "style": "11", "text": "羌青瓷： “真是感人啊，没有想到，这几年闹得沸沸扬扬的情敌，竟  然有这么深厚的情谊。这我就有点不懂了， 一位是我兄长的妻子， 一  位曾公开对我的兄长伯纳德表达疯狂的爱意，你们都这么爱我的兄长，"}
+1731:{"part": "word/document.xml", "paragraph": 1731, "style": "11", "text": "羌青瓷：“确实，爱意这种东西也是可以演的。 (意有所指看一下程 聿怀)"}
+1734:{"part": "word/document.xml", "paragraph": 1734, "style": "11", "text": "不管玩家说不说，羌青瓷都可以接下面的话术"}
+1738:{"part": "word/document.xml", "paragraph": 1738, "style": "11", "text": "原来是我兄长逼迫你摘下的眼角膜啊，那难怪你会用同样的手段折磨他，这么说来，也是我那兄长自作自受了。如果玩家没说，羌青瓷就替她说："}
+1740:{"part": "word/document.xml", "paragraph": 1740, "style": "11", "text": "羌青瓷： “但是，我还真是为你摘下眼角膜那个小女孩鸣不平，唉， 说到底，以撒先生，你妹妹撒该真是可怜啊，不仅没了一双眼睛，还"}
+1747:{"part": "word/document.xml", "paragraph": 1747, "style": "11", "text": "解释完以后，羌青瓷："}
+1754:{"part": "word/document.xml", "paragraph": 1754, "style": "11", "text": "“真是厉害，不愧是怒河的王牌杀手，刀握的是真稳啊，看来奥丁花 了不少心思培养你呢。”"}
+1755:{"part": "word/document.xml", "paragraph": 1755, "style": "11", "text": "“不过，你能顺利拿到这些目标的行踪，还得多亏你身边这位以撒先   生 。(看向以撒)毕竟怒河的许多情报，我们莱诺家族这些成员的行   踪，都来源这位情报官。怎么说呢，你还真是奥丁藏在暗处里的毒蛇   呢，不仅情报网铺设的密集，人也是难抓啊，费了我好大的精力呢。”"}
+1760:{"part": "word/document.xml", "paragraph": 1760, "style": "11", "text": "“看你们疑惑的眼神，应该还不知道吧，奥丁只是怒河的指挥官而已， 真正的怒河创始人，是我旁边这位走柳妹妹，和我那位瞎了双眼的嫂  子啊~”"}
+1763:{"part": "word/document.xml", "paragraph": 1763, "style": "11", "text": "羌青瓷开始Q 下 一 个人：“好了，蒋先生， (看向蒋伯驾)我的合 作伙伴，咱们也是好久不见了，首先得恭喜你如今也已经成为缪家的 家主了。听说你亲手弑父才坐上的这个位置啊，(笑 一 下)我一向很 欣赏你的这份魄力蒋先生。”"}
+1767:{"part": "word/document.xml", "paragraph": 1767, "style": "11", "text": "羌青瓷叹口气，看向黛利拉"}
+1776:{"part": "word/document.xml", "paragraph": 1776, "style": "11", "text": "等待玩家反应，最好这里在黛利拉的逼问下，蒋伯驾说出受控燃烧的 具体计划，如果蒋伯驾没能说，羌青瓷需要QA:"}
+1790:{"part": "word/document.xml", "paragraph": 1790, "style": "11", "text": "如果程聿怀不说自己是延迟，羌青瓷直接说："}
+1791:{"part": "word/document.xml", "paragraph": 1791, "style": "11", "text": "“当时我记得奥丁还质疑过我们的婚姻不是吗，确实啊，莱诺家族怎 么会允许一个小小的记者和自己的继承人之一进行联姻呢。布雷诺才 智惊人的“军师”、布雷族人的精神领袖“延迟”,才是我的丈夫/ 妻子，不是吗?”"}
+1807:{"part": "word/document.xml", "paragraph": 1807, "style": "11", "text": "羌青瓷： “好了，不管你们这些人有多恨莱诺家族都没有用，莱诺家 族是你们无法撼动的，不信，你们可以想想，怒河这些年只是杀了我 们莱诺家族的十几位成员就已经伤亡惨重了。据我的情报，怒河现在 的成员连一半都不到了吧?”"}
+1808:{"part": "word/document.xml", "paragraph": 1808, "style": "11", "text": "“我记得有一次，奥丁都差一点死在了我们手上，唉，可惜了。” “不过没关系，解决了你们，再去取他的命也来得及 …… ”"}
+1810:{"part": "word/document.xml", "paragraph": 1810, "style": "11", "text": "奥丁同时持枪踹门而入，直接把黛利拉护在身后，举枪对着羌青瓷："}
+1811:{"part": "word/document.xml", "paragraph": 1811, "style": "11", "text": "“羌青瓷，放开他们!我警告过你，别伤害他们。”"}
+1812:{"part": "word/document.xml", "paragraph": 1812, "style": "11", "text": "羌青瓷双手慢慢举起"}
+1813:{"part": "word/document.xml", "paragraph": 1813, "style": "11", "text": "羌青瓷： “你要叫我瑞法 · 莱诺。”"}
+1814:{"part": "word/document.xml", "paragraph": 1814, "style": "11", "text": "羌青瓷： “奥丁，没想到你来的这么快。你别冲动哦，他们身下都有 炸弹，你也不想让他们为我陪葬吧?”"}
+1815:{"part": "word/document.xml", "paragraph": 1815, "style": "11", "text": "奥丁举着枪，慢慢走进来，把玩家都护在身后，但是枪一直对着羌青 瓷。"}
+1816:{"part": "word/document.xml", "paragraph": 1816, "style": "11", "text": "奥丁： “瑞法莱诺，我可以放你一条生路，把炸弹遥控器给我。”"}
+1817:{"part": "word/document.xml", "paragraph": 1817, "style": "11", "text": "羌青瓷：“奥丁，你放我安然离开这里，我自然会给你，我很有诚意。”"}
+1820:{"part": "word/document.xml", "paragraph": 1820, "style": "11", "text": "奥丁： “蒋伯驾，把程走柳先带回去。”"}
+1822:{"part": "word/document.xml", "paragraph": 1822, "style": "11", "text": "羌青瓷看着蒋伯驾： “蒋先生，你可以再考虑一下继续和我们莱诺家 族合作，不用着急回答。”"}
+1823:{"part": "word/document.xml", "paragraph": 1823, "style": "11", "text": "说着，把手铐钥匙给蒋伯驾【面对奥丁的枪，要一直举着双手】 等蒋伯驾把程走柳带回去"}
+1824:{"part": "word/document.xml", "paragraph": 1824, "style": "11", "text": "羌青瓷： “奥丁，我说过，我很有诚意。”"}
+1826:{"part": "word/document.xml", "paragraph": 1826, "style": "11", "text": "奥丁： “瑞法莱诺，我下次不会放过你。”"}
+1827:{"part": "word/document.xml", "paragraph": 1827, "style": "11", "text": "羌青瓷边退边说： “各位，聿，我们很快就会再见的。”"}
+1829:{"part": "word/document.xml", "paragraph": 1829, "style": "11", "text": "羌青瓷退场。"}
+1830:{"part": "word/document.xml", "paragraph": 1830, "style": "11", "text": "奥丁把遥控捡起来以后 (着急、关心一下大家):  “黛利拉、以撒没  事吧? (再看向缪宏谟和程走柳)你们两也没事吧?没想到瑞法莱诺  把你们抓了起来，为了找到你们，怒河这次……又付出了一些代价，"}
+1832:{"part": "word/document.xml", "paragraph": 1832, "style": "11", "text": "奥丁：“各位我不知道瑞法莱诺到底对你们说了什么?但是我猜，你 们应该已经知道了程走柳和缪宏谟才是怒河的创始人。所以，以撒、 黛利拉，其实是她们两亲手把自己的名字写上刺杀名单的。”"}
+1833:{"part": "word/document.xml", "paragraph": 1833, "style": "11", "text": "如果玩家主动问为什么,就让缪宏谟和程走柳自己说 如果玩家不问，奥丁可以接着说"}
+1834:{"part": "word/document.xml", "paragraph": 1834, "style": "11", "text": "奥丁：“虽然她们当初是被伯纳德逼迫的，但是她们从来没有原谅过 自己，一直说报了仇就要赎罪，但是缪宏谟、程走柳，咱们现在有更 强大的目标了，你们别急，再等等，等干倒了莱诺家族，我绝对不拦 着你，行吗?”"}
+1835:{"part": "word/document.xml", "paragraph": 1835, "style": "11", "text": "奥丁： “各位，或许我们之间都有隔阂和私仇，但我想说，目前在我 们面前有个共同的敌人是莱诺家族!一切的起源都是他们造成的，就 算我们要承担自己做过的错事，那也应该在那之前，让莱诺家族先付 出代价!”"}
+1838:{"part": "word/document.xml", "paragraph": 1838, "style": "11", "text": "以撒可能会不太愿意，奥丁可以对以撒说： “小以撒，老大知道你心 中有恨，老大不想让你放下仇恨，但是莱诺家族是我们最大的仇人， 我们必须覆灭了他们。放心，结束所有的事情之后，老大会给你一个 交代的。信我吗?”"}
+1844:{"part": "word/document.xml", "paragraph": 1844, "style": "11", "text": "——播放雨声Thunder&Rain  , 提示玩家开始阅读第六幕—— 切第六幕读本音乐"}
+1846:{"part": "word/document.xml", "paragraph": 1846, "style": "11", "text": "第六幕"}
+1852:{"part": "word/document.xml", "paragraph": 1852, "style": "11", "text": "阿奇小黑屋互动，需要一个罐子和两种颜色的一堆糖"}
+1855:{"part": "word/document.xml", "paragraph": 1855, "style": "11", "text": "蒋伯驾老派约会卡四张【蒋伯驾老派约会卡-第六幕-不止于此】"}
+1856:{"part": "word/document.xml", "paragraph": 1856, "style": "11", "text": "第六幕带本要领："}
+1857:{"part": "word/document.xml", "paragraph": 1857, "style": "11", "text": "奥丁：在这一幕帮助大家把误会解开，跟所有人按照手册，拉好羁绊。 奥丁说话一定不要很沉重，氛围是一场轻松的告别。"}
+1858:{"part": "word/document.xml", "paragraph": 1858, "style": null, "text": "第六幕看本中途，黛利拉会去小黑屋找阿奇。"}
+1859:{"part": "word/document.xml", "paragraph": 1859, "style": "11", "text": "黛利拉阿奇互动2"}
+1860:{"part": "word/document.xml", "paragraph": 1860, "style": "11", "text": "(第六幕看本中途：黛利拉小黑屋找阿奇) 所需道具：(道具类)一个罐子，两种颜色的一大堆糖"}
+1861:{"part": "word/document.xml", "paragraph": 1861, "style": "11", "text": "互动前准备："}
+1865:{"part": "word/document.xml", "paragraph": 1865, "style": "11", "text": "黛利拉第六幕看本之后，到单独的房间寻找阿奇——"}
+1875:{"part": "word/document.xml", "paragraph": 1875, "style": "11", "text": "“小黛，很抱歉我不能陪着你一起去做你马上要去完成的事情。但你 要相信，神偷先生永远会在杀手小姐需要的时候出现，我保证。”  “好了小黛，你该回去了，不然奥丁又要着急了。你知道的，他最担 心你了。小黛，把糖拿回去，记得每天都要吃一颗糖果哦，那样我会 更快的回到你身边。”"}
+1877:{"part": "word/document.xml", "paragraph": 1877, "style": "11", "text": "(等蒋伯驾看完本，把老派约会-第六幕-不止于此的约会卡和一条鳄 鱼牙齿手链给他，让他像之前一样一会儿给程走柳。"}
+1886:{"part": "word/document.xml", "paragraph": 1886, "style": "11", "text": "待所有玩家阅读完毕 ， 奥丁出场 。"}
+1887:{"part": "word/document.xml", "paragraph": 1887, "style": "11", "text": "切第六幕流程音乐"}
+1889:{"part": "word/document.xml", "paragraph": 1889, "style": "11", "text": "【这里有许多动作行为，建议看一下售后资料：第六幕奥丁输出】"}
+1890:{"part": "word/document.xml", "paragraph": 1890, "style": "11", "text": "奥丁出场(装作很苦恼的样子): “各位，还有12个小时，12个 小时之后就是和莱诺家族清算的时候了，很危险啊，怎么办，还去吗?"}
+1894:{"part": "word/document.xml", "paragraph": 1894, "style": "11", "text": "程聿怀开始输出，中间程走柳很可能会回复他，也不需要打断 等程聿怀输出完，奥丁继续"}
+1897:{"part": "word/document.xml", "paragraph": 1897, "style": "11", "text": "奥丁： “走柳，我有个严肃的事情要问你，真的很严肃(停顿一下) 冰淇淋真的不能当锅底吗?”等程走柳反馈"}
+1900:{"part": "word/document.xml", "paragraph": 1900, "style": "11", "text": "奥丁：“誒，你们知道吗，我给他取了个新外号，之前总叫他电台哥， 现在我给你取的什么啊?”等蒋伯驾回答"}
+1904:{"part": "word/document.xml", "paragraph": 1904, "style": "11", "text": "奥丁(拿起缪面前的蜡烛):“小缪，你说话之前我有事要告诉你，"}
+1907:{"part": "word/document.xml", "paragraph": 1907, "style": "11", "text": "奥丁：“小以撒，你说话之前稍等一下老大，各位，来帮忙给小以撒 一点光(带头为以撒打光，蜡烛或者手机都行，让除了以撒缪之外的 几个人都打光，如果店里有闲猴可以喊过来一起打光，就当是怒河的 小伙子了)好了，小以撒，可以开始了。 ”"}
+1908:{"part": "word/document.xml", "paragraph": 1908, "style": "11", "text": "以撒对缪输出，当三枚戒指都为缪带上之后，关上打的光，等以撒输 出完，以撒最后会对奥丁输出，约定奥丁跑步，奥丁回复：“可以啊， 但你要跑不过我可是很尴尬的啊。”"}
+1909:{"part": "word/document.xml", "paragraph": 1909, "style": "11", "text": "奥丁：“真好，小以撒，要有新的家了，黛利拉，你也为小以撒开心 的是吧。也行，能腾出个大房间给怒河以后新来的小伙子了。对了小 以撒，我学了个新的笑话，还没来得及讲，我现在讲给你，东国有个 职位，叫皇帝。有一天皇帝上早朝，对文武百官说：孤的胜，你们有 目共睹，孤的败，说完他就走了。哈哈哈哈怎么样，这个笑话，是不 是很好笑?(等一下反馈，情绪降下来一些)小以撒，我真的很喜欢 这个笑话，所以我在想，如果有一天，当然，很多年之后啊，有一天 我去世了。我的葬礼应该是什么样的呢?我讨厌悲伤，小以撒，你可 以当我葬礼上的司仪，省略那些冗长无趣的悼词，就给我讲一个最好 笑的笑话可以吗?答应老大。谢谢你小以撒。”"}
+1910:{"part": "word/document.xml", "paragraph": 1910, "style": "11", "text": "奥丁看向黛利拉，老父亲对女儿告别的那种深情：“黛利拉，该你了， 你…想说什么呢?”"}
+1911:{"part": "word/document.xml", "paragraph": 1911, "style": "11", "text": "黛利拉会跟奥丁输出，奥丁需要一直回复，不要让黛利拉干说，比如 黛利拉说奥丁老了，想让奥丁退休。"}
+1912:{"part": "word/document.xml", "paragraph": 1912, "style": "11", "text": "奥丁回复：我老吗?我觉得我还挺年轻啊，再让我当一分钟老大，当"}
+1914:{"part": "word/document.xml", "paragraph": 1914, "style": "11", "text": "比如黛利拉问奥丁天堂应该是什么样子的，奥丁不要回答唱片店，但 需要表现出认真思考并且回答黛利拉的问题：我不知道，可能是电影 院吧?你觉得会是什么?"}
+1915:{"part": "word/document.xml", "paragraph": 1915, "style": "11", "text": "在这里我无法预设出所有问题，因为我们不知道玩家会问出来什么, 但奥丁反馈的重心就是认真，绝不敷衍， 一个父亲不会敷衍自己女儿 的，拍着她肩膀认真听她说，视线也别离开她，这是这场剧本中，你 最后能跟她面对面好好说话的机会了。当然最后别忘了问她：“黛 利 拉，亲情可以吗?我会是一直存在的那颗子弹。 ”"}
+1916:{"part": "word/document.xml", "paragraph": 1916, "style": "11", "text": "等待所有玩家都输出完，奥丁最后输出做结束。"}
+1917:{"part": "word/document.xml", "paragraph": 1917, "style": "11", "text": "【下面是奥丁对每个人的输出内容】"}
+1918:{"part": "word/document.xml", "paragraph": 1918, "style": "11", "text": "等大家都说完，奥丁： “好，看来到我了。我比较贪心，有很多想说 的话，那就挨个来吧。 (温柔低声)黛利拉等我一下好吗”"}
+1919:{"part": "word/document.xml", "paragraph": 1919, "style": "11", "text": "奥丁先对程聿怀： “那还是你吧，我之前听你和走柳说，你们两个是 什么齐天大圣和哪吒三太子，挺好，我看过你们东国的神话故事，他 们俩的结局可都不算太好， 一个被压了五百年， 一个削肉剔骨。不过 好像喜欢他们的也是最多的，因为他们最有反抗精神，我看了很多版 本，我想告诉你，别当什么被册封的佛，就当闹了天的大圣，当然， 如果很累的话，当个弼马温也不错，虽然怒河比不上天庭，但我奥丁 罩得住你。”"}
+1920:{"part": "word/document.xml", "paragraph": 1920, "style": "11", "text": "奥丁对蒋伯驾： “先跳过走柳，先说摇滚哥，摇滚哥，你差我一张唱 片你知道吗，那次在布雷诺的唱片店可是我结的账，你可要帮我选一张最好听的唱片才行知道吗。摇滚哥，我，理解你(给他一个respect, 就是敲敲自己的胸口再伸手指向他)”"}
+1921:{"part": "word/document.xml", "paragraph": 1921, "style": "11", "text": "奥丁对程走柳缪宏谟： “啊，要到麻烦二人组了，你们两个太麻烦了， 五年啊，整整五年，就把所有的事抛给我，还说我有白头发了，我有 白头发谁害的啊!你们两个人太丧了，总是动不动就想死，咱们可是  说好了，你们的死法可是怒河来决定，什么病不病的，没我奥丁说的 算。你们啊，开心点吧，我快没有表情可以画给你们了，我就会这么 多，小缪，盲文很难学的!不过，你们要是又有不开心的时候，可以 回去四处找一找，兴许在哪就要我给你们准备好的便利贴呢。"}
+1922:{"part": "word/document.xml", "paragraph": 1922, "style": "11", "text": "奥丁对以撒： “以撒，还是那句话，在老大面前，可以想笑就笑，在 所有人面前，都要想笑就笑。你在我心中，永远是最正常的那一个。 以撒，继续往前走吧，老大会永远帮你的。”"}
+1923:{"part": "word/document.xml", "paragraph": 1923, "style": "11", "text": "奥丁对黛利拉： “黛利拉…你说人有了女儿怎么就不一样了呢，有了 你之后我就不太在乎什么英雄不英雄，我奥丁，布雷诺最纯正的硬汉， 只想跟在我女儿身后，给你买好看的粉色小裙子，你不需要担心做任  务会把裙子弄脏所以去穿你不喜欢的颜色，就穿粉色的，它最适合你。 黛利拉，我想在做一分钟老大，是因为我想让你再慢点长大，我想再 多保护你一点，这一点时间兴许是永远。不过，我现在发现，你已经  是长大了，变成了我可以依靠的人了。黛利拉，我还想再问一次，亲 情可以吗?”"}
+1925:{"part": "word/document.xml", "paragraph": 1925, "style": "11", "text": "“不管如何，奥丁都会是黛利拉，最好的那颗子弹。”"}
+1926:{"part": "word/document.xml", "paragraph": 1926, "style": "11", "text": "奥丁：“之前在布雷诺唱片店，我心情不好没来得及跟你们讲我的故  事，这样吧，等我们推翻了莱诺家族，我就去跟黛利拉开个唱片店， 到时候，我就好好给你们讲讲我的一生。怎么样?到时候摇滚哥别忘  了买单啊。”"}
+1928:{"part": "word/document.xml", "paragraph": 1928, "style": "11", "text": "奥丁站起身，对大家说：“那就说好了。我啊，之前变了许多魔术， 都失败了。但明天我会变一个最厉害的魔术，也会是我最成功的魔术， 你们放心走进那个会场，我绝对不会让会场那扇门走进去一个敌人!  这就是我最成功的魔术。好了，还有不到12个小时了，让我们共同 做好准备，推翻莱诺家族!”"}
+1929:{"part": "word/document.xml", "paragraph": 1929, "style": "11", "text": "奥丁退场"}
+1941:{"part": "word/document.xml", "paragraph": 1941, "style": "11", "text": "——播放雨声Thunder &Rain  ,提示玩家开始阅读C 本—— 切第七幕读本音乐"}
+1943:{"part": "word/document.xml", "paragraph": 1943, "style": "11", "text": "第七幕"}
+1945:{"part": "word/document.xml", "paragraph": 1945, "style": "11", "text": "——播放雨声Thunder &Rain  ,提示玩家开始阅读C 本—— 切第七幕读本音乐"}
+1950:{"part": "word/document.xml", "paragraph": 1950, "style": "11", "text": "【羌青瓷从侧边走出，站在舞台中间】"}
+1951:{"part": "word/document.xml", "paragraph": 1951, "style": "11", "text": "羌青瓷发言：“各位，我是瑞法 ·莱诺，如今莱诺家族的家主。首先，"}
+1953:{"part": "word/document.xml", "paragraph": 1953, "style": "11", "text": "羌青瓷向台下微微鞠躬。"}
+1954:{"part": "word/document.xml", "paragraph": 1954, "style": "11", "text": "羌青瓷发言： “下面有请我们合作伙伴，缪家家主蒋先生致词。”"}
+1956:{"part": "word/document.xml", "paragraph": 1956, "style": "11", "text": "羌青瓷可以伸手示意蒋伯驾所在的位置： “蒋先生，请。”"}
+1957:{"part": "word/document.xml", "paragraph": 1957, "style": "11", "text": "切第七幕流程音乐"}
+1967:{"part": "word/document.xml", "paragraph": 1967, "style": "11", "text": "羌青瓷露出微笑：“各位，许久不见了。我必须向全世界的记者朋友 们介绍一下这几位，他们……(举起手，指完一圈)曾是我的故人， 但现在(停顿),他和她(指向黛利拉和以撒),分别是臭名昭著的 组织——怒河的杀手和情报官。而她，(指向缪宏谟)一个并不称职 的医生，无端继承了我兄长的巨额遗产。据我所知，她的同谋，就是 她  ，(指向程走柳)一位妒妇，一名记者，她的父亲就是曾经那位失 职记者程亮冬。而你 (蒋伯驾),缪家家主， 一个异姓的缪家家主， 不过只是个私生子罢了，一个私生子却背叛了我们的合作。至于最后 这 位 ，(不用指，只是看着程聿怀)曾经是我的爱人，怎么?你也要 背叛我了吗爱人? (不用等回答直接继续说)你们说的话可是慷慨激 昂，但抨击虚假，你们就该知道，真实，是需要证据的。所以，你们 有证据吗?”"}
+1970:{"part": "word/document.xml", "paragraph": 1970, "style": "11", "text": "羌青瓷捡起一个证据条，轻蔑地说：“这些?这些算证据吗?不，它 们并没有被证实，那这就只是一堆废纸。”"}
+1982:{"part": "word/document.xml", "paragraph": 1982, "style": "11", "text": "羌青瓷这个时候不要破防，不要急，表现出来一点慌张即可：“他们 说的话……藏真隐实，流氓叙事!都不可信!”"}
+1983:{"part": "word/document.xml", "paragraph": 1983, "style": "11", "text": "蒋伯驾：“羌青瓷，你最熟悉谎言，可当我们说出的都是真相的时候， 你却无能为力了是吗?瑞法 · 莱诺，你和莱诺家族，输了!”"}
+1985:{"part": "word/document.xml", "paragraph": 1985, "style": "11", "text": "【羌青瓷站在原地看向玩家程走柳，轻轻微笑一下】"}
+1987:{"part": "word/document.xml", "paragraph": 1987, "style": "11", "text": "羌青瓷退场"}
+1993:{"part": "word/document.xml", "paragraph": 1993, "style": "11", "text": "你们看着会场混乱的人群，喧嚣的声音，漫天飘扬的纸张，只想把这 个好消息告诉奥丁。"}
+2006:{"part": "word/document.xml", "paragraph": 2006, "style": "11", "text": "奥丁死后的遗物环节"}
+2010:{"part": "word/document.xml", "paragraph": 2010, "style": "11", "text": "砸炮枪两把，奥丁一把，幕后人员一把"}
+2011:{"part": "word/document.xml", "paragraph": 2011, "style": "11", "text": "奥丁耳机"}
+2014:{"part": "word/document.xml", "paragraph": 2014, "style": "11", "text": "奥丁笑话本子"}
+2020:{"part": "word/document.xml", "paragraph": 2020, "style": "11", "text": "奥丁的耳机"}
+2022:{"part": "word/document.xml", "paragraph": 2022, "style": "11", "text": "幕后音(最开始讲故事的女声):“我们所有人都没能见到奥丁的最 后一面，很多年以后，我也一直在想，奥丁死前，他到底在想什么 呢…… ”"}
+2024:{"part": "word/document.xml", "paragraph": 2024, "style": "11", "text": "奥丁死亡演绎：《硬汉的最后 一 分钟》"}
+2025:{"part": "word/document.xml", "paragraph": 2025, "style": "11", "text": "【演绎视频见售后资料：奥丁《硬汉的最后一分钟》演绎】"}
+2026:{"part": "word/document.xml", "paragraph": 2026, "style": "11", "text": "演绎人员：奥丁，和一个幕后音"}
+2027:{"part": "word/document.xml", "paragraph": 2027, "style": "11", "text": "道具：一把椅子；砸炮枪两把，奥丁一把，幕后人员一把；奥丁耳机； 火焰钱包【打火机烟油，如何使用见售后资料：火焰钱包魔术视频】"}
+2029:{"part": "word/document.xml", "paragraph": 2029, "style": "11", "text": "【提前给奥丁在dm  带本地方放好一把椅子】"}
+2030:{"part": "word/document.xml", "paragraph": 2030, "style": "11", "text": "演绎区奥丁戴着耳机侧身站好，看向舞台一侧，手里拿着一把枪； 幕后奥丁面对的方向，出一个幕后人员，手里也拿着一把枪。"}
+2032:{"part": "word/document.xml", "paragraph": 2032, "style": "11", "text": "切奥丁死亡演绎音乐"}
+2035:{"part": "word/document.xml", "paragraph": 2035, "style": "11", "text": "奥丁举枪对着外面。"}
+2036:{"part": "word/document.xml", "paragraph": 2036, "style": "11", "text": "奥丁疯狂嘲讽：“嘿。你们这帮垃圾的枪法还不如狂草帮新来的准， 怒河的小伙子们，别让这帮垃圾闯进去!别怕，他们的子弹比婴儿的 拳头还要无力，这种程度是伤不到一位真正的硬汉的，是吧小伙子"}
+2038:{"part": "word/document.xml", "paragraph": 2038, "style": "11", "text": "没人回答，奥丁愣了一下，不确定的再喊。"}
+2039:{"part": "word/document.xml", "paragraph": 2039, "style": "11", "text": "奥丁：“小伙子们?”"}
+2040:{"part": "word/document.xml", "paragraph": 2040, "style": "11", "text": "仍是无人回答，奥丁摘下耳机，环顾了一下四周。"}
+2041:{"part": "word/document.xml", "paragraph": 2041, "style": "11", "text": "奥丁苦笑：“原来就剩我一个了。”"}
+2042:{"part": "word/document.xml", "paragraph": 2042, "style": "11", "text": "外面传来枪声，奥丁中弹。"}
+2043:{"part": "word/document.xml", "paragraph": 2043, "style": null, "text": "【中弹的一刻暂停音乐，奥丁踉跄着站起身子喘着气】"}
+2044:{"part": "word/document.xml", "paragraph": 2044, "style": "11", "text": "奥丁苦笑：“这一枪……威力真大啊，把我耳机都他妈打坏了( 抬 头 看四周)他们……怎么都不动了?”"}
+2045:{"part": "word/document.xml", "paragraph": 2045, "style": "11", "text": "旁白幕后音：“奥丁。” 奥丁：“你是谁?”"}
+2046:{"part": "word/document.xml", "paragraph": 2046, "style": "11", "text": "旁白幕后音：“奥丁，这不重要了，重要的是，你现在只剩最后一分 钟了。这一分钟会是你人生中最漫长的一分钟，只是这分钟过后，你 就会走到尽头。”"}
+2047:{"part": "word/document.xml", "paragraph": 2047, "style": "11", "text": "奥丁理解一下，释怀笑：“说的直白一点，也就是这分钟结束，我就 死了是吗?”"}
+2048:{"part": "word/document.xml", "paragraph": 2048, "style": "11", "text": "旁白幕后音：“是的，奥丁，你有什么想要说的吗?”"}
+2050:{"part": "word/document.xml", "paragraph": 2050, "style": "11", "text": "奥丁：“好久没有好好休息过了，对了，我就剩最后一分钟了，能再 给我放首摇滚乐吗?别放太悲伤的，黛利拉说过她不想看见我太悲凉的样子。”"}
+2051:{"part": "word/document.xml", "paragraph": 2051, "style": "11", "text": "旁白幕后音：“好的奥丁。”"}
+2052:{"part": "word/document.xml", "paragraph": 2052, "style": "11", "text": "切奥丁死亡演绎第二首音乐"}
+2054:{"part": "word/document.xml", "paragraph": 2054, "style": "11", "text": "旁白幕后音：“不过，等音乐声越变越大的时候，也就证明，你的时 间就要到了。奥丁，你还有遗憾吗?”"}
+2055:{"part": "word/document.xml", "paragraph": 2055, "style": "11", "text": "奥丁：“遗憾啊，那可太多了，也不知道死后去的地方，有没有像以 撒那么好的听众，他可是最懂我幽默的人。”"}
+2062:{"part": "word/document.xml", "paragraph": 2062, "style": "11", "text": "“我死后要是有棺椁的话，我希望她们两个对我说话声音能大一些，  我怕我听不清。算了……还是小声点吧，如果她们没有机会来对我说   说话，我也能告诉自己，可能是她们说话声音太小，我没听见 …… ” “说到黛利拉……她呀，一直想当老大。我总说，黛利拉你等等，你   让我再当一分钟，她抱怨：奥丁，怎么一分钟又一分钟，什么时候才   是头啊?”"}
+2065:{"part": "word/document.xml", "paragraph": 2065, "style": "11", "text": "停顿两秒，黛利拉回不回应都行 奥丁笑一下，抬头看着天"}
+2067:{"part": "word/document.xml", "paragraph": 2067, "style": "11", "text": "“我，奥丁，布雷诺最纯正的硬汉，世界上最伟大的魔术师，这一生 我变了许多魔术，都失败了，可最后这场魔术我成功了，这扇门没有 走进去一个敌人!最后，我还有个魔术想变给你们。”"}
+2069:{"part": "word/document.xml", "paragraph": 2069, "style": "11", "text": "奥丁点燃钱包，用火焰凑近烟，凑近的一刻，音乐声慢慢上调放大。 奥丁愣了一下，苦笑一声，放弃了点烟"}
+2072:{"part": "word/document.xml", "paragraph": 2072, "style": "11", "text": "旁白幕后音：“奥丁，门就要开了，你不再回头看看他们吗?”"}
+2073:{"part": "word/document.xml", "paragraph": 2073, "style": "11", "text": "奥丁停下脚步，音乐来到最高"}
+2074:{"part": "word/document.xml", "paragraph": 2074, "style": "11", "text": "奥丁不回头，举起右手比出大拇指，定格两秒。"}
+2076:{"part": "word/document.xml", "paragraph": 2076, "style": "11", "text": "奥丁退场。"}
+2078:{"part": "word/document.xml", "paragraph": 2078, "style": "11", "text": "奥丁的耳机；奥丁笑话本子；分别给程走柳和缪宏谟的心情便利本； 程聿怀和蒋伯驾的便利贴；黛利拉的信"}
+2081:{"part": "word/document.xml", "paragraph": 2081, "style": "11", "text": "旁白：“奥丁，布雷诺最纯正的硬汉，他结束了他生命的最后一分钟， 完成了一生中最完美的一次魔术。他留下的东西很少，那些东西不应 该留在这样注定荒凉的地方。黛利拉，就由你上前来，替大家取走这 些东西吧。”"}
+2085:{"part": "word/document.xml", "paragraph": 2085, "style": "11", "text": "幕后旁白： “程聿怀、蒋伯驾，你们是不是没想到奥丁也会给你们留 下东西。一直以来，奥丁好像没对你们说过太多的话，如今留下的这 句玩笑话，兴许就是奥丁对你们未曾言明的认可吧。”"}
+2086:{"part": "word/document.xml", "paragraph": 2086, "style": "11", "text": "“程走柳、缪宏谟，奥丁说，他会为你们准备一个专属于你们的死法， 现在你们知道那个死法是什么了吗?”"}
+2088:{"part": "word/document.xml", "paragraph": 2088, "style": "11", "text": "“奥丁总是吐槽你们很丧，嫌弃你们把压力都给到了他的身上，但他 其实格外在意你们。每次看见你们沮丧的时候，就会偷偷塞给你们一 张心情便利贴，上面是一个个画的很拙劣的表情。或许，这是属于硬 汉自己的温柔吧。现在怒河首领的身份回到了你们身上，他也终于可 以好好的休息一下了。”"}
+2089:{"part": "word/document.xml", "paragraph": 2089, "style": "11", "text": "旁白： “黛利拉，奥丁把他的这副耳机留给了你。耳机现在已经被子 弹打坏，但或许奥丁想告诉你的是，无声的爱也是爱，只要你相信， 爱就会归来。”"}
+2090:{"part": "word/document.xml", "paragraph": 2090, "style": "11", "text": "旁白： “以撒，奥丁这个小本子，你曾经就看过，现在这个本子终于 正式交接到你的手上了。”“以撒，奥丁需要一段葬礼的悼词，他可能不希望太过悲伤。所以，讲个笑话吧，或者说一些你想说的，就当做悼词了。”"}
+2092:{"part": "word/document.xml", "paragraph": 2092, "style": "11", "text": "输出完之后： “或许正是这种轻松、欢快的氛围，才是奥丁想要最后   留给你们的。那么以撒，拿着这个本子，别忘了放肆的笑，好好的活。”"}
+2093:{"part": "word/document.xml", "paragraph": 2093, "style": "11", "text": "旁白： “奥丁能留下的东西并不多，这就是他能给你们的所有。作为  布雷诺最纯正的硬汉，世界最伟大的魔术师，奥丁的故事终于落幕。 而你们的故事仍要继续，前行吧，别回头。”"}
+2098:{"part": "word/document.xml", "paragraph": 2098, "style": "11", "text": "本幕任务：沉浸式QA; 羌青瓷第一段演绎 本幕道具："}
+2101:{"part": "word/document.xml", "paragraph": 2101, "style": "11", "text": "旁白： “程聿怀，羌青瓷死了，她躲的地方十分隐蔽，你是怎么找到 她的呢?”"}
+2105:{"part": "word/document.xml", "paragraph": 2105, "style": "11", "text": "“羌青瓷一直是个骄傲的人，或许正是因为太过骄傲，竟坦然的把自 己的命脉交到了你的手上。当你们按照定位，找到那个安全屋的时候， 羌青瓷震惊吗?”"}
+2108:{"part": "word/document.xml", "paragraph": 2108, "style": "11", "text": "“但你不觉得疑惑吗?羌青瓷这样一个考虑周全，万事都会想好退路 的人，真的没有预料过，你会找到ta 吗?程聿怀，当你们来到这里 之前，羌青瓷坐在那间房子里，到底在等待什么呢?”"}
+2110:{"part": "word/document.xml", "paragraph": 2110, "style": "11", "text": "进羌青瓷演绎【视频见售后资料：羌青瓷无所容心演绎】 切第九幕流程音乐"}
+2112:{"part": "word/document.xml", "paragraph": 2112, "style": "11", "text": "羌青瓷坐在舞台上，准备好道具，一只鲨鱼手环，"}
+2114:{"part": "word/document.xml", "paragraph": 2114, "style": "11", "text": "羌青瓷坐在椅子上，把自己那只鲨鱼手环拿在手里。平静的低头看着 手环屏幕，过几秒，轻轻笑一下。"}
+2116:{"part": "word/document.xml", "paragraph": 2116, "style": "11", "text": "羌青瓷抬头，自言自语：“我是羌青瓷，此时的我，就坐在这里。"}
+2123:{"part": "word/document.xml", "paragraph": 2123, "style": "11", "text": "羌青瓷：“其实，我撒过一个谎，很久很久的谎。今天过后，就让这 个谎言彻底留在这里吧。”"}
+2124:{"part": "word/document.xml", "paragraph": 2124, "style": "11", "text": "手环戴好，羌青瓷起身，看向玩家程聿怀"}
+2125:{"part": "word/document.xml", "paragraph": 2125, "style": "11", "text": "羌青瓷微笑着，已经做好准备赴死的坦然："}
+2129:{"part": "word/document.xml", "paragraph": 2129, "style": "11", "text": "旁白： “程聿怀，羌青瓷所说的谎言到底是什么,就由你亲自去揭开 吧。”"}
+2131:{"part": "word/document.xml", "paragraph": 2131, "style": "11", "text": "“同时，羌青瓷的死亡代表莱诺家族的覆灭，那你们的故事又会迎来 怎样的结局呢。请继续往前走吧。”"}
+2132:{"part": "word/document.xml", "paragraph": 2132, "style": "11", "text": "——播放雨声Thunder    &Rain   ,提示玩家开始阅读第十幕——"}
+2133:{"part": "word/document.xml", "paragraph": 2133, "style": "11", "text": "切第十幕读本音乐"}
+2135:{"part": "word/document.xml", "paragraph": 2135, "style": "11", "text": "第十幕"}
+2139:{"part": "word/document.xml", "paragraph": 2139, "style": "11", "text": "(QA程聿怀羌青瓷X程聿怀】"}
+2140:{"part": "word/document.xml", "paragraph": 2140, "style": "11", "text": "幕后音： “莱诺家族覆灭了，其中包括瑞法 ·莱诺，也就是羌青瓷。  程聿怀，你和羌青瓷曾经为了假装恩爱夫妻， 一起住过的别墅，被人 搜查干净。"}
+2141:{"part": "word/document.xml", "paragraph": 2141, "style": "11", "text": "他们在羌青瓷房间的天花板上，发现了什么?”"}
+2143:{"part": "word/document.xml", "paragraph": 2143, "style": "11", "text": "幕后音： “他们发现了羌青瓷写给自己的信，那是羌青瓷的一生，为 程聿怀而活的一生。”"}
+2144:{"part": "word/document.xml", "paragraph": 2144, "style": "11", "text": "幕后音： “程聿怀，你最初以为，你和羌青瓷的初识是在2000年的   布雷诺，后来你发现羌青瓷在骗你，你们明明在1995年就已经认识   了。那现在呢，你知道，你们真正的第一次见面，是在什么时候吗?”"}
+2146:{"part": "word/document.xml", "paragraph": 2146, "style": "11", "text": "幕后音： “在1990年，你们上大学的时候。所以，当初羌青瓷说的 那些，你们所谓大学相识相爱的故事，你本以为只是ta 和你编造给 大家的戏码。现在你应该知道了吧，那都是ta  伪装假意下的全部真 心。”"}
+2147:{"part": "word/document.xml", "paragraph": 2147, "style": "11", "text": "幕后音： “之前你说，羌青瓷洗去了关于你父亲死亡真相的记忆，其 实ta  洗去的，还有你脑海中所有有关ta  的一切。那ta  为什么这么 做呢?”"}
+2149:{"part": "word/document.xml", "paragraph": 2149, "style": "11", "text": "幕后音： “是啊。1995年，为了保护你，羌青瓷只能和伯纳德达成 一场交易。只要伯纳德放过你，羌青瓷愿意洗去你的记忆，而ta  也 要向伯纳德献出自己的全部自由。自此以后，ta 不再是清风霁月的 心理医生，而是莱诺家族操控下的刽子手。”"}
+2150:{"part": "word/document.xml", "paragraph": 2150, "style": "11", "text": "幕后音：“可是，没有你的日子实在是太痛苦了，所以羌青瓷想，是"}
+2154:{"part": "word/document.xml", "paragraph": 2154, "style": "11", "text": "那程聿怀，你知道吗，那天在你们来找ta 之前，羌青瓷也曾尝试过， 对自己使用火柴疗法—— ”——进羌青瓷火柴疗法演绎"}
+2155:{"part": "word/document.xml", "paragraph": 2155, "style": "11", "text": "羌青瓷火柴疗法演绎：《给自己的催眠》"}
+2157:{"part": "word/document.xml", "paragraph": 2157, "style": null, "text": "【演绎视频见售后资料：羌青瓷火柴疗法《给自己的催眠》演绎】"}
+2159:{"part": "word/document.xml", "paragraph": 2159, "style": "11", "text": "(演绎区提前把一盒火柴准备好，羌青瓷坐在镜子前，侧坐着，侧面 对着程聿怀)"}
+2161:{"part": "word/document.xml", "paragraph": 2161, "style": "11", "text": "切羌青瓷演绎歌曲"}
+2164:{"part": "word/document.xml", "paragraph": 2164, "style": "11", "text": "羌青瓷手中拿着一盒火柴，拿出三根火柴，看着镜子里的自己。"}
+2165:{"part": "word/document.xml", "paragraph": 2165, "style": "11", "text": "羌青瓷看着镜子里的自己：“我是羌青瓷，今天，我要对自己进行一 场催眠，这一次，还是用火柴疗法。"}
+2171:{"part": "word/document.xml", "paragraph": 2171, "style": "11", "text": "羌青瓷拿起第一根火柴，做好准备划火柴的动作"}
+2172:{"part": "word/document.xml", "paragraph": 2172, "style": "11", "text": "羌青瓷下定决心：“羌青瓷，开始吧。”"}
+2174:{"part": "word/document.xml", "paragraph": 2174, "style": "11", "text": "羌青瓷看着燃烧的火柴：“第一根火柴燃尽之后，我会把我们之间所 有甜蜜的过往都埋藏在心底。”"}
+2175:{"part": "word/document.xml", "paragraph": 2175, "style": "11", "text": "羌青瓷：“他/她说，如果神迹照拂，他/她会做第一个为我鼓掌的人。” “他/她说，我比TA 更 像TA。”"}
+2189:{"part": "word/document.xml", "paragraph": 2189, "style": "11", "text": "羌青瓷正准备划燃三根火柴的时候，被三下敲门声打断"}
+2190:{"part": "word/document.xml", "paragraph": 2190, "style": "11", "text": "“程聿怀”的幕后音说： “羌青瓷，你发短信找我?”"}
+2191:{"part": "word/document.xml", "paragraph": 2191, "style": "11", "text": "羌青瓷拿着三根火柴的手微微抖动，眼睛先是看着火柴，然后拾头，  看着镜子里的自己。"}
+2192:{"part": "word/document.xml", "paragraph": 2192, "style": "11", "text": "羌青瓷苦笑："}
+2194:{"part": "word/document.xml", "paragraph": 2194, "style": "11", "text": "“他/她在叫我羌青瓷。”"}
+2196:{"part": "word/document.xml", "paragraph": 2196, "style": "11", "text": "“所以……对不起，羌青瓷。” “这一次……我还是不忘了。”"}
+2198:{"part": "word/document.xml", "paragraph": 2198, "style": "11", "text": "羌青瓷走向玩家程聿怀。"}
+2200:{"part": "word/document.xml", "paragraph": 2200, "style": "11", "text": "羌青瓷走到程聿怀面前停下，划亮第四根火柴，在火光下，微微弯腰，"}
+2207:{"part": "word/document.xml", "paragraph": 2207, "style": "11", "text": "羌青瓷退场"}
+2210:{"part": "word/document.xml", "paragraph": 2210, "style": "11", "text": "幕后音问程走柳：“走柳，羌青瓷为程聿怀、为你们的献祭，其实你 早就知道了对吗? TA 希望你作为程聿怀的妹妹，能够帮助TA 完成 这一切，TA 其实很早就计划站在你们的对立面，那么,你是什么时 候相信TA 的 呢 ? 是TA 对你说了什么话吗?"}
+2213:{"part": "word/document.xml", "paragraph": 2213, "style": "11", "text": "“程聿怀，所以，知道这一切的真相后，你对羌青瓷是什么感觉呢? 你还有什么想和ta说的吗?”"}
+2215:{"part": "word/document.xml", "paragraph": 2215, "style": "11", "text": "幕后音：“程聿怀，你已经知道了羌青瓷最大的秘密，那你还有一个 从未与人说过的秘密。你作为延迟，你的那个替身到底是谁，你现在 敢告诉黛利拉吗?”"}
+2284:{"part": "word/document.xml", "paragraph": 2284, "style": "11", "text": "幕后音：“黛利拉，阿奇、奥丁还有姐姐妈妈都可以给你很多很多的 爱，但那都不是你给自己的爱。如果有一天，你能学会给自己很多爱， 那么到那时，爱， 一定会归来!”"}
+2469:{"part": "word/document.xml", "paragraph": 2469, "style": "11", "text": "关灯，幕后奥丁出声。"}
+2470:{"part": "word/document.xml", "paragraph": 2470, "style": "11", "text": "奥丁:“我是奥丁，布雷诺最纯正的硬汉，也是这家唱片店的老板，小子，没有一个好故事可换不走这张唱片!"}
+2476:{"part": "word/document.xml", "paragraph": 2476, "style": "11", "text": "关灯，幕后羌青瓷出声。"}
+2477:{"part": "word/document.xml", "paragraph": 2477, "style": "11", "text": "羌青瓷:“聿，火柴的光又亮了，我说过，火光下我对你说的每一句话，字字真心。走柳妹妹，谢谢你，这一次，我们不用站在对立面了。"}
+2501:{"part": "word/document.xml", "paragraph": 2501, "style": "11", "text": "玩家黛利拉：“缪医生，这个结局很好，我想阿奇也会喜欢的，谢啦。” 玩家程聿怀： “谢谢你缪医生，能让我在结局里再见一次羌青瓷。” 玩家程走柳：“缪宏谟，我的声音你装得还挺像嘛，其实，我更想说……  我很想你。”"}
+2504:{"part": "word/document.xml", "paragraph": 2504, "style": "11", "text": "奥丁： “我是xx  (DM  自己的名字),也是奥丁，布雷诺最纯正的硬 汉。我想到了一个新的笑话，下次见面讲给你们听。”"}
+2505:{"part": "word/document.xml", "paragraph": 2505, "style": "11", "text": "羌青瓷： “我是xxDM 自己的名字),也是羌青瓷，也是瑞法 · 莱诺。 我代表莱诺家族，欢迎各位这次的复仇。”"}
+2508:{"part": "word/document.xml", "paragraph": 2508, "style": "11", "text": "羌青瓷/奥丁：“今天的流氓叙事就到这里结束了，感谢大家前来体 验这个故事!”"}
