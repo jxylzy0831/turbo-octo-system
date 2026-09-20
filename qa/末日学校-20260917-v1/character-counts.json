@@ -1,0 +1,38 @@
+{
+  "P1": {
+    "name": "许照",
+    "han_characters": 2022
+  },
+  "N1": {
+    "name": "迟野",
+    "han_characters": 2050
+  },
+  "P2": {
+    "name": "周砚",
+    "han_characters": 2006
+  },
+  "N2": {
+    "name": "周晴",
+    "han_characters": 2013
+  },
+  "P3": {
+    "name": "叶停",
+    "han_characters": 2107
+  },
+  "N3": {
+    "name": "七号",
+    "han_characters": 2141
+  },
+  "P4": {
+    "name": "闻笙",
+    "han_characters": 2004
+  },
+  "N4": {
+    "name": "陈渡",
+    "han_characters": 2129
+  },
+  "G": {
+    "name": "谷雨",
+    "han_characters": 2289
+  }
+}
