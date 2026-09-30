@@ -1,0 +1,51 @@
+import {createRequire} from 'node:module';
+import {pathToFileURL} from 'node:url';
+import path from 'node:path';
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const require=createRequire(import.meta.url);
+const {chromium}=require('C:/Users/XinYi Jiang/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const root=process.cwd(), out=path.join(root,'qa/第一幕人物分色-20260930-v1');
+await fs.mkdir(out,{recursive:true});
+const file=path.join(root,'analysis/流氓叙事-第一幕互动原文-人物分色-20260930-v1.html');
+const source=(await fs.readFile(path.join(root,'analysis/流氓叙事手册-互动研究-20260915.jsonl'),'utf8')).trim().split(/\r?\n/).map(JSON.parse).filter(r=>r.part==='word/document.xml'&&r.paragraph>=774&&r.paragraph<=1089);
+const browser=await chromium.launch({headless:true,executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe'});
+const page=await browser.newPage({viewport:{width:1440,height:1000}}), errors=[],requests=[];
+page.on('pageerror',e=>errors.push(e.message));page.on('request',r=>{if(/^https?:/.test(r.url()))requests.push(r.url())});
+try{
+ await page.goto(pathToFileURL(file).href);
+ await page.addStyleTag({content:'html{scroll-behavior:auto!important}'});
+ const actual=await page.locator('.entry').evaluateAll(els=>els.map(el=>({paragraph:Number(el.id.slice(1)),text:el.querySelector('.source').textContent})));
+ assert.deepEqual(actual,source.map(r=>({paragraph:r.paragraph,text:r.text})));
+ assert.equal(await page.locator('.scene').count(),11);
+ assert.equal(await page.locator('#p991').getAttribute('data-speakers'),'');
+ assert.equal(await page.locator('#p1049').getAttribute('data-speakers'),'');
+ for(const p of [873,907,942,1046])assert.equal(await page.locator('#p'+p).getAttribute('data-speakers'),p===873||p===907?'o q':'q o');
+ await page.locator('[data-role="a"]').click();
+ assert.equal(await page.locator('#p955').evaluate(el=>el.classList.contains('dimmed')),false);
+ assert.equal(await page.locator('#p776').evaluate(el=>el.classList.contains('dimmed')),true);
+ await page.locator('#search').fill('黄油多士');
+ assert.ok(await page.locator('.entry:visible').count()>0);
+ assert.ok(await page.locator('.entry:visible').count()<316);
+ await page.locator('#search').fill('不存在的搜索词12345');
+ assert.equal(await page.locator('#empty').isVisible(),true);
+ await page.locator('#reset').click();
+ assert.equal(await page.locator('.entry:visible').count(),316);
+ await page.locator('#directions').uncheck();
+ assert.equal(await page.locator('.stage:visible').count(),0);
+ assert.ok(await page.locator('.spoken:visible').count()>0);
+ await page.locator('#reset').click();
+ await page.screenshot({path:path.join(out,'desktop.png')});
+ await page.locator('a[href="#scene-9"]').click();
+ await page.waitForTimeout(400);
+ await page.screenshot({path:path.join(out,'dialogue.png')});
+ for(const width of [1440,768,390]){
+   await page.setViewportSize({width,height:1000});
+   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>document.documentElement.clientWidth),false,'overflow '+width);
+ }
+ await page.evaluate(()=>scrollTo(0,0));
+ await page.screenshot({path:path.join(out,'mobile.png')});
+ assert.deepEqual(errors,[]);assert.deepEqual(requests,[]);
+ await fs.writeFile(path.join(out,'report.json'),JSON.stringify({paragraphs:actual.length,sourceTextExact:true,sections:11,mixedSpeakersVerified:true,focusSearchAndDirections:true,noOverflow:[1440,768,390],errors,externalRequests:requests},null,2));
+ console.log('316 paragraphs match source; mixed speakers, controls and responsive layout passed.');
+}finally{await browser.close()}

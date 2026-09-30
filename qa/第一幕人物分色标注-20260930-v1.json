@@ -1,0 +1,3932 @@
+[
+  {
+    "paragraph": 774,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "待所有玩家阅读完毕"
+      ]
+    ]
+  },
+  {
+    "paragraph": 775,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "切第一幕流程音乐切BGM:《Kevin Beak'n》Michael Giacchino"
+      ]
+    ]
+  },
+  {
+    "paragraph": 776,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“各位，今天是金狮医院的开业典礼，我是金狮医院的院长 羌青瓷，你们也可以叫我瑞法 ·莱诺。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 777,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "当然，今天也是特别高兴，在这次开业之时，我们莱诺家族决定，在 金狮医院，为布雷诺人民提供一场免费的心理治疗。不过，本来开业 是一件很盛大很美好的事情，结果却有些不速之客，非要打断我们的 开业仪式，在我们医院可以说是打砸抢烧。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 778,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "麻烦蒋先生(示意蒋伯驾)把那两位(示意黛利拉和以撒),暂时先  带到一旁坐下吧。(让黛利拉和以撒坐在舞台区正对面的小板凳上)”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 779,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【等以撒和黛利拉坐过去后】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 780,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“两位看起来，很硬气的样子。果然，布雷诺的人和我们这 些来自其他国家的人，确实是不太一样。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 781,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "诸位，我知道大家也是刚刚来到布雷诺这片荒芜的土地，对这里，可 能还是十分陌生。特别是这两位不速之客，让我们对布雷诺的印象又 下了一个台阶。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 782,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "不如，让我们一起问问他们，来这里的目的，是什么?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 783,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "那我首先来问问，二位，来我们医院搞破坏，到底是受谁的指派?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 784,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【如果玩家没有立即回答，就可以继续追问两句】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 785,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "引导其他四名玩家配合"
+      ],
+      [
+        "q",
+        "羌青瓷审讯黛利拉和以撒。 比如问黛利拉和以撒："
+      ]
+    ]
+  },
+  {
+    "paragraph": 786,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“你们到底是谁的人?你们为什么要来金狮医院打砸抢?” “谁指使你们来的?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 787,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(如果黛利拉提了“延迟”)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 788,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“延迟?做过什么,很厉害吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 789,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“延迟，听着网速这么慢，感觉起这个名字的人，不像会干这种事 啊 ? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 790,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "差不多聊一两分钟之后。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 791,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷(说话时保持温柔、优雅但又犀利的状态): “行了，嘴里听 着就没一句实话，今天这事解决不了，你们谁也走不了。 ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 792,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "说完这句，全场黑灯，bgm渐渐减弱至没有"
+      ]
+    ]
+  },
+  {
+    "paragraph": 793,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "此时奥丁戴着耳机，一手拿着弹簧刀，背对玩家，站在演绎帘子后。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 794,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "打开射灯照向舞台区，缓缓开帘，同时切BGM。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 795,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "切奥丁出场音乐"
+      ]
+    ]
+  },
+  {
+    "paragraph": 796,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "BGM:"
+      ]
+    ]
+  },
+  {
+    "paragraph": 797,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "《CHA-CHA-CHA"
+      ]
+    ]
+  },
+  {
+    "paragraph": 798,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "声音拉大"
+      ]
+    ]
+  },
+  {
+    "paragraph": 799,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁在灯光下背对众人尬舞"
+      ]
+    ]
+  },
+  {
+    "paragraph": 800,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "(他听着耳机里的摇滚乐，忘我状态)几秒钟后，转身，发现众人，边停下边取下耳机。喘三秒：“谁说走不了!黛利拉，以撒，你们的老大，来救你们了!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 801,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【此处视频见售后资料：奥丁出场】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 802,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(羌青瓷要有一个小动作，就是把程聿怀往自己身后护一下)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 803,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "把音乐切换成第一幕正常的BGM"
+      ]
+    ]
+  },
+  {
+    "paragraph": 804,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "切第一幕流程音乐"
+      ]
+    ]
+  },
+  {
+    "paragraph": 805,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “嘿，你们就是这么招待客人的?!黛利拉，以撒，快过来， 坐在布雷诺人该坐的位置上!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 806,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "示意黛利拉和以撒坐回各自原本的座位上，然后把斧头给以撒，把弹 簧刀给黛利拉。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 807,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(可以酷酷的丢给他们，如果掉了也没问题)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 808,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “不好意思各位，狂草帮老大奥丁，来接我的人回家!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 809,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(停顿一下)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 810,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “黛利拉，以撒，怎么样，刚才我帅不帅?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 811,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(等反馈)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 812,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “你们干什么的，凭什么把我的人绑起来? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 813,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷看着奥丁，还是笑得意味深长，但摆出一副院长的姿态，想要 把这件事查到水落石出的感觉。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 814,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "状态： “你的人?也就是说……是你指挥他们来破坏医院的? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 815,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁(被戳穿的心虚):“……额，瞎说!其实我们都是延迟的人， 他让我们来的，别冤枉好人! (快速看一眼大家，开始吹嘘延迟，试 图把仇恨拉他身上)一看你们这些外国人就不知道延迟吧?我就好心 给你们科普一下!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 816,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(这里需要给玩家铺设世界观， 一定要注意一些词的重音，用绿色给 大家标出来】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 817,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “在布雷诺，生活着“两个种族”,以撒、黛利拉，给他们科 普一下，是哪两个种族?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 818,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【和玩家互动，让玩家自己来介绍，是布雷诺和诺族】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 819,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(等玩家介绍完)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 820,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “没错，分别是“布雷族”和 “诺族”,合起来就是布雷诺! 好记吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 821,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“一直以来，布雷诺的政权都归属诺族，比如总统啊，电台台长啊， 都是诺族人，(示意 一 下以撒)我们小以撒就是诺族人。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 822,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“至于“延迟”,他十分神秘，从未有人见过他的长相。布雷族人都"
+      ]
+    ]
+  },
+  {
+    "paragraph": 823,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "称他为“军师”,此人才智过人，是“布雷族”的精神领袖，拥有着 可以和“官方政权对抗的能力”。知道这是什么意思吧，用你们东国 人的话就是，布雷诺当地的“土皇帝”。这样说，你们明白吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 824,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【这里两个知识点：第一、布雷诺两个种族，分别是布雷族和诺族；  第二、“延迟”是谁，是布雷族的精神领袖，而不是诺族的。需要说  的清楚一些，以防玩家听不明白】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 825,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “怎么样，我们就是他派来的，有本事，找他麻烦去!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 826,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷看着奥丁，心知肚明的模样： “是么?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 827,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁(心虚转移话题，指着众人问):“当然是了!不对啊，和你们絮 叨这么久了，你们都谁啊?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 828,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷(饶有兴致): “真是有意思，搞破坏的竟然让受害者先介绍。  行吧，各位，我们配合一下这位‘大舞蹈家’先生，先介绍一下吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 829,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷： “理论上来说，作为院长应该我先来，但对我来说，今天有 一位比我更值得第一个介绍自己的。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 830,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷看向程聿怀，假装很恩爱的样子，温柔笑着： “聿，你先来吧 ~介绍一下，告诉他们你的名字和职业~”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 831,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等程聿怀自我介绍"
+      ]
+    ]
+  },
+  {
+    "paragraph": 832,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【如果程聿怀没介绍跟羌青瓷的关系】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 833,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷带着点挑逗和不满的对程聿怀说： “聿，为什么不告诉大家， 我是你的夫人/丈夫，你是觉得我拿不出手吗? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 834,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷假装委屈，然后转向众人，介绍自己。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 835,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "介绍的时候，可以配上一些优雅(做作)的动作。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 836,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“我叫羌青瓷，是个心理医生，大家也可以叫我程夫人。 ( 男"
+      ]
+    ]
+  },
+  {
+    "paragraph": 837,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌：我叫羌青瓷，是个心理医生，大家不介意的话，也可以叫我程先 生，反正我是不介意了~) ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 838,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(这里又需要给玩家铺设背景， 一定要注意一些词的重音，还是用绿 色给大家标出来】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 839,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“前面也和大家介绍了我的另一个名字，“瑞法 ·莱诺”, 而 我 的 家 族就是莱诺家族。 (看向奥丁)这位大舞蹈家先生可听说过?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 840,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁无语： “什么什么家族?没听说过!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 841,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷笑： “那你可真是孤陋寡闻了~”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 842,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷： “好了，那接下来，就由这一位走柳记者来自我介绍吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 843,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到程走柳自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 844,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "程走柳介绍完，如果知道了程聿怀和程走柳是手足"
+      ]
+    ]
+  },
+  {
+    "paragraph": 845,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷对程走柳： “走柳，不好意思啊，我跟你哥哥/你姐姐，结婚 比较急，没来得及跟你说。等之后，咱们一家人吃个饭，再好好给你 道个歉。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 846,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "程走柳介绍完，如果没说自己和程聿怀的关系。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 847,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷对程走柳： “那走柳记者，你和我老公/夫人都姓程，都是记 者，我看你们，还长得也很像，你们之间有什么关系啊?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 848,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等玩家回答。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 849,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷对程聿怀说：“那老公/夫人，我们结婚的事情，你之前有告诉 妹妹吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 850,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等玩家回答。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 851,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷打圆场，做结束：“走柳不好意思啊，应该是我跟你哥哥/你姐 姐，结婚的比较急，没来得及跟你说。等之后，咱们一家人吃个饭， 再好好给你道个歉~”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 852,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到蒋伯驾自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 853,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“我刚刚看，走柳妹妹在介绍的时候， 一旁蒋先生的神色，  一直不太自然啊。蒋先生，不如下一个，就你来介绍一下自己吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 854,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【这里再次需要给玩家铺设背景，一定要注意一些词的重音，还是用"
+      ]
+    ]
+  },
+  {
+    "paragraph": 855,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "绿色给大家标出来】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 856,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "蒋介绍完，不管他有没有说自己是缪家人。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 857,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷要点出来：“蒋先生呢，来自“东国缪家”。缪家呢，是一个“资 产十分雄厚”的家族，一直在做“医疗器械”。所以金狮医院，便是 我们莱诺家族和缪家一起出资建设的。因此啊，蒋先生，是我们金狮 医院的“投资人”。”(主要就是要表现缪家有钱!!!)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 858,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥 丁(听着，看一下蒋伯驾): “我认得你!你不是电台哥吗?五年前! 就是95年，负责来布雷诺建设电台的人，就是你啊!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 859,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【等玩家蒋伯驾的回应，羌青瓷需要总结补充】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 860,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“这事我也是知道的，当时是我们莱诺家族提出的建设想法。 被派来负责电台的人就是蒋先生，说起来，我和蒋先生就是那时认识  的呢。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 861,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁不爽： “这就是我讨厌你们这些外乡人的原因!说是为我们建设 电台，最后建设好，你们转身走了。因为这个电台的归属权，布雷族"
+      ]
+    ]
+  },
+  {
+    "paragraph": 862,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "和诺族却开始了争抢，引发了1995年的两族冲突，当时可是死了很 多人!你们这些外乡人一来，准没好事!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 863,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷(哄一哄奥丁): “奥丁先生，我们的出发点都是好的~而且这 一次，金狮医院是为你们布雷诺人民提供医疗方面服务的~相信我， 这对你们来说， 一定是一件好事!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 864,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "此时到这里，随便来一个店里的男生在外面用一开始写给蒋伯驾的那"
+      ]
+    ]
+  },
+  {
+    "paragraph": 865,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "“肖须言”的手机号给蒋伯驾打电话。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 866,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "如果蒋没看见，"
+      ],
+      [
+        "q",
+        "羌青瓷可以提醒： “蒋先生，你电话好像响了，你可 以先接。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 867,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "让蒋伯驾不出去，就在屋子里接电话，不用开免提。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 868,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "肖须言电话内容——"
+      ]
+    ]
+  },
+  {
+    "paragraph": 869,
+    "speakers": [
+      "x"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "x",
+        "“小蒋同学，知道我是谁吧?你小心一点，别让别人听见我们打电话。 我刚刚才知道走柳也来了布雷诺，今天金狮医院开业，以她的性格， 她肯定会去，你有没有见到她啊?你知道的，因为咱们这次任务的原 因，我没办法露面，甚至不能让走柳他们知道我也在布雷诺。只能拜  托你帮我好好照顾我这个外甥女了。对了，你有什么想要买给走柳的 东西吗，我可以帮你买过来，你跟走柳啊好不容易重逢了，正好可以 缓和一下彼此的关系。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 870,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等蒋伯驾说黄油多士和啤酒"
+      ]
+    ]
+  },
+  {
+    "paragraph": 871,
+    "speakers": [
+      "x"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "x",
+        "“嘿，刚见面就想和她喝上酒了是吧。行，我这个当舅舅的就劳累帮 你跑一趟， 一会我给你打电话，你再出来拿!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 872,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等蒋伯驾回答完，就挂了。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 873,
+    "speakers": [
+      "o",
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "挂了电话，"
+      ],
+      [
+        "o",
+        "奥丁问一句：“谁给你打的电话啊，神神秘秘的。” "
+      ],
+      [
+        "q",
+        "羌青瓷揶揄一句：“不会是哪个女生吧，蒋先生?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 874,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这里根据玩家反应，随机互动两句，就继续流程!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 875,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷： “好了，说到缪家人，我们现场还有一位呢。来，缪医生， 该你了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 876,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到缪宏谟自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 877,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "介绍完之后"
+      ]
+    ]
+  },
+  {
+    "paragraph": 878,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷： “我听说，我们缪副院长在医学院时，可是同时攻读了外科 和眼科，真的是非常专业且优秀的医生呢。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 879,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“确实确实，那医生有男朋友吗?我一进来就看见我们家小以 撒的眼睛一直在你身上，作为老大，我替他问问!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 880,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到黛利拉自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 881,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“我们都已经介绍完毕，(看向奥丁)舞蹈家先生，总不能只 有我们介绍吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 882,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“黛利拉，以撒，让他们认识认识你们。(小声的对以撒和黛利 拉说)介绍的帅一点，黛利拉你先来。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 883,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "黛利拉开始介绍"
+      ]
+    ]
+  },
+  {
+    "paragraph": 884,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "介绍完，"
+      ],
+      [
+        "o",
+        "奥丁骄傲的说： “黛利拉可是我们狂草帮最厉害的杀手!别 看她个子小， 一个能打二十个，就只有一个坏毛病，(看向黛利拉，"
+      ]
+    ]
+  },
+  {
+    "paragraph": 885,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "老父亲宠溺)总想着当老大。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 886,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“等等，你刚刚不是说自己是延迟的手下吗?你们又说的这 狂草帮，是什么?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 887,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“嗯……你不管!至于狂草帮，你们这些外国人都听好了!真 正的布雷诺人，只在狂草帮出没!知道为什么吗?因为狂草帮是唯一 一个在布雷诺这片土地上，没有种族冲突的地方。布雷族人和诺族人 在帮派里，都是可以和平相处的，帮里的每个人都是彼此的家人。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 888,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(看向羌青瓷)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 889,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“不过，我和你说这些干嘛，你们这些外乡人，根本不会懂。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 890,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到以撒自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 891,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁说：“好了，小以撒，该你了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 892,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "以撒自我介绍"
+      ]
+    ]
+  },
+  {
+    "paragraph": 893,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "介绍完，"
+      ],
+      [
+        "q",
+        "羌青瓷问：“我之前听一些本地人说，以撒，你好像有一个 特别的病症，叫狂笑症，对吧?这是什么病啊? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 894,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等待玩家回答"
+      ]
+    ]
+  },
+  {
+    "paragraph": 895,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等说完，"
+      ],
+      [
+        "o",
+        "奥丁要接过话： “谁说这是病?我们小以撒，才没有病呢。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 896,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁看向以撒，很骄傲"
+      ]
+    ]
+  },
+  {
+    "paragraph": 897,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁笑着：“我们以撒，是整个布雷诺最有幽默细胞的人!我讲的每 个笑话，以撒也都是最捧场的!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 898,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“对了，正好我想到一个新的笑话，我讲给你们听一下哈，爆炸好笑。” “小孩对爸爸说，我好冷啊，他爸爸让他赶紧蹲到墙角去。因为墙角"
+      ]
+    ]
+  },
+  {
+    "paragraph": 899,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "有90度，哈哈哈哈哈哈。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 900,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“怎么样，小以撒，好笑吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 901,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁看一眼没有笑的人，嫌弃地说：“只有以撒懂我，你们这些外乡 人，确实没有什么幽默细胞，真可怜!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 902,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面轮到奥丁自我介绍环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 903,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“好了，我还没介绍自己是吧!那你们都听好了哈!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 904,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "我!奥丁!在黛利拉没有篡位成功之前，现在是狂草帮的老大，布雷 诺最纯正的硬汉!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 905,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "我要告诉你们，布雷诺并不欢迎外乡人，每次外乡人的到来，带给布 雷诺的只有灾难!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 906,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“所以，羌青瓷，(此时突然正经一点，看向羌青瓷)你们说是"
+      ]
+    ]
+  },
+  {
+    "paragraph": 907,
+    "speakers": [
+      "o",
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "来建设医院，但实际上，到底为什么要来布雷诺呢?” "
+      ],
+      [
+        "q",
+        "羌青瓷：“说到这里，那就必须好好给你们讲一讲了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 908,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷此时站起身，站在DM  的位置，轻轻把奥丁推开。 昂首挺胸，很优雅的样子"
+      ]
+    ]
+  },
+  {
+    "paragraph": 909,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(感觉在台上发言一样“做作”就行)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 910,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“首先，我作为一位心理医生，哪怕在布雷诺这片不见人烟 的地方，也致力于传播爱与和平!就像我胸前佩戴的这枚孤挺花一样， 我也想要在遍地荒芜与废墟之中种植出这样炙热而又赤忱的希望。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 911,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "因此我来这里，就是代表莱诺家族与金狮医院，把我们高等文明爱的 种子撒向布雷诺的大地。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 912,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "说完优雅鞠躬"
+      ]
+    ]
+  },
+  {
+    "paragraph": 913,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "然后回到自己的位置，程聿怀身边坐下"
+      ]
+    ]
+  },
+  {
+    "paragraph": 914,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁回到自己的位置， 一边对着黛利拉和以撒不解地说：“我的天， 她好上价值啊!(再看向羌青瓷)而且，你说话就说话，为什么要站 起来?我已经离你够远了，你站起来还要推我一把?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 915,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷保持优雅的微笑就行，不用回答。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 916,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁继续说：“不过你老说布雷诺这么乱，那你们来这里，就不怕遇 到什么危险?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 917,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷开始诱哄：“我们这些外乡人来到这里，自然是会有些担忧的。 但是奥丁，按你说的，你们狂草帮这么正义，这么厉害， 一定不会让  我们遇到危险的，对吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 918,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁(骄傲): “那必须，以后有问题，就找狂草帮!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 919,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“等会，你是不是给我下套，黛利拉，她是不是忽悠我呢?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 920,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【进行轮盘打枪环节】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 921,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“好了，奥丁，这不重要。我觉得我们的矛盾都出于我们彼 此不了解，我知道你们没说实话，你们也不相信我们，那不如找个不 舞刀弄枪又能互相了解的方法把事情解决了吧。我想，你们狂草帮一 定是非常讲道理的，对吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 922,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“这话我爱听，这算是你今天说的第一句好听的话!我告诉你， 我们狂草帮有的是方法，你等着!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 923,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(出去拿气球枪，气球)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 924,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁拿的过程中，羌青瓷对大家说：“没想到你们老大是个这么好说 话的人啊。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 925,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁拿完东西回来：“我，布雷诺最纯正的硬汉，当然有的是办法， 今天我们来玩一场：流氓决斗!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 926,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "此时切BGM  循环播放："
+      ]
+    ]
+  },
+  {
+    "paragraph": 927,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "《The River》Blues Saraceno"
+      ]
+    ]
+  },
+  {
+    "paragraph": 928,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁接着炫耀： “这可是我女朋友温蒂教我玩的游戏!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 929,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“等一下，你 … … 有女朋友?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 930,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥 丁 ：“当然，我跟温蒂很恩爱，我警告你，别对我有什么想法，我 是不会出轨的。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 931,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷无语：“额，那可是真可惜啊，你还是赶紧说说这个怎么玩吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 932,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【如果在聊到温蒂时，有玩家接话，奥丁可以告诉黛利拉和以撒，你 和温蒂在一起很久了，但是她太忙了，有机会总会见面的。】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 933,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【介绍规则】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 934,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“很简单哈。流氓决斗，就是把命运交到别人手上的一场游戏。 我这里有把枪，枪膛里有根针，针可能会在任意一次出现，我们把气  球放在上面，谁开枪打爆了气球，谁就是失败者，需要接受处罚。开 枪顺序是，我们几个人交叉顺序开枪，谁打爆了，就安装新的气球， 继续进行下一轮，在下一轮失败者轮流对另外三组开枪，打到了谁谁 就是新的失败者，最后两组互相开枪，谁打到了对面谁就是失败者， 而最后一组，只需要对自己开三枪，如果没有打到自己，就可以免受"
+      ]
+    ]
+  },
+  {
+    "paragraph": 935,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "惩罚。明白了吗?黛利拉，我这个规矩是不是很有水平?老大还得是 我啊哈哈哈!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 936,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“奥丁，虽然我很不想打击你，但是，这个游戏的分享部分 在哪呢?我们不是说要让大家彼此了解一下吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 937,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁做一些小动作掩饰尴尬： “哈哈，是吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 938,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷(扶额头):“行了奥丁，再加个我的游戏吧，两人彼此背靠着 背，在各自的题板上面回答同一个问题，回答完后同时揭露答案。两 个人不需要刻意去迎合对方，按照自己真实答案回复即可，这不是一 种默契测试，而是挖掘人内心的心理测试。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 939,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“在大学时，我跟聿可是经常和对方一起做这个测试呢，是吧，聿?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 940,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(看向程聿怀，等程聿怀做出反馈)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 941,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁无语：“你把你们夫妻小游戏拿出来给我们玩是吧!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 942,
+    "speakers": [
+      "q",
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“怎么能这么说呢"
+      ],
+      [
+        "o",
+        "奥丁，我是大方的拿出来和大家分享。” 奥丁：“行，你说你有理!那竟然了解嘛，就透彻一点，我最爱吃瓜 了!那也别我们狂草帮和你们分开了，干脆就两人一队。(指着羌青"
+      ]
+    ]
+  },
+  {
+    "paragraph": 943,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "瓷和程聿怀),你们两一组，你们拆开也没人愿意跟你们一组! (指着程走柳和蒋伯驾)你跟电台哥一组，前任就该在一组!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 944,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "【如果前面没有说彼此是前任，"
+      ],
+      [
+        "o",
+        "奥丁就加一句:“你两这态度，一看"
+      ]
+    ]
+  },
+  {
+    "paragraph": 945,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "就是前任!”】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 946,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "(指着以撒和缪宏谟)小以撒就跟着这个医生吧，从进来到现在，小 以撒的眼睛就一直盯着人家，我从来没有见过小以撒这样!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 947,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“行，那最后，黛利拉就跟我一组!(喊口号的精气神拿出来)我 们父女合璧，天下无敌!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 948,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "说完，立马关灯，关音乐。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 949,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "此时，阿奇已经在幕后备场了，手拿着一枝玫瑰"
+      ]
+    ]
+  },
+  {
+    "paragraph": 950,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "切BGM 循环播放:"
+      ]
+    ]
+  },
+  {
+    "paragraph": 951,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "《Gangsta》Kehlani"
+      ]
+    ]
+  },
+  {
+    "paragraph": 952,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "演绎帘子缓缓打开，"
+      ]
+    ]
+  },
+  {
+    "paragraph": 953,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇声音出现：“等一下，小黛凭什么跟你。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 954,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "射灯打开，照向舞台区。阿奇站在舞台上，手里拿着一枝玫瑰，走到 黛利拉面前。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 955,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇把玫瑰送给黛利拉：“黛利拉小姐，今晚的月色正好，能允许我 跟你一起作伴吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 956,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "黛利拉回答，奥丁在旁边， 一定要狂翻白眼。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 957,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“奥丁，这个又是?你不介绍一下吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 958,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“一个勾搭黛利拉的臭小子，我才不要介绍他。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 959,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇：“奥丁，你今天没有吃饭吗，对我恶意这么大? (谐音梗：“饿 意”,小小玩一个梗，然后转头温柔的对黛利拉说)小黛，不介绍一 下我吗?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 960,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "黛利拉介绍阿奇，如果黛利拉没有说你们是爱人，那么"
+      ],
+      [
+        "a",
+        "阿奇要自己说："
+      ]
+    ]
+  },
+  {
+    "paragraph": 961,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "“我和小黛，是爱人。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 962,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁一脸受不了的样子：“把音乐给我关掉!把灯给我打开!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 963,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "幕后人员把灯光重新打开，射灯关掉。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 964,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "恢复BGM,   循环播放："
+      ]
+    ]
+  },
+  {
+    "paragraph": 965,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "《The    River》Blues    Saraceno"
+      ]
+    ]
+  },
+  {
+    "paragraph": 966,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁看一眼黛利拉，无奈道：“行行行，黛利拉跟这小子一组，真是 的，温蒂要是在就好了。那今天我当裁判行了吧，我很生气，谁输了 我问死谁!别废话了，开始吧，羌青瓷你们组来第一个，决定下一组 需要开的枪数量了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 967,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "游戏流程——"
+      ]
+    ]
+  },
+  {
+    "paragraph": 968,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "① 轮流开枪→哪一对的气球爆了就上台接受心理测试→测试完出个 人线索卡分享"
+      ]
+    ]
+  },
+  {
+    "paragraph": 969,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "因为无法确定上场顺序，都是随机的，所以在这里奥丁、羌青瓷、阿 奇三个人根据场上情况，随机互动就可以。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 970,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "每一对上场的问题，都已经写在了下面。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 971,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁、羌青瓷、阿奇，随机问，不要让任何一个npc 在场上冷场!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 972,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这一环节，就是随意欢乐、吃瓜八卦!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 973,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "了解清楚流氓决斗的规则，知道怎么玩就会得心应手了。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 974,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "注意"
+      ]
+    ]
+  },
+  {
+    "paragraph": 975,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "第一：【轮流开枪的环节，阿奇和黛利拉有个特殊互动】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 976,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "让黛利拉开枪时，阿奇可以让黛利拉举枪对准自己的心脏，然后捂住 黛利拉的耳朵。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 977,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇：“小黛，别怕，往这里开。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 978,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷看到这里要看向程聿怀说：“聿，你不会对我开枪的对吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 979,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "第二：【注意心理测试环节，蒋伯驾会再次接到肖须言电话】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 980,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "流程的操作和一些引导话术—"
+      ]
+    ]
+  },
+  {
+    "paragraph": 981,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "开枪爆气球的那一对，上台做心理测试时，"
+      ],
+      [
+        "o",
+        "奥丁话术：“来，咱们上 台，背对背站好哈。只需要针对我们的问题进行回答，写在自己的白 板上，不可以交流!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 982,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁和羌青瓷、阿奇开始问，就同时写下答案。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 983,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "写完以后，揭开双方答案，对自己的答案，进行简答分享。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 984,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁看一眼两人写的答案，引导分享话术：“哟，你们这回答的相差 挺大啊/看起来两个人有挺多故事啊?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 985,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(引导分享的话术)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 986,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“那我们一起说出这个问题的答案!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 987,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“不如说说呢，为什么是这个答案?”(引导分享爱情)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 988,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "测试结束后，奥丁会针对每一对，再问对应的个人线索卡进行八卦【个一人一张】人线索卡6张，"
+      ]
+    ]
+  },
+  {
+    "paragraph": 989,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "除了程聿怀和黛利拉输了，就分享对应个人线索一张，其他两对都是直接分享两张。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 990,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【下面是每一对的测试问题和线索内容】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 991,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "程聿怀和羌青瓷输了后的问题："
+      ]
+    ]
+  },
+  {
+    "paragraph": 992,
+    "speakers": [
+      "o",
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁问：你们初见是在哪里?("
+      ],
+      [
+        "q",
+        "羌青瓷需要写：大学/校园)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 993,
+    "speakers": [
+      "a",
+      "d"
+    ],
+    "alternative_prompt": true,
+    "segments": [
+      [
+        null,
+        "阿奇让小黛问：你们认识多少年了?(羌青瓷需要写：十年)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 994,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(第三个问题让程走柳出题)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 995,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“我想，程记者作为妹妹肯定也有想问的问题吧，那就多给你 一个提问的机会!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 996,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "注意!!!这两个认知上会有偏差。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 997,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "不管程聿怀如何，"
+      ],
+      [
+        "q",
+        "羌青瓷一定要写初见是：大学时期，认识10年了。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 998,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷分享的话术是： “之前和大家说过，我和聿呢，是大学时期的  校友，算一算，时间过得真快，我们都认识10年了。是吧，聿?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 999,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷一定要让程聿怀觉得，两个人在合伙骗大家，所以在堂而皇之 的合谋撒谎。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1000,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "(这里实际已经在埋沉浸幕的反转刀点了)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1001,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "测试结束，奥丁拿出【程聿怀第一幕个人线索】,八卦的语气。 "
+      ],
+      [
+        "o",
+        "奥丁：“好，答案不一样是吧，那得接受惩罚。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1002,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "念完线索卡后，奥丁立马八卦"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1003,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“许多人猜测，程聿怀脸上的青花瓷纹面和羌青瓷有关。看来， 对羌青瓷用情至深啊。哟，这是真爱啊!名字都纹脸上了!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1004,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "注意"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1005,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷和程聿怀结束坐回位置后，羌青瓷要假装在程聿怀耳边低语秀 恩 爱。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1006,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "其实是在说：“回答得这么认真，聿，你不会假戏当真了吧~”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1007,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "以撒和缪输了会问的问题："
+      ]
+    ]
+  },
+  {
+    "paragraph": 1008,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌 青 瓷 问 ：你们相差几岁?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1009,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁问：第一次见到对方的场景?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1010,
+    "speakers": [
+      "a",
+      "d"
+    ],
+    "alternative_prompt": true,
+    "segments": [
+      [
+        null,
+        "阿奇问，或者阿奇让小黛问：用 一 个词形容，对对方的印象?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1011,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这两个认知上也会有偏差。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1012,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "缪会以为是以撒泥石流事件救她，实际上95年她18岁时来布雷诺 当志愿者，那时候就认识了13岁的以撒，以撒记住了她，后来她一 直没有回来。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1013,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【奥丁需要在这里引导以撒说出缪当年认识以撒，还答应花开的时候 会回来】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1014,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "以撒分享完"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1015,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥 丁 ：“不管怎么说，这兜兜转转都是缘分，放心，老大帮你做主!” 说完后，开始cue  线索卡话术“来看看，你俩有什么秘密。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1016,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【拿出第一幕以撒个人线索】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1017,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "念完线索卡后，"
+      ],
+      [
+        "o",
+        "奥丁： “这蛇我肯定是知道的哈，想笑就笑嘛，迷你 可爱小蛇~也就才两米多吧，是吧小以撒!你们肯定没见过这个是吧 \t(看着缪说这句话引导她说她见过)医生竟然见过!那你肯定不知道 这是谁送的，这是以撒的妹妹撒该送的，撒该你们总没见过吧? ( 引 导缪和程走柳说过自己见过撒该)这你们都见过?行吧，撒该可是我 们布雷诺最可爱的小女孩，黛利拉是最可爱的女孩。(大概了解一下"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1018,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "蛇之后，立马转换八卦语气)不过，小以撒你这个蝴蝶标本是怎么回 事啊，给老大讲讲。(引导以撒说缪宏谟走后，他做蝴蝶标本，试图 把蝴蝶留下的想法)”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1019,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等以撒分享完，"
+      ],
+      [
+        "o",
+        "奥丁： “那我们再来看看缪医生的。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1020,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【拿出第一幕缪宏谟个人线索】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1021,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "念完线索卡后，"
+      ],
+      [
+        "o",
+        "奥丁：“这是怎么回事啊缪医生?怎么16岁，就订 过婚啊?男方都可以当你爷爷了吧!你别欺骗我们小以撒感情啊!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1022,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "蒋和程走柳输了后的问题："
+      ]
+    ]
+  },
+  {
+    "paragraph": 1023,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁问：你们第一次遇见是什么场景?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1024,
+    "speakers": [
+      "a",
+      "d"
+    ],
+    "alternative_prompt": true,
+    "segments": [
+      [
+        null,
+        "阿奇问，或者阿奇让小黛问：你们认为彼此的关系是什么?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1025,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷问：你们回到那一天，还想分手吗?"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1026,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这两个认知上会有偏差——"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1027,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "蒋伯驾视角第一次见程走柳和程走柳觉得自己第一次见蒋伯驾是不 一样的时候。一定要点出蒋伯驾第一次见程走柳，是自己生日那天的 事情，而程走柳以为的是大学电台哥那次。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1028,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁可以多调侃前任梗。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1029,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "做完测试，"
+      ],
+      [
+        "o",
+        "奥丁：“那来看看这对前任的。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1030,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【拿出第一幕程走柳个人线索】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1031,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "念完线索卡后，"
+      ],
+      [
+        "o",
+        "奥丁： “还挺有钱啊程记者……这豪宅……当记者这 么挣钱的么?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1032,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等程走柳分享完"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1033,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“看看电台哥的。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1034,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【拿出第一幕蒋伯驾个人线索】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1035,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "念完线索卡后，"
+      ],
+      [
+        "o",
+        "奥丁：“电台哥，这贝姬是啥， 一个对讲机起个奇奇 怪怪的名字?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1036,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "等玩家分享"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1037,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "触发剧情—"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1038,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这里程走柳如果说自己第一次接近蒋伯驾是故意的，"
+      ],
+      [
+        "q",
+        "羌青瓷可以在程 聿怀耳边说："
+      ]
+    ]
+  },
+  {
+    "paragraph": 1039,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“你们程家人可真有意思，都喜欢带有目的接近别人呀，是把别人都当傻子吗~~~”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1040,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "特别特别注意!!!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1041,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "在蒋伯驾接受完惩罚，肖须言电话再次响起——"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1042,
+    "speakers": [
+      "x"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "x",
+        "肖须言电话说：“小蒋同学，东西我给你买来了。我放在门口了，你 自己来拿吧，我就不方便露面了。好好加油啊，舅舅看好你!等你复 合的好消息!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1043,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【把黄油多士、啤酒和第一幕-约会卡放在门外，让蒋伯驾拿走。】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1044,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "蒋伯驾拿回来之后，"
+      ],
+      [
+        "o",
+        "奥丁：“这是什么东西?!给我们说说你拿了什 么 ? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1045,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "让蒋伯驾直接在台上把约会卡读出来，同时送东西给程走柳 羌青瓷可以指着蒋伯驾手里的约会卡，直接cue"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1046,
+    "speakers": [
+      "q",
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“这上面写了什么,就在这读出来吧，蒋先生。” 送完东西，"
+      ],
+      [
+        "o",
+        "奥丁：“没想到小子，你还挺深情啊。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1047,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“蒋先生对我们走柳妹妹还是很上心的，但是要挽回我们走 柳妹妹的心，还是要继续加油啊。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1048,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "说几句就继续流程"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1049,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "阿奇和黛利拉输了后的问题："
+      ]
+    ]
+  },
+  {
+    "paragraph": 1050,
+    "speakers": [
+      "o",
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁问：第一次遇见是什么场景?  ("
+      ],
+      [
+        "a",
+        "阿奇需要写：我救了小 黛 )"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1051,
+    "speakers": [
+      "o",
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁问：你们是什么时候爱上对方的?  ("
+      ],
+      [
+        "a",
+        "阿奇需要写：一见 钟情)"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1052,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷问：如果奥丁不同意，你们会私奔吗? ( 随 便 答 )"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1053,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "两人上台的时候，阿奇可以和黛利拉背靠背站立，亲密一点。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1054,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁要不满：“等一下!是背对背，不是背靠背!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1055,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇可以玩梗：“不背靠背，怎么拥抱呢?!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1056,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "这两个认知上也会有偏差。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1057,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "阿奇视角第一次见面，是以“延迟”的身份救了黛利拉，但是黛利拉 并不知道那是阿奇，她一直以为的第一次见面是在船上，但那次确实 也是阿奇救了黛利拉。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1058,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "阿奇顺着黛利拉视角的分享，点头附和。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1059,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "注意!!!"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1060,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "阿奇要找到合适的机会，佯装解释自己问题的答案，实际上看着程聿怀的方向说:"
+      ],
+      [
+        "a",
+        "“第一次见小黛是我救了她，从此以后，我认定了小黛是我的爱人。我有一个朋友告诉我，在东国，这叫一见钟情，所以，我对小黛一见钟情了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1061,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【不能过于明显，程聿怀能听懂就行】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1062,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "测试结束，开始cue  线索卡话术"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1063,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“那来看看我们黛利拉的吧，我可是感兴趣很久了!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1064,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【拿出第一幕黛利拉个人线索】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1065,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "念完线索卡后，"
+      ],
+      [
+        "o",
+        "奥丁：“嘿，一张破扑克牌你那么宝贵干嘛，哪来的?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1066,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "也可以自行发挥，以上都是提供话术。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1067,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "游戏结束后"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1068,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷：“奥丁，了解我们了吗?我们的误会消除了吧?”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1069,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“前面你们说过，你们都是来做好事的，但我觉得，这个世界 上做好事的只有两种人， 一种是善人，一种就是憋着做更大坏事的恶 人，我不清楚你们究竟是哪种，这次就算了，但你们几个外国人注意 着点，我会注视着你们，永远永远。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1070,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "“好了，我走了 …… ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1071,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇打断：“奥丁先别急，你不是说学了一个新魔术要跟我比试一下 吗 ? ”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1072,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “对，我早就准备好了，但是，小子你先来，精彩的都要放到 后面出场。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1073,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇：“当然可以啊奥丁。” 阿奇变魔术"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1074,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【这里的魔术，各店的阿奇随便在网上学一个自己喜欢的就行，自由发挥，只要成功表演完成就好】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1075,
+    "speakers": [
+      "a"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "a",
+        "阿奇：“奥丁，该你了。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1076,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁： “哼，我的比你的精彩多了。” 奥丁变魔术"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1077,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【具体魔术表演见售后资料：扑克牌拉花魔术】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1078,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "魔术表演失败后，奥丁尴尬的咳嗽两声。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1079,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“我下次一定会成功的，等着吧! (看向羌青瓷)窗户的钱我 会赔的，硬汉从不骗人。记得，有困难，就找狂草帮!”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1080,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "奥丁退场带着阿奇一起走"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1081,
+    "speakers": [
+      "o"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "o",
+        "奥丁：“你小子，跟我来好好聊一聊。(直接掐着阿奇退场，类似于岳 父要和女婿私聊那架势)”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1082,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "羌青瓷笑了一下，对黛利拉和以撒说： “你们老大还挺有趣。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1083,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“刚才发生的事情其实都源于我们对布雷诺的不了解，我之前呢，本 来也给大家准备了一些关于布雷诺的资料，既然说到这，就给你们再 多了解一下吧，毕竟我们还要在这里生活一段时间。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1084,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "【发放布雷诺背景资料线索卡， 一人一张】"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1085,
+    "speakers": [
+      "q"
+    ],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        "q",
+        "“行了，这次就结束了，有机会再见吧，咱们也会好好回去休息一下 吧。”"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1086,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "羌青瓷退场"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1087,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "——播放雨声Thunder   &Rain   ,提示玩家开始阅读第二幕。"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1088,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "切第二幕读本音乐"
+      ]
+    ]
+  },
+  {
+    "paragraph": 1089,
+    "speakers": [],
+    "alternative_prompt": false,
+    "segments": [
+      [
+        null,
+        "BGM:《臣是皆(Gtr ver.)》吉俣良"
+      ]
+    ]
+  }
+]
