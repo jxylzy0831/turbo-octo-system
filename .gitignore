@@ -1,4 +1,7 @@
 __pycache__/
+垃圾箱/
+# PDF 转 DOCX 的 OCR、逐页图片、渲染、试转 Word 等副产品
+临时存储/
 *.py[cod]
 *$~
 ~$*.docx
@@ -12,3 +15,6 @@ scripts/photo/photo.env.ps1
 scripts/photo/.env
 scripts/photo/_tmp/
 photo_out/
+
+# 《青白》原始资料
+/source/originals/青白/

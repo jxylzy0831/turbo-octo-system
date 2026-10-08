@@ -1,0 +1,65 @@
+[
+  {
+    "file": "《青白》组织者手册.pdf",
+    "pages": 183,
+    "text_pages": 182,
+    "chars": 86790,
+    "extract": "analysis\\extracted_pdfs\\《青白》组织者手册.txt"
+  },
+  {
+    "file": "暗夜降至手册（最终版）.pdf",
+    "pages": 226,
+    "text_pages": 225,
+    "chars": 132773,
+    "extract": "analysis\\extracted_pdfs\\暗夜降至手册（最终版）.txt"
+  },
+  {
+    "file": "欲缚.pdf",
+    "pages": 297,
+    "text_pages": 0,
+    "chars": 0,
+    "extract": "analysis\\extracted_pdfs\\欲缚.txt"
+  },
+  {
+    "file": "流程幕次讲解手册.pdf",
+    "pages": 35,
+    "text_pages": 35,
+    "chars": 12432,
+    "extract": "analysis\\extracted_pdfs\\流程幕次讲解手册.txt"
+  },
+  {
+    "file": "碌碌无为手册.pdf",
+    "pages": 384,
+    "text_pages": 0,
+    "chars": 0,
+    "extract": "analysis\\extracted_pdfs\\碌碌无为手册.txt"
+  },
+  {
+    "file": "窃云台组织者手册.pdf",
+    "pages": 202,
+    "text_pages": 201,
+    "chars": 137258,
+    "extract": "analysis\\extracted_pdfs\\窃云台组织者手册.txt"
+  },
+  {
+    "file": "绿洲手册2.0.pdf",
+    "pages": 226,
+    "text_pages": 226,
+    "chars": 106144,
+    "extract": "analysis\\extracted_pdfs\\绿洲手册2.0.txt"
+  },
+  {
+    "file": "草芥手册.pdf",
+    "pages": 224,
+    "text_pages": 223,
+    "chars": 89126,
+    "extract": "analysis\\extracted_pdfs\\草芥手册.txt"
+  },
+  {
+    "file": "醉凌云手册.pdf",
+    "pages": 221,
+    "text_pages": 221,
+    "chars": 144642,
+    "extract": "analysis\\extracted_pdfs\\醉凌云手册.txt"
+  }
+]

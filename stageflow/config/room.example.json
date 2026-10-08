@@ -1,0 +1,25 @@
+{
+  "id": "rehearsal-room",
+  "dimensions": { "width": 10, "depth": 12, "height": 3.2 },
+  "dimensionsAreIllustrative": true,
+  "coordinateSystem": { "east": "+X", "up": "+Y", "south": "+Z" },
+  "doors": [
+    { "id": "north-door", "wall": "north", "allowedKinds": ["npc", "host"], "width": 1.2, "offsetFromCenter": 0 },
+    { "id": "south-door", "wall": "south", "allowedKinds": ["player"], "width": 1.2, "offsetFromCenter": 0 }
+  ],
+  "areas": [
+    { "id": "performance", "half": "north" },
+    { "id": "audience", "half": "south" }
+  ],
+  "curtain": {
+    "id": "central-curtain",
+    "plane": "z=0",
+    "spans": "room-width",
+    "motorized": true,
+    "initialOpenProgress": 0,
+    "motionStyle": "horizontal-split",
+    "motionStyleIsProposed": true,
+    "blocksMovementWhenClosed": true,
+    "soundproof": false
+  }
+}

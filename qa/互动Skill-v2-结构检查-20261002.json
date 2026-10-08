@@ -1,0 +1,16 @@
+{
+  "validation": "limited stdlib structural checks; not a full YAML parser",
+  "checks": [
+    "name matches directory",
+    "required flat frontmatter fields",
+    "name and description length",
+    "local reference targets",
+    "no scaffold TODO",
+    "code fence balance",
+    "old skill SHA-256 unchanged"
+  ],
+  "reference_links": 4,
+  "preserved_old_files": 8,
+  "official_validator": "blocked: PyYAML missing in both Python environments",
+  "live_playtest": false
+}
