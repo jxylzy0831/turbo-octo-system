@@ -1,0 +1,15 @@
+{
+  "initialPhase": "players-seated-npcs-preparing",
+  "positionsAreIllustrative": true,
+  "actors": [
+    { "id": "P1", "kind": "player", "pair": 1, "entryDoor": "south-door", "position": [-2.4, 0, 3.2], "pose": "seated" },
+    { "id": "P2", "kind": "player", "pair": 2, "entryDoor": "south-door", "position": [-0.8, 0, 3.2], "pose": "seated" },
+    { "id": "P3", "kind": "player", "pair": 3, "entryDoor": "south-door", "position": [0.8, 0, 3.2], "pose": "seated" },
+    { "id": "P4", "kind": "player", "pair": 4, "entryDoor": "south-door", "position": [2.4, 0, 3.2], "pose": "seated" },
+    { "id": "N1", "kind": "npc", "pair": 1, "entryDoor": "north-door", "position": [-2.4, 0, -3], "pose": "standing" },
+    { "id": "N2", "kind": "npc", "pair": 2, "entryDoor": "north-door", "position": [-0.8, 0, -3], "pose": "standing" },
+    { "id": "N3", "kind": "npc", "pair": 3, "entryDoor": "north-door", "position": [0.8, 0, -3], "pose": "standing" },
+    { "id": "N4", "kind": "npc", "pair": 4, "entryDoor": "north-door", "position": [2.4, 0, -3], "pose": "standing" },
+    { "id": "G", "kind": "host", "entryDoor": "north-door", "position": [-3, 0, 1.3], "pose": "standing" }
+  ]
+}

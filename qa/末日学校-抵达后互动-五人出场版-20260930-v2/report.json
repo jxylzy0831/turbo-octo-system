@@ -1,0 +1,14 @@
+{
+  "entries": 155,
+  "scenes": 7,
+  "onlyFiveNPCSpeakers": true,
+  "sourceExact": true,
+  "controlsPassed": true,
+  "viewportWidths": [
+    1440,
+    768,
+    390
+  ],
+  "errors": [],
+  "externalRequests": []
+}

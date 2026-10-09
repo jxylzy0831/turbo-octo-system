@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本互动设计 · 通用版"
+  short_description: "解释互动如何改变认知与关系，将玩家回应、幕布两区、演员与声光落实成流程"
+  default_prompt: "使用 $scripted-interaction-design-v2，解释这个场景的互动机制，并按单房间、幕布分区和现有声光条件设计可执行流程。"
