@@ -1,0 +1,126 @@
+[
+  {
+    "source": "《青白》组织者手册.pdf",
+    "sha256": "472C09A95057D2C919911E0A2611D626A3CA7490FF865CED2877563B2E65F7D8",
+    "source_pages": 183,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 182,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\《青白》组织者手册_去封面正文可编辑.docx",
+    "bytes": 155495
+  },
+  {
+    "source": "暗夜降至手册（最终版）.pdf",
+    "sha256": "0409E1FBD2A08DBE86DE05747A201DBD435F28ED8178E25FD13CEA0E77AA0E11",
+    "source_pages": 226,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 225,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\暗夜降至手册（最终版）_去封面正文可编辑.docx",
+    "bytes": 200633
+  },
+  {
+    "source": "欲缚.pdf",
+    "sha256": "7333BAA8FCDCB97D1E1214277F766FCF01BE3B5B8DA379DBB4C82C5C347E7626",
+    "source_pages": 297,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 296,
+    "ocr_pages": 297,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\欲缚_去封面正文可编辑.docx",
+    "bytes": 254679
+  },
+  {
+    "source": "流程幕次讲解手册.pdf",
+    "sha256": "47E53EF9628D6D9EDEB312B752FF21142811DB2CC860AA6252332739676162EA",
+    "source_pages": 35,
+    "removed_cover_pages": [],
+    "word_pages_expected": 35,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\流程幕次讲解手册_去封面正文可编辑.docx",
+    "bytes": 54759
+  },
+  {
+    "source": "碌碌无为手册.pdf",
+    "sha256": "19E85C51F68CAA2D7E27A0F9D474B88DBD5285FDDACE5BEE992DA7052D8C2EE2",
+    "source_pages": 384,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 383,
+    "ocr_pages": 384,
+    "empty_pages_preserved": 1,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\碌碌无为手册_去封面正文可编辑.docx",
+    "bytes": 243116
+  },
+  {
+    "source": "窃云台组织者手册.pdf",
+    "sha256": "04BC0CD7BF16CC22E7A9241EDCE479C477BDF491640E27A1F61D3B95970E4D9B",
+    "source_pages": 202,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 201,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\窃云台组织者手册_去封面正文可编辑.docx",
+    "bytes": 231561
+  },
+  {
+    "source": "绿洲手册2.0.pdf",
+    "sha256": "218F69645B1C69668DA9D51BF720E01D368A7D15141F5CED3F7507CD9A341B36",
+    "source_pages": 226,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 225,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\绿洲手册2.0_去封面正文可编辑.docx",
+    "bytes": 175953
+  },
+  {
+    "source": "草芥手册.pdf",
+    "sha256": "676DC758F1597D26F0256C154D1D0CD406A578F5F14C37167490ACE2D9182CF6",
+    "source_pages": 224,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 223,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\草芥手册_去封面正文可编辑.docx",
+    "bytes": 165339
+  },
+  {
+    "source": "醉凌云手册.pdf",
+    "sha256": "3724A7E8F16F20E27B8FB46CF997C193F011B4815A427A3792D8B39105A0B61A",
+    "source_pages": 221,
+    "removed_cover_pages": [
+      1
+    ],
+    "word_pages_expected": 220,
+    "ocr_pages": 0,
+    "empty_pages_preserved": 0,
+    "uncertain_lines_highlighted": 0,
+    "output": "成品\\醉凌云手册_去封面正文可编辑.docx",
+    "bytes": 233936
+  }
+]

@@ -1,0 +1,2542 @@
+{
+  "date": "2026-10-09",
+  "renamed_directories": [
+    {
+      "from": "analysis",
+      "to": "分析"
+    },
+    {
+      "from": "analysis/concordance",
+      "to": "分析/对照索引"
+    },
+    {
+      "from": "analysis/conversations",
+      "to": "分析/会话记录"
+    },
+    {
+      "from": "analysis/emotional-design-20260916",
+      "to": "分析/情感设计-20260916"
+    },
+    {
+      "from": "analysis/extracted",
+      "to": "分析/抽取资料"
+    },
+    {
+      "from": "analysis/extracted_pdfs",
+      "to": "分析/抽取的便携文档文本"
+    },
+    {
+      "from": "analysis/standards",
+      "to": "分析/评分标准"
+    },
+    {
+      "from": "analysis/末日学校提示词参照-20261008-01a11a1e",
+      "to": "分析/末日学校提示词参照-20261008-01a11a1e"
+    },
+    {
+      "from": "assets",
+      "to": "素材"
+    },
+    {
+      "from": "drafts",
+      "to": "草稿"
+    },
+    {
+      "from": "output",
+      "to": "成品"
+    },
+    {
+      "from": "qa",
+      "to": "质检"
+    },
+    {
+      "from": "qa/cover_refs",
+      "to": "质检/封面参考"
+    },
+    {
+      "from": "qa/cover_refs/以撒",
+      "to": "质检/封面参考/以撒"
+    },
+    {
+      "from": "qa/cover_refs/程聿怀",
+      "to": "质检/封面参考/程聿怀"
+    },
+    {
+      "from": "qa/cover_refs/程走柳",
+      "to": "质检/封面参考/程走柳"
+    },
+    {
+      "from": "qa/cover_refs/缪宏谟",
+      "to": "质检/封面参考/缪宏谟"
+    },
+    {
+      "from": "qa/cover_refs/蒋伯驾",
+      "to": "质检/封面参考/蒋伯驾"
+    },
+    {
+      "from": "qa/skill-validation-deps",
+      "to": "质检/skill-validation-deps"
+    },
+    {
+      "from": "qa/skill-validation-deps/_yaml",
+      "to": "质检/skill-validation-deps/_yaml"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/licenses",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/licenses"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml",
+      "to": "质检/skill-validation-deps/yaml"
+    },
+    {
+      "from": "qa/template",
+      "to": "质检/排版模板"
+    },
+    {
+      "from": "qa/template/黛利拉A本",
+      "to": "质检/排版模板/黛利拉A本"
+    },
+    {
+      "from": "qa/template/黛利拉B本",
+      "to": "质检/排版模板/黛利拉B本"
+    },
+    {
+      "from": "qa/template/黛利拉C本",
+      "to": "质检/排版模板/黛利拉C本"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames",
+      "to": "质检/视频帧_03eb80dd"
+    },
+    {
+      "from": "qa/第一幕人物分色-20260930-v1",
+      "to": "质检/第一幕人物分色-20260930-第一版"
+    },
+    {
+      "from": "scripted-interaction-design-v2",
+      "to": "互动设计技能第二版"
+    },
+    {
+      "from": "scripted-interaction-design-v2/agents",
+      "to": "互动设计技能第二版/智能体配置"
+    },
+    {
+      "from": "scripted-interaction-design-v2/references",
+      "to": "互动设计技能第二版/参考资料"
+    },
+    {
+      "from": "scripted-interaction-design",
+      "to": "互动设计技能"
+    },
+    {
+      "from": "scripted-interaction-design/agents",
+      "to": "互动设计技能/智能体配置"
+    },
+    {
+      "from": "scripted-interaction-design/references",
+      "to": "互动设计技能/参考资料"
+    },
+    {
+      "from": "scripts",
+      "to": "自动化脚本"
+    },
+    {
+      "from": "scripts/photo",
+      "to": "自动化脚本/修图工具"
+    },
+    {
+      "from": "scripts/photo/prompts",
+      "to": "自动化脚本/修图工具/提示词"
+    },
+    {
+      "from": "source",
+      "to": "原始资料"
+    },
+    {
+      "from": "source/originals",
+      "to": "原始资料/原始文件"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考"
+    },
+    {
+      "from": "stageflow",
+      "to": "舞台预演"
+    },
+    {
+      "from": "stageflow/config",
+      "to": "舞台预演/配置"
+    },
+    {
+      "from": "stageflow/docs",
+      "to": "舞台预演/文档"
+    },
+    {
+      "from": "stageflow/scripts",
+      "to": "舞台预演/自动化脚本"
+    },
+    {
+      "from": "stageflow/src",
+      "to": "舞台预演/源码"
+    },
+    {
+      "from": "stageflow/src/app",
+      "to": "舞台预演/源码/应用"
+    },
+    {
+      "from": "stageflow/src/audio",
+      "to": "舞台预演/源码/音频"
+    },
+    {
+      "from": "stageflow/src/data",
+      "to": "舞台预演/源码/数据"
+    },
+    {
+      "from": "stageflow/src/dialogue",
+      "to": "舞台预演/源码/对话"
+    },
+    {
+      "from": "stageflow/src/domain",
+      "to": "舞台预演/源码/领域"
+    },
+    {
+      "from": "stageflow/src/flow",
+      "to": "舞台预演/源码/流程"
+    },
+    {
+      "from": "stageflow/src/rendering",
+      "to": "舞台预演/源码/渲染"
+    },
+    {
+      "from": "stageflow/src/styles",
+      "to": "舞台预演/源码/样式"
+    },
+    {
+      "from": "stageflow/src/ui",
+      "to": "舞台预演/源码/界面"
+    }
+  ],
+  "renamed_files": [
+    {
+      "from": "README.md",
+      "to": "项目说明.md"
+    },
+    {
+      "from": "analysis/.gitkeep",
+      "to": "分析/.gitkeep"
+    },
+    {
+      "from": "analysis/PDF转换临时存储迁移清单-20261002.md",
+      "to": "分析/便携文档转换临时存储迁移清单-20261002.md"
+    },
+    {
+      "from": "analysis/concordance/以撒A本-索引.md",
+      "to": "分析/对照索引/以撒A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/以撒B本-索引.md",
+      "to": "分析/对照索引/以撒B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/以撒C本-索引.md",
+      "to": "分析/对照索引/以撒C本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/流氓叙事手册-索引.md",
+      "to": "分析/对照索引/流氓叙事手册-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程聿怀A本-索引.md",
+      "to": "分析/对照索引/程聿怀A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程聿怀B本-索引.md",
+      "to": "分析/对照索引/程聿怀B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程聿怀C本-索引.md",
+      "to": "分析/对照索引/程聿怀C本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程走柳A本-索引.md",
+      "to": "分析/对照索引/程走柳A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程走柳B本-索引.md",
+      "to": "分析/对照索引/程走柳B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/程走柳C本-索引.md",
+      "to": "分析/对照索引/程走柳C本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/缪宏谟A本-索引.md",
+      "to": "分析/对照索引/缪宏谟A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/缪宏谟B本-索引.md",
+      "to": "分析/对照索引/缪宏谟B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/缪宏谟C本-索引.md",
+      "to": "分析/对照索引/缪宏谟C本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/蒋伯驾A本-索引.md",
+      "to": "分析/对照索引/蒋伯驾A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/蒋伯驾B本-索引.md",
+      "to": "分析/对照索引/蒋伯驾B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/蒋伯驾C本-索引.md",
+      "to": "分析/对照索引/蒋伯驾C本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/语料结构统计.md",
+      "to": "分析/对照索引/语料结构统计.md"
+    },
+    {
+      "from": "analysis/concordance/黛利拉A本-索引.md",
+      "to": "分析/对照索引/黛利拉A本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/黛利拉B本-索引.md",
+      "to": "分析/对照索引/黛利拉B本-索引.md"
+    },
+    {
+      "from": "analysis/concordance/黛利拉C本-索引.md",
+      "to": "分析/对照索引/黛利拉C本-索引.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-11_01a08e84-b9bf-7473-b360-ac75ddc1928b.md",
+      "to": "分析/会话记录/2026-09-11_01a08e84-b9bf-7473-b360-ac75ddc1928b.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-11_01a08f34-2ed1-7db2-8497-d7aa0aea057a.md",
+      "to": "分析/会话记录/2026-09-11_01a08f34-2ed1-7db2-8497-d7aa0aea057a.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-11_01a08f7d-4463-7b21-8696-83473d334b99.md",
+      "to": "分析/会话记录/2026-09-11_01a08f7d-4463-7b21-8696-83473d334b99.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-12_01a09355-c3f9-7320-ac93-549e4acf87ee.md",
+      "to": "分析/会话记录/2026-09-12_01a09355-c3f9-7320-ac93-549e4acf87ee.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-15_01a0a533-d451-7913-b4b1-54f2b9b6b0bf.md",
+      "to": "分析/会话记录/2026-09-15_01a0a533-d451-7913-b4b1-54f2b9b6b0bf.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-15_01a0a542-e6b0-77b1-afdf-f633791be221.md",
+      "to": "分析/会话记录/2026-09-15_01a0a542-e6b0-77b1-afdf-f633791be221.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-16_01a0a804-b8e4-7660-b859-d63bc5455c32.md",
+      "to": "分析/会话记录/2026-09-16_01a0a804-b8e4-7660-b859-d63bc5455c32.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-20_01a0bd7e-416c-7473-a991-9cde5df3e6d8.md",
+      "to": "分析/会话记录/2026-09-20_01a0bd7e-416c-7473-a991-9cde5df3e6d8.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-20_01a0bec3-51df-7721-8c50-bcf24cd7b9a6.md",
+      "to": "分析/会话记录/2026-09-20_01a0bec3-51df-7721-8c50-bcf24cd7b9a6.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-28_01a0e67b-d3fe-7e02-bdff-aa5510356ebe.md",
+      "to": "分析/会话记录/2026-09-28_01a0e67b-d3fe-7e02-bdff-aa5510356ebe.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-28_01a0e68f-d221-7930-92c9-13ba2beead4f.md",
+      "to": "分析/会话记录/2026-09-28_01a0e68f-d221-7930-92c9-13ba2beead4f.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-29_remote-pull.md",
+      "to": "分析/会话记录/2026-09-29_remote-pull.md"
+    },
+    {
+      "from": "analysis/conversations/2026-09-30_01a0f048-d157-7843-8999-f137a19cd797.md",
+      "to": "分析/会话记录/2026-09-30_01a0f048-d157-7843-8999-f137a19cd797.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-02_01a0fb98-0a0e-7531-bec7-ecf95d87e86b.md",
+      "to": "分析/会话记录/2026-10-02_01a0fb98-0a0e-7531-bec7-ecf95d87e86b.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-02_01a0fc19-dc7c-7ea3-b95e-b1b7fc8eaedc.md",
+      "to": "分析/会话记录/2026-10-02_01a0fc19-dc7c-7ea3-b95e-b1b7fc8eaedc.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-02_01a0fc1b-276f-7180-8d8f-a67d9b883809.md",
+      "to": "分析/会话记录/2026-10-02_01a0fc1b-276f-7180-8d8f-a67d9b883809.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-03_青白_gitignore.md",
+      "to": "分析/会话记录/2026-10-03_青白_gitignore.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-05_skill-research.md",
+      "to": "分析/会话记录/2026-10-05_skill-research.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-05_自启动盘点.md",
+      "to": "分析/会话记录/2026-10-05_自启动盘点.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-07_01a1170c-0442-7311-86bd-de721fd6b3a7.md",
+      "to": "分析/会话记录/2026-10-07_01a1170c-0442-7311-86bd-de721fd6b3a7.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_01a1172e-4c90-7ad2-a778-e3f955e23a74.md",
+      "to": "分析/会话记录/2026-10-08_01a1172e-4c90-7ad2-a778-e3f955e23a74.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_01a1190a-pull-latest-code.md",
+      "to": "分析/会话记录/2026-10-08_01a1190a-pull-latest-code.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_01a11b0b-bfa2-73d1-bf5c-03f430bca867.md",
+      "to": "分析/会话记录/2026-10-08_01a11b0b-bfa2-73d1-bf5c-03f430bca867.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_codex-session.md",
+      "to": "分析/会话记录/2026-10-08_codex-session.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_大纲提示词核查.md",
+      "to": "分析/会话记录/2026-10-08_大纲提示词核查.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-08_末日学校提示词-01a11a1e.md",
+      "to": "分析/会话记录/2026-10-08_末日学校提示词-01a11a1e.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-09_01a11e34-2da9-7803-bf70-c6112f446de1.md",
+      "to": "分析/会话记录/2026-10-09_01a11e34-2da9-7803-bf70-c6112f446de1.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-09_01a11e9b-6867-7100-a56c-d0db0c1e7a4f.md",
+      "to": "分析/会话记录/2026-10-09_01a11e9b-6867-7100-a56c-d0db0c1e7a4f.md"
+    },
+    {
+      "from": "analysis/conversations/2026-10-09_01a11eda-ff07-7762-9b44-8bb09ee58a17.md",
+      "to": "分析/会话记录/2026-10-09_01a11eda-ff07-7762-9b44-8bb09ee58a17.md"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/manifest.json",
+      "to": "分析/情感设计-20260916/资源清单.json"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/verification.txt",
+      "to": "分析/情感设计-20260916/核验说明.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/以撒A本.txt",
+      "to": "分析/情感设计-20260916/以撒A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/以撒B本.txt",
+      "to": "分析/情感设计-20260916/以撒B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/以撒C本.txt",
+      "to": "分析/情感设计-20260916/以撒C本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/本轮回复.md",
+      "to": "分析/情感设计-20260916/本轮回复.md"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/流氓叙事手册.txt",
+      "to": "分析/情感设计-20260916/流氓叙事手册.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程聿怀A本.txt",
+      "to": "分析/情感设计-20260916/程聿怀A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程聿怀B本.txt",
+      "to": "分析/情感设计-20260916/程聿怀B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程聿怀C本.txt",
+      "to": "分析/情感设计-20260916/程聿怀C本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程走柳A本.txt",
+      "to": "分析/情感设计-20260916/程走柳A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程走柳B本.txt",
+      "to": "分析/情感设计-20260916/程走柳B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/程走柳C本.txt",
+      "to": "分析/情感设计-20260916/程走柳C本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/第二轮回复.md",
+      "to": "分析/情感设计-20260916/第二轮回复.md"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/缪宏谟A本.txt",
+      "to": "分析/情感设计-20260916/缪宏谟A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/缪宏谟B本.txt",
+      "to": "分析/情感设计-20260916/缪宏谟B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/缪宏谟C本.txt",
+      "to": "分析/情感设计-20260916/缪宏谟C本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/蒋伯驾A本.txt",
+      "to": "分析/情感设计-20260916/蒋伯驾A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/蒋伯驾B本.txt",
+      "to": "分析/情感设计-20260916/蒋伯驾B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/蒋伯驾C本.txt",
+      "to": "分析/情感设计-20260916/蒋伯驾C本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/黛利拉A本.txt",
+      "to": "分析/情感设计-20260916/黛利拉A本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/黛利拉B本.txt",
+      "to": "分析/情感设计-20260916/黛利拉B本.txt"
+    },
+    {
+      "from": "analysis/emotional-design-20260916/黛利拉C本.txt",
+      "to": "分析/情感设计-20260916/黛利拉C本.txt"
+    },
+    {
+      "from": "analysis/extracted/以撒A本.jsonl",
+      "to": "分析/抽取资料/以撒A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/以撒B本.jsonl",
+      "to": "分析/抽取资料/以撒B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/以撒C本.jsonl",
+      "to": "分析/抽取资料/以撒C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/流氓叙事手册.jsonl",
+      "to": "分析/抽取资料/流氓叙事手册.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程聿怀A本.jsonl",
+      "to": "分析/抽取资料/程聿怀A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程聿怀B本.jsonl",
+      "to": "分析/抽取资料/程聿怀B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程聿怀C本.jsonl",
+      "to": "分析/抽取资料/程聿怀C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程走柳A本.jsonl",
+      "to": "分析/抽取资料/程走柳A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程走柳B本.jsonl",
+      "to": "分析/抽取资料/程走柳B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/程走柳C本.jsonl",
+      "to": "分析/抽取资料/程走柳C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/缪宏谟A本.jsonl",
+      "to": "分析/抽取资料/缪宏谟A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/缪宏谟B本.jsonl",
+      "to": "分析/抽取资料/缪宏谟B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/缪宏谟C本.jsonl",
+      "to": "分析/抽取资料/缪宏谟C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/蒋伯驾A本.jsonl",
+      "to": "分析/抽取资料/蒋伯驾A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/蒋伯驾B本.jsonl",
+      "to": "分析/抽取资料/蒋伯驾B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/蒋伯驾C本.jsonl",
+      "to": "分析/抽取资料/蒋伯驾C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/黛利拉A本.jsonl",
+      "to": "分析/抽取资料/黛利拉A本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/黛利拉B本.jsonl",
+      "to": "分析/抽取资料/黛利拉B本.jsonl"
+    },
+    {
+      "from": "analysis/extracted/黛利拉C本.jsonl",
+      "to": "分析/抽取资料/黛利拉C本.jsonl"
+    },
+    {
+      "from": "analysis/extracted_pdfs/《青白》组织者手册.txt",
+      "to": "分析/抽取的便携文档文本/《青白》组织者手册.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/暗夜降至手册（最终版）.txt",
+      "to": "分析/抽取的便携文档文本/暗夜降至手册（最终版）.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/欲缚.txt",
+      "to": "分析/抽取的便携文档文本/欲缚.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/欲缚_OCR.txt",
+      "to": "分析/抽取的便携文档文本/欲缚_文字识别.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/流程幕次讲解手册.txt",
+      "to": "分析/抽取的便携文档文本/流程幕次讲解手册.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/碌碌无为手册.txt",
+      "to": "分析/抽取的便携文档文本/碌碌无为手册.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/碌碌无为手册_OCR.txt",
+      "to": "分析/抽取的便携文档文本/碌碌无为手册_文字识别.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/窃云台组织者手册.txt",
+      "to": "分析/抽取的便携文档文本/窃云台组织者手册.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/绿洲手册2.0.txt",
+      "to": "分析/抽取的便携文档文本/绿洲手册2.0.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/草芥手册.txt",
+      "to": "分析/抽取的便携文档文本/草芥手册.txt"
+    },
+    {
+      "from": "analysis/extracted_pdfs/醉凌云手册.txt",
+      "to": "分析/抽取的便携文档文本/醉凌云手册.txt"
+    },
+    {
+      "from": "analysis/pdf_text_extraction_summary.json",
+      "to": "分析/便携文档文本提取摘要.json"
+    },
+    {
+      "from": "analysis/standards/大纲评分标准-v1.md",
+      "to": "分析/评分标准/大纲评分标准-第1版.md"
+    },
+    {
+      "from": "analysis/standards/末日学校大纲基准测试-v1.md",
+      "to": "分析/评分标准/末日学校大纲基准测试-第1版.md"
+    },
+    {
+      "from": "analysis/互动HTML呈现约定-20260930.md",
+      "to": "分析/互动网页呈现约定-20260930.md"
+    },
+    {
+      "from": "analysis/互动Skill旧版保留清单-20261002.json",
+      "to": "分析/互动技能旧版保留清单-20261002.json"
+    },
+    {
+      "from": "analysis/互动Skill通用化整理-20261002-v2.md",
+      "to": "分析/互动技能通用化整理-20261002-第2版.md"
+    },
+    {
+      "from": "analysis/五恋陪一公核全场羁绊方法论-v1.md",
+      "to": "分析/五恋陪一公核全场羁绊方法论-第1版.md"
+    },
+    {
+      "from": "analysis/冲突与待确认.md",
+      "to": "分析/冲突与待确认.md"
+    },
+    {
+      "from": "analysis/分幕篇幅统计.md",
+      "to": "分析/分幕篇幅统计.md"
+    },
+    {
+      "from": "analysis/剧本杀严格评分与验证规范-20260920-v1.md",
+      "to": "分析/剧本杀严格评分与验证规范-20260920-第1版.md"
+    },
+    {
+      "from": "analysis/剧本杀评审工作表-20260920-v1.md",
+      "to": "分析/剧本杀评审工作表-20260920-第1版.md"
+    },
+    {
+      "from": "analysis/垃圾箱整理清单-20261002.md",
+      "to": "分析/垃圾箱整理清单-20261002.md"
+    },
+    {
+      "from": "analysis/垃圾箱整理清单-20261009.json",
+      "to": "分析/垃圾箱整理清单-20261009.json"
+    },
+    {
+      "from": "analysis/垃圾箱整理清单-20261009.md",
+      "to": "分析/垃圾箱整理清单-20261009.md"
+    },
+    {
+      "from": "analysis/外部组织者手册_SHA256_初始清单.json",
+      "to": "分析/外部组织者手册_校验值_初始清单.json"
+    },
+    {
+      "from": "analysis/外部组织者手册_SHA256_复核.json",
+      "to": "分析/外部组织者手册_校验值_复核.json"
+    },
+    {
+      "from": "analysis/外部组织者手册_Word渲染检查.json",
+      "to": "分析/外部组织者手册_文档渲染检查.json"
+    },
+    {
+      "from": "analysis/外部组织者手册_Word转换清单.json",
+      "to": "分析/外部组织者手册_文档转换清单.json"
+    },
+    {
+      "from": "analysis/多模态OCR复核记录.md",
+      "to": "分析/多模态文字识别复核记录.md"
+    },
+    {
+      "from": "analysis/废稿整理保留文件核对-20261009.json",
+      "to": "分析/废稿整理保留文件核对-20261009.json"
+    },
+    {
+      "from": "analysis/废稿整理核对结果-20261009.md",
+      "to": "分析/废稿整理核对结果-20261009.md"
+    },
+    {
+      "from": "analysis/手册互动检索-20260915.txt",
+      "to": "分析/手册互动检索-20260915.txt"
+    },
+    {
+      "from": "analysis/文风与功能页规范.md",
+      "to": "分析/文风与功能页规范.md"
+    },
+    {
+      "from": "analysis/末日学校提示词参照-20261008-01a11a1e/流氓叙事手册-抽取.txt",
+      "to": "分析/末日学校提示词参照-20261008-01a11a1e/流氓叙事手册-抽取.txt"
+    },
+    {
+      "from": "analysis/末日学校提示词参照-20261008-01a11a1e/源文件哈希.json",
+      "to": "分析/末日学校提示词参照-20261008-01a11a1e/源文件哈希.json"
+    },
+    {
+      "from": "analysis/流氓叙事-第一幕互动原文-人物分色-20260930-v1.html",
+      "to": "分析/流氓叙事-第一幕互动原文-人物分色-20260930-第1版.html"
+    },
+    {
+      "from": "analysis/流氓叙事-第一幕读本后互动原文-20260930-v1.md",
+      "to": "分析/流氓叙事-第一幕读本后互动原文-20260930-第1版.md"
+    },
+    {
+      "from": "analysis/流氓叙事-第一幕读本后互动整理-20260930-v1.md",
+      "to": "分析/流氓叙事-第一幕读本后互动整理-20260930-第1版.md"
+    },
+    {
+      "from": "analysis/流氓叙事-第二三幕互动设计Skill-人物分色-20261002-v1.html",
+      "to": "分析/流氓叙事-第二三幕互动设计技能-人物分色-20261002-第1版.html"
+    },
+    {
+      "from": "analysis/流氓叙事情感本设计哲学-20260916-v1.md",
+      "to": "分析/流氓叙事情感本设计哲学-20260916-第1版.md"
+    },
+    {
+      "from": "analysis/流氓叙事手册-互动研究-20260915.jsonl",
+      "to": "分析/流氓叙事手册-互动研究-20260915.jsonl"
+    },
+    {
+      "from": "analysis/流氓叙事手册-互动研究-20260915.txt",
+      "to": "分析/流氓叙事手册-互动研究-20260915.txt"
+    },
+    {
+      "from": "analysis/流氓叙事手册.jsonl",
+      "to": "分析/流氓叙事手册.jsonl"
+    },
+    {
+      "from": "analysis/源文件清单.md",
+      "to": "分析/源文件清单.md"
+    },
+    {
+      "from": "analysis/程聿怀A本.jsonl",
+      "to": "分析/程聿怀A本.jsonl"
+    },
+    {
+      "from": "analysis/程聿怀B本.jsonl",
+      "to": "分析/程聿怀B本.jsonl"
+    },
+    {
+      "from": "analysis/程聿怀C本.jsonl",
+      "to": "分析/程聿怀C本.jsonl"
+    },
+    {
+      "from": "analysis/读本后互动_重点页原文摘录.md",
+      "to": "分析/读本后互动_重点页原文摘录.md"
+    },
+    {
+      "from": "analysis/读本后破冰互动分析.md",
+      "to": "分析/读本后破冰互动分析.md"
+    },
+    {
+      "from": "analysis/读本结束互动检索摘录.md",
+      "to": "分析/读本结束互动检索摘录.md"
+    },
+    {
+      "from": "analysis/阿奇A本.jsonl",
+      "to": "分析/阿奇A本.jsonl"
+    },
+    {
+      "from": "analysis/阿奇B本.jsonl",
+      "to": "分析/阿奇B本.jsonl"
+    },
+    {
+      "from": "analysis/阿奇C本.jsonl",
+      "to": "分析/阿奇C本.jsonl"
+    },
+    {
+      "from": "analysis/阿奇主线时间线.md",
+      "to": "分析/阿奇主线时间线.md"
+    },
+    {
+      "from": "analysis/阿奇已知信息表.md",
+      "to": "分析/阿奇已知信息表.md"
+    },
+    {
+      "from": "analysis/青白-第二三幕互动原文-人物分色-20261002-v1.html",
+      "to": "分析/青白-第二三幕互动原文-人物分色-20261002-第1版.html"
+    },
+    {
+      "from": "analysis/青白-第二三幕互动设计Skill-人物分色-20261002-v1.html",
+      "to": "分析/青白-第二三幕互动设计技能-人物分色-20261002-第1版.html"
+    },
+    {
+      "from": "analysis/青白可编辑OCR转换清单.json",
+      "to": "分析/青白可编辑文字识别转换清单.json"
+    },
+    {
+      "from": "analysis/青白组织者手册_正文段落核对.txt",
+      "to": "分析/青白组织者手册_正文段落核对.txt"
+    },
+    {
+      "from": "analysis/黛利拉A本.jsonl",
+      "to": "分析/黛利拉A本.jsonl"
+    },
+    {
+      "from": "analysis/黛利拉B本.jsonl",
+      "to": "分析/黛利拉B本.jsonl"
+    },
+    {
+      "from": "analysis/黛利拉C本.jsonl",
+      "to": "分析/黛利拉C本.jsonl"
+    },
+    {
+      "from": "assets/阿奇封面-v1.png",
+      "to": "素材/阿奇封面-第1版.png"
+    },
+    {
+      "from": "drafts/.gitkeep",
+      "to": "草稿/.gitkeep"
+    },
+    {
+      "from": "output/.gitkeep",
+      "to": "成品/.gitkeep"
+    },
+    {
+      "from": "output/《青白》组织者手册_去封面正文可编辑.docx",
+      "to": "成品/《青白》组织者手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/《青白》组织者手册_可编辑OCR正文版.docx",
+      "to": "成品/《青白》组织者手册_可编辑文字识别正文版.docx"
+    },
+    {
+      "from": "output/暗夜降至手册（最终版）_去封面正文可编辑.docx",
+      "to": "成品/暗夜降至手册（最终版）_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/欲缚_去封面正文可编辑.docx",
+      "to": "成品/欲缚_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/流程幕次讲解手册_去封面正文可编辑.docx",
+      "to": "成品/流程幕次讲解手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/碌碌无为手册_去封面正文可编辑.docx",
+      "to": "成品/碌碌无为手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/窃云台组织者手册_去封面正文可编辑.docx",
+      "to": "成品/窃云台组织者手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/绿洲手册2.0_去封面正文可编辑.docx",
+      "to": "成品/绿洲手册2.0_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/草芥手册_去封面正文可编辑.docx",
+      "to": "成品/草芥手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "output/醉凌云手册_去封面正文可编辑.docx",
+      "to": "成品/醉凌云手册_去封面正文可编辑.docx"
+    },
+    {
+      "from": "qa/.gitkeep",
+      "to": "质检/.gitkeep"
+    },
+    {
+      "from": "qa/cover_refs/以撒/page-1.png",
+      "to": "质检/封面参考/以撒/第1页.png"
+    },
+    {
+      "from": "qa/cover_refs/以撒/以撒.pdf",
+      "to": "质检/封面参考/以撒/以撒.pdf"
+    },
+    {
+      "from": "qa/cover_refs/程聿怀/page-1.png",
+      "to": "质检/封面参考/程聿怀/第1页.png"
+    },
+    {
+      "from": "qa/cover_refs/程聿怀/程聿怀.pdf",
+      "to": "质检/封面参考/程聿怀/程聿怀.pdf"
+    },
+    {
+      "from": "qa/cover_refs/程走柳/page-1.png",
+      "to": "质检/封面参考/程走柳/第1页.png"
+    },
+    {
+      "from": "qa/cover_refs/程走柳/程走柳.pdf",
+      "to": "质检/封面参考/程走柳/程走柳.pdf"
+    },
+    {
+      "from": "qa/cover_refs/缪宏谟/page-1.png",
+      "to": "质检/封面参考/缪宏谟/第1页.png"
+    },
+    {
+      "from": "qa/cover_refs/缪宏谟/缪宏谟.pdf",
+      "to": "质检/封面参考/缪宏谟/缪宏谟.pdf"
+    },
+    {
+      "from": "qa/cover_refs/蒋伯驾/page-1.png",
+      "to": "质检/封面参考/蒋伯驾/第1页.png"
+    },
+    {
+      "from": "qa/cover_refs/蒋伯驾/蒋伯驾.pdf",
+      "to": "质检/封面参考/蒋伯驾/蒋伯驾.pdf"
+    },
+    {
+      "from": "qa/extract_video_frames.js",
+      "to": "质检/提取视频帧.js"
+    },
+    {
+      "from": "qa/skill-validation-deps/_yaml/__init__.py",
+      "to": "质检/skill-validation-deps/_yaml/__init__.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/INSTALLER",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/INSTALLER"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/METADATA",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/METADATA"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/RECORD",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/RECORD"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/REQUESTED",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/REQUESTED"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/WHEEL",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/WHEEL"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/licenses/LICENSE",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/licenses/LICENSE"
+    },
+    {
+      "from": "qa/skill-validation-deps/pyyaml-6.0.3.dist-info/top_level.txt",
+      "to": "质检/skill-validation-deps/pyyaml-6.0.3.dist-info/top_level.txt"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/__init__.py",
+      "to": "质检/skill-validation-deps/yaml/__init__.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/composer.py",
+      "to": "质检/skill-validation-deps/yaml/composer.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/constructor.py",
+      "to": "质检/skill-validation-deps/yaml/constructor.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/cyaml.py",
+      "to": "质检/skill-validation-deps/yaml/cyaml.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/dumper.py",
+      "to": "质检/skill-validation-deps/yaml/dumper.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/emitter.py",
+      "to": "质检/skill-validation-deps/yaml/emitter.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/error.py",
+      "to": "质检/skill-validation-deps/yaml/error.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/events.py",
+      "to": "质检/skill-validation-deps/yaml/events.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/loader.py",
+      "to": "质检/skill-validation-deps/yaml/loader.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/nodes.py",
+      "to": "质检/skill-validation-deps/yaml/nodes.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/parser.py",
+      "to": "质检/skill-validation-deps/yaml/parser.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/reader.py",
+      "to": "质检/skill-validation-deps/yaml/reader.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/representer.py",
+      "to": "质检/skill-validation-deps/yaml/representer.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/resolver.py",
+      "to": "质检/skill-validation-deps/yaml/resolver.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/scanner.py",
+      "to": "质检/skill-validation-deps/yaml/scanner.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/serializer.py",
+      "to": "质检/skill-validation-deps/yaml/serializer.py"
+    },
+    {
+      "from": "qa/skill-validation-deps/yaml/tokens.py",
+      "to": "质检/skill-validation-deps/yaml/tokens.py"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-1.png",
+      "to": "质检/排版模板/黛利拉A本/第1页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-10.png",
+      "to": "质检/排版模板/黛利拉A本/第10页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-11.png",
+      "to": "质检/排版模板/黛利拉A本/第11页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-12.png",
+      "to": "质检/排版模板/黛利拉A本/第12页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-13.png",
+      "to": "质检/排版模板/黛利拉A本/第13页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-14.png",
+      "to": "质检/排版模板/黛利拉A本/第14页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-15.png",
+      "to": "质检/排版模板/黛利拉A本/第15页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-16.png",
+      "to": "质检/排版模板/黛利拉A本/第16页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-17.png",
+      "to": "质检/排版模板/黛利拉A本/第17页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-18.png",
+      "to": "质检/排版模板/黛利拉A本/第18页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-19.png",
+      "to": "质检/排版模板/黛利拉A本/第19页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-2.png",
+      "to": "质检/排版模板/黛利拉A本/第2页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-20.png",
+      "to": "质检/排版模板/黛利拉A本/第20页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-21.png",
+      "to": "质检/排版模板/黛利拉A本/第21页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-22.png",
+      "to": "质检/排版模板/黛利拉A本/第22页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-23.png",
+      "to": "质检/排版模板/黛利拉A本/第23页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-24.png",
+      "to": "质检/排版模板/黛利拉A本/第24页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-25.png",
+      "to": "质检/排版模板/黛利拉A本/第25页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-26.png",
+      "to": "质检/排版模板/黛利拉A本/第26页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-27.png",
+      "to": "质检/排版模板/黛利拉A本/第27页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-28.png",
+      "to": "质检/排版模板/黛利拉A本/第28页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-29.png",
+      "to": "质检/排版模板/黛利拉A本/第29页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-3.png",
+      "to": "质检/排版模板/黛利拉A本/第3页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-30.png",
+      "to": "质检/排版模板/黛利拉A本/第30页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-31.png",
+      "to": "质检/排版模板/黛利拉A本/第31页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-32.png",
+      "to": "质检/排版模板/黛利拉A本/第32页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-33.png",
+      "to": "质检/排版模板/黛利拉A本/第33页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-34.png",
+      "to": "质检/排版模板/黛利拉A本/第34页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-35.png",
+      "to": "质检/排版模板/黛利拉A本/第35页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-36.png",
+      "to": "质检/排版模板/黛利拉A本/第36页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-37.png",
+      "to": "质检/排版模板/黛利拉A本/第37页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-38.png",
+      "to": "质检/排版模板/黛利拉A本/第38页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-39.png",
+      "to": "质检/排版模板/黛利拉A本/第39页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-4.png",
+      "to": "质检/排版模板/黛利拉A本/第4页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-40.png",
+      "to": "质检/排版模板/黛利拉A本/第40页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-41.png",
+      "to": "质检/排版模板/黛利拉A本/第41页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-42.png",
+      "to": "质检/排版模板/黛利拉A本/第42页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-43.png",
+      "to": "质检/排版模板/黛利拉A本/第43页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-44.png",
+      "to": "质检/排版模板/黛利拉A本/第44页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-45.png",
+      "to": "质检/排版模板/黛利拉A本/第45页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-46.png",
+      "to": "质检/排版模板/黛利拉A本/第46页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-47.png",
+      "to": "质检/排版模板/黛利拉A本/第47页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-48.png",
+      "to": "质检/排版模板/黛利拉A本/第48页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-49.png",
+      "to": "质检/排版模板/黛利拉A本/第49页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-5.png",
+      "to": "质检/排版模板/黛利拉A本/第5页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-50.png",
+      "to": "质检/排版模板/黛利拉A本/第50页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-51.png",
+      "to": "质检/排版模板/黛利拉A本/第51页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-52.png",
+      "to": "质检/排版模板/黛利拉A本/第52页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-53.png",
+      "to": "质检/排版模板/黛利拉A本/第53页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-54.png",
+      "to": "质检/排版模板/黛利拉A本/第54页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-55.png",
+      "to": "质检/排版模板/黛利拉A本/第55页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-56.png",
+      "to": "质检/排版模板/黛利拉A本/第56页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-57.png",
+      "to": "质检/排版模板/黛利拉A本/第57页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-58.png",
+      "to": "质检/排版模板/黛利拉A本/第58页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-59.png",
+      "to": "质检/排版模板/黛利拉A本/第59页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-6.png",
+      "to": "质检/排版模板/黛利拉A本/第6页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-60.png",
+      "to": "质检/排版模板/黛利拉A本/第60页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-61.png",
+      "to": "质检/排版模板/黛利拉A本/第61页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-62.png",
+      "to": "质检/排版模板/黛利拉A本/第62页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-63.png",
+      "to": "质检/排版模板/黛利拉A本/第63页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-64.png",
+      "to": "质检/排版模板/黛利拉A本/第64页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-65.png",
+      "to": "质检/排版模板/黛利拉A本/第65页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-66.png",
+      "to": "质检/排版模板/黛利拉A本/第66页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-67.png",
+      "to": "质检/排版模板/黛利拉A本/第67页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-68.png",
+      "to": "质检/排版模板/黛利拉A本/第68页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-69.png",
+      "to": "质检/排版模板/黛利拉A本/第69页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-7.png",
+      "to": "质检/排版模板/黛利拉A本/第7页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-70.png",
+      "to": "质检/排版模板/黛利拉A本/第70页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-71.png",
+      "to": "质检/排版模板/黛利拉A本/第71页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-72.png",
+      "to": "质检/排版模板/黛利拉A本/第72页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-73.png",
+      "to": "质检/排版模板/黛利拉A本/第73页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-74.png",
+      "to": "质检/排版模板/黛利拉A本/第74页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-75.png",
+      "to": "质检/排版模板/黛利拉A本/第75页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-76.png",
+      "to": "质检/排版模板/黛利拉A本/第76页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-77.png",
+      "to": "质检/排版模板/黛利拉A本/第77页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-78.png",
+      "to": "质检/排版模板/黛利拉A本/第78页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-79.png",
+      "to": "质检/排版模板/黛利拉A本/第79页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-8.png",
+      "to": "质检/排版模板/黛利拉A本/第8页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-80.png",
+      "to": "质检/排版模板/黛利拉A本/第80页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-81.png",
+      "to": "质检/排版模板/黛利拉A本/第81页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-82.png",
+      "to": "质检/排版模板/黛利拉A本/第82页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-83.png",
+      "to": "质检/排版模板/黛利拉A本/第83页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-84.png",
+      "to": "质检/排版模板/黛利拉A本/第84页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-85.png",
+      "to": "质检/排版模板/黛利拉A本/第85页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-86.png",
+      "to": "质检/排版模板/黛利拉A本/第86页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-87.png",
+      "to": "质检/排版模板/黛利拉A本/第87页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-88.png",
+      "to": "质检/排版模板/黛利拉A本/第88页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-89.png",
+      "to": "质检/排版模板/黛利拉A本/第89页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-9.png",
+      "to": "质检/排版模板/黛利拉A本/第9页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-90.png",
+      "to": "质检/排版模板/黛利拉A本/第90页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/page-91.png",
+      "to": "质检/排版模板/黛利拉A本/第91页.png"
+    },
+    {
+      "from": "qa/template/黛利拉A本/style.json",
+      "to": "质检/排版模板/黛利拉A本/样式.json"
+    },
+    {
+      "from": "qa/template/黛利拉A本/黛利拉A本.pdf",
+      "to": "质检/排版模板/黛利拉A本/黛利拉A本.pdf"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-1.png",
+      "to": "质检/排版模板/黛利拉B本/第1页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-10.png",
+      "to": "质检/排版模板/黛利拉B本/第10页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-11.png",
+      "to": "质检/排版模板/黛利拉B本/第11页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-12.png",
+      "to": "质检/排版模板/黛利拉B本/第12页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-13.png",
+      "to": "质检/排版模板/黛利拉B本/第13页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-14.png",
+      "to": "质检/排版模板/黛利拉B本/第14页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-15.png",
+      "to": "质检/排版模板/黛利拉B本/第15页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-16.png",
+      "to": "质检/排版模板/黛利拉B本/第16页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-17.png",
+      "to": "质检/排版模板/黛利拉B本/第17页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-18.png",
+      "to": "质检/排版模板/黛利拉B本/第18页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-19.png",
+      "to": "质检/排版模板/黛利拉B本/第19页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-2.png",
+      "to": "质检/排版模板/黛利拉B本/第2页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-20.png",
+      "to": "质检/排版模板/黛利拉B本/第20页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-21.png",
+      "to": "质检/排版模板/黛利拉B本/第21页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-22.png",
+      "to": "质检/排版模板/黛利拉B本/第22页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-23.png",
+      "to": "质检/排版模板/黛利拉B本/第23页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-24.png",
+      "to": "质检/排版模板/黛利拉B本/第24页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-25.png",
+      "to": "质检/排版模板/黛利拉B本/第25页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-26.png",
+      "to": "质检/排版模板/黛利拉B本/第26页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-27.png",
+      "to": "质检/排版模板/黛利拉B本/第27页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-28.png",
+      "to": "质检/排版模板/黛利拉B本/第28页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-29.png",
+      "to": "质检/排版模板/黛利拉B本/第29页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-3.png",
+      "to": "质检/排版模板/黛利拉B本/第3页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-30.png",
+      "to": "质检/排版模板/黛利拉B本/第30页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-31.png",
+      "to": "质检/排版模板/黛利拉B本/第31页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-32.png",
+      "to": "质检/排版模板/黛利拉B本/第32页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-33.png",
+      "to": "质检/排版模板/黛利拉B本/第33页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-34.png",
+      "to": "质检/排版模板/黛利拉B本/第34页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-35.png",
+      "to": "质检/排版模板/黛利拉B本/第35页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-36.png",
+      "to": "质检/排版模板/黛利拉B本/第36页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-37.png",
+      "to": "质检/排版模板/黛利拉B本/第37页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-38.png",
+      "to": "质检/排版模板/黛利拉B本/第38页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-39.png",
+      "to": "质检/排版模板/黛利拉B本/第39页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-4.png",
+      "to": "质检/排版模板/黛利拉B本/第4页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-40.png",
+      "to": "质检/排版模板/黛利拉B本/第40页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-41.png",
+      "to": "质检/排版模板/黛利拉B本/第41页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-42.png",
+      "to": "质检/排版模板/黛利拉B本/第42页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-43.png",
+      "to": "质检/排版模板/黛利拉B本/第43页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-44.png",
+      "to": "质检/排版模板/黛利拉B本/第44页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-45.png",
+      "to": "质检/排版模板/黛利拉B本/第45页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-46.png",
+      "to": "质检/排版模板/黛利拉B本/第46页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-47.png",
+      "to": "质检/排版模板/黛利拉B本/第47页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-48.png",
+      "to": "质检/排版模板/黛利拉B本/第48页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-49.png",
+      "to": "质检/排版模板/黛利拉B本/第49页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-5.png",
+      "to": "质检/排版模板/黛利拉B本/第5页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-50.png",
+      "to": "质检/排版模板/黛利拉B本/第50页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-51.png",
+      "to": "质检/排版模板/黛利拉B本/第51页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-52.png",
+      "to": "质检/排版模板/黛利拉B本/第52页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-53.png",
+      "to": "质检/排版模板/黛利拉B本/第53页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-54.png",
+      "to": "质检/排版模板/黛利拉B本/第54页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-55.png",
+      "to": "质检/排版模板/黛利拉B本/第55页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-6.png",
+      "to": "质检/排版模板/黛利拉B本/第6页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-7.png",
+      "to": "质检/排版模板/黛利拉B本/第7页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-8.png",
+      "to": "质检/排版模板/黛利拉B本/第8页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/page-9.png",
+      "to": "质检/排版模板/黛利拉B本/第9页.png"
+    },
+    {
+      "from": "qa/template/黛利拉B本/style.json",
+      "to": "质检/排版模板/黛利拉B本/样式.json"
+    },
+    {
+      "from": "qa/template/黛利拉B本/黛利拉B本.pdf",
+      "to": "质检/排版模板/黛利拉B本/黛利拉B本.pdf"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-1.png",
+      "to": "质检/排版模板/黛利拉C本/第1页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-10.png",
+      "to": "质检/排版模板/黛利拉C本/第10页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-11.png",
+      "to": "质检/排版模板/黛利拉C本/第11页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-12.png",
+      "to": "质检/排版模板/黛利拉C本/第12页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-13.png",
+      "to": "质检/排版模板/黛利拉C本/第13页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-14.png",
+      "to": "质检/排版模板/黛利拉C本/第14页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-15.png",
+      "to": "质检/排版模板/黛利拉C本/第15页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-16.png",
+      "to": "质检/排版模板/黛利拉C本/第16页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-17.png",
+      "to": "质检/排版模板/黛利拉C本/第17页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-18.png",
+      "to": "质检/排版模板/黛利拉C本/第18页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-19.png",
+      "to": "质检/排版模板/黛利拉C本/第19页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-2.png",
+      "to": "质检/排版模板/黛利拉C本/第2页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-20.png",
+      "to": "质检/排版模板/黛利拉C本/第20页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-21.png",
+      "to": "质检/排版模板/黛利拉C本/第21页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-22.png",
+      "to": "质检/排版模板/黛利拉C本/第22页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-23.png",
+      "to": "质检/排版模板/黛利拉C本/第23页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-24.png",
+      "to": "质检/排版模板/黛利拉C本/第24页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-25.png",
+      "to": "质检/排版模板/黛利拉C本/第25页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-26.png",
+      "to": "质检/排版模板/黛利拉C本/第26页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-27.png",
+      "to": "质检/排版模板/黛利拉C本/第27页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-28.png",
+      "to": "质检/排版模板/黛利拉C本/第28页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-29.png",
+      "to": "质检/排版模板/黛利拉C本/第29页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-3.png",
+      "to": "质检/排版模板/黛利拉C本/第3页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-30.png",
+      "to": "质检/排版模板/黛利拉C本/第30页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-31.png",
+      "to": "质检/排版模板/黛利拉C本/第31页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-32.png",
+      "to": "质检/排版模板/黛利拉C本/第32页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-33.png",
+      "to": "质检/排版模板/黛利拉C本/第33页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-34.png",
+      "to": "质检/排版模板/黛利拉C本/第34页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-35.png",
+      "to": "质检/排版模板/黛利拉C本/第35页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-36.png",
+      "to": "质检/排版模板/黛利拉C本/第36页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-37.png",
+      "to": "质检/排版模板/黛利拉C本/第37页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-38.png",
+      "to": "质检/排版模板/黛利拉C本/第38页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-39.png",
+      "to": "质检/排版模板/黛利拉C本/第39页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-4.png",
+      "to": "质检/排版模板/黛利拉C本/第4页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-40.png",
+      "to": "质检/排版模板/黛利拉C本/第40页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-41.png",
+      "to": "质检/排版模板/黛利拉C本/第41页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-42.png",
+      "to": "质检/排版模板/黛利拉C本/第42页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-43.png",
+      "to": "质检/排版模板/黛利拉C本/第43页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-44.png",
+      "to": "质检/排版模板/黛利拉C本/第44页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-45.png",
+      "to": "质检/排版模板/黛利拉C本/第45页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-46.png",
+      "to": "质检/排版模板/黛利拉C本/第46页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-47.png",
+      "to": "质检/排版模板/黛利拉C本/第47页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-48.png",
+      "to": "质检/排版模板/黛利拉C本/第48页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-49.png",
+      "to": "质检/排版模板/黛利拉C本/第49页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-5.png",
+      "to": "质检/排版模板/黛利拉C本/第5页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-50.png",
+      "to": "质检/排版模板/黛利拉C本/第50页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-51.png",
+      "to": "质检/排版模板/黛利拉C本/第51页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-52.png",
+      "to": "质检/排版模板/黛利拉C本/第52页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-53.png",
+      "to": "质检/排版模板/黛利拉C本/第53页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-54.png",
+      "to": "质检/排版模板/黛利拉C本/第54页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-55.png",
+      "to": "质检/排版模板/黛利拉C本/第55页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-56.png",
+      "to": "质检/排版模板/黛利拉C本/第56页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-57.png",
+      "to": "质检/排版模板/黛利拉C本/第57页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-58.png",
+      "to": "质检/排版模板/黛利拉C本/第58页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-59.png",
+      "to": "质检/排版模板/黛利拉C本/第59页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-6.png",
+      "to": "质检/排版模板/黛利拉C本/第6页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-60.png",
+      "to": "质检/排版模板/黛利拉C本/第60页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-61.png",
+      "to": "质检/排版模板/黛利拉C本/第61页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-62.png",
+      "to": "质检/排版模板/黛利拉C本/第62页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-63.png",
+      "to": "质检/排版模板/黛利拉C本/第63页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-64.png",
+      "to": "质检/排版模板/黛利拉C本/第64页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-65.png",
+      "to": "质检/排版模板/黛利拉C本/第65页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-66.png",
+      "to": "质检/排版模板/黛利拉C本/第66页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-67.png",
+      "to": "质检/排版模板/黛利拉C本/第67页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-68.png",
+      "to": "质检/排版模板/黛利拉C本/第68页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-69.png",
+      "to": "质检/排版模板/黛利拉C本/第69页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-7.png",
+      "to": "质检/排版模板/黛利拉C本/第7页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-70.png",
+      "to": "质检/排版模板/黛利拉C本/第70页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-71.png",
+      "to": "质检/排版模板/黛利拉C本/第71页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-72.png",
+      "to": "质检/排版模板/黛利拉C本/第72页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-73.png",
+      "to": "质检/排版模板/黛利拉C本/第73页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-74.png",
+      "to": "质检/排版模板/黛利拉C本/第74页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-75.png",
+      "to": "质检/排版模板/黛利拉C本/第75页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-76.png",
+      "to": "质检/排版模板/黛利拉C本/第76页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-77.png",
+      "to": "质检/排版模板/黛利拉C本/第77页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-78.png",
+      "to": "质检/排版模板/黛利拉C本/第78页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-79.png",
+      "to": "质检/排版模板/黛利拉C本/第79页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-8.png",
+      "to": "质检/排版模板/黛利拉C本/第8页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-80.png",
+      "to": "质检/排版模板/黛利拉C本/第80页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-81.png",
+      "to": "质检/排版模板/黛利拉C本/第81页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-82.png",
+      "to": "质检/排版模板/黛利拉C本/第82页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-83.png",
+      "to": "质检/排版模板/黛利拉C本/第83页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-84.png",
+      "to": "质检/排版模板/黛利拉C本/第84页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-85.png",
+      "to": "质检/排版模板/黛利拉C本/第85页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-86.png",
+      "to": "质检/排版模板/黛利拉C本/第86页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-87.png",
+      "to": "质检/排版模板/黛利拉C本/第87页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-88.png",
+      "to": "质检/排版模板/黛利拉C本/第88页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-89.png",
+      "to": "质检/排版模板/黛利拉C本/第89页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-9.png",
+      "to": "质检/排版模板/黛利拉C本/第9页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/page-90.png",
+      "to": "质检/排版模板/黛利拉C本/第90页.png"
+    },
+    {
+      "from": "qa/template/黛利拉C本/style.json",
+      "to": "质检/排版模板/黛利拉C本/样式.json"
+    },
+    {
+      "from": "qa/template/黛利拉C本/黛利拉C本.pdf",
+      "to": "质检/排版模板/黛利拉C本/黛利拉C本.pdf"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/contact-sheet.jpg",
+      "to": "质检/视频帧_03eb80dd/联系图.jpg"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-01.png",
+      "to": "质检/视频帧_03eb80dd/帧01.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-02.png",
+      "to": "质检/视频帧_03eb80dd/帧02.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-03.png",
+      "to": "质检/视频帧_03eb80dd/帧03.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-04.png",
+      "to": "质检/视频帧_03eb80dd/帧04.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-05.png",
+      "to": "质检/视频帧_03eb80dd/帧05.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-06.png",
+      "to": "质检/视频帧_03eb80dd/帧06.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-07.png",
+      "to": "质检/视频帧_03eb80dd/帧07.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-08.png",
+      "to": "质检/视频帧_03eb80dd/帧08.png"
+    },
+    {
+      "from": "qa/video_03eb80dd_frames/frame-09.png",
+      "to": "质检/视频帧_03eb80dd/帧09.png"
+    },
+    {
+      "from": "qa/互动Skill-v2-结构检查-20261002.json",
+      "to": "质检/互动技能-第2版-结构检查-20261002.json"
+    },
+    {
+      "from": "qa/互动技能-源文件核对-20260915.json",
+      "to": "质检/互动技能-源文件核对-20260915.json"
+    },
+    {
+      "from": "qa/互动技能验证-20260915.md",
+      "to": "质检/互动技能验证-20260915.md"
+    },
+    {
+      "from": "qa/源文件SHA256复核-2026-08-08.md",
+      "to": "质检/源文件校验值复核-2026-08-08.md"
+    },
+    {
+      "from": "qa/第一幕互动原文导出核验-20260930-v1.json",
+      "to": "质检/第一幕互动原文导出核验-20260930-第1版.json"
+    },
+    {
+      "from": "qa/第一幕人物分色-20260930-v1/desktop.png",
+      "to": "质检/第一幕人物分色-20260930-第一版/桌面版.png"
+    },
+    {
+      "from": "qa/第一幕人物分色-20260930-v1/dialogue.png",
+      "to": "质检/第一幕人物分色-20260930-第一版/对话示意.png"
+    },
+    {
+      "from": "qa/第一幕人物分色-20260930-v1/mobile.png",
+      "to": "质检/第一幕人物分色-20260930-第一版/移动版.png"
+    },
+    {
+      "from": "qa/第一幕人物分色-20260930-v1/report.json",
+      "to": "质检/第一幕人物分色-20260930-第一版/核查报告.json"
+    },
+    {
+      "from": "qa/第一幕人物分色标注-20260930-v1.json",
+      "to": "质检/第一幕人物分色标注-20260930-第1版.json"
+    },
+    {
+      "from": "scripted-interaction-design-v2/SKILL.md",
+      "to": "互动设计技能第二版/SKILL.md"
+    },
+    {
+      "from": "scripted-interaction-design-v2/agents/openai.yaml",
+      "to": "互动设计技能第二版/智能体配置/openai.yaml"
+    },
+    {
+      "from": "scripted-interaction-design-v2/references/design-templates.md",
+      "to": "互动设计技能第二版/参考资料/设计模板.md"
+    },
+    {
+      "from": "scripted-interaction-design-v2/references/evidence-and-cases.md",
+      "to": "互动设计技能第二版/参考资料/证据与案例.md"
+    },
+    {
+      "from": "scripted-interaction-design-v2/references/mechanisms.md",
+      "to": "互动设计技能第二版/参考资料/互动机制.md"
+    },
+    {
+      "from": "scripted-interaction-design-v2/references/room-and-cues.md",
+      "to": "互动设计技能第二版/参考资料/场景与提示.md"
+    },
+    {
+      "from": "scripted-interaction-design/SKILL.md",
+      "to": "互动设计技能/SKILL.md"
+    },
+    {
+      "from": "scripted-interaction-design/agents/openai.yaml",
+      "to": "互动设计技能/智能体配置/openai.yaml"
+    },
+    {
+      "from": "scripted-interaction-design/references/act-2-3-interaction-skill.md",
+      "to": "互动设计技能/参考资料/第二三幕互动设计.md"
+    },
+    {
+      "from": "scripted-interaction-design/references/after-reading-icebreakers.md",
+      "to": "互动设计技能/参考资料/读本后破冰互动.md"
+    },
+    {
+      "from": "scripted-interaction-design/references/interaction-record.md",
+      "to": "互动设计技能/参考资料/互动记录.md"
+    },
+    {
+      "from": "scripted-interaction-design/references/learning-protocol.md",
+      "to": "互动设计技能/参考资料/学习流程.md"
+    },
+    {
+      "from": "scripted-interaction-design/references/lmxs-odin-qiang.md",
+      "to": "互动设计技能/参考资料/流氓叙事互动样本.md"
+    },
+    {
+      "from": "scripted-interaction-design/references/qingbai-act-2-3-interaction-skill.md",
+      "to": "互动设计技能/参考资料/青白第二三幕互动设计.md"
+    },
+    {
+      "from": "scripts/act_statistics.py",
+      "to": "自动化脚本/统计幕次.py"
+    },
+    {
+      "from": "scripts/build_act1_colored_transcript.py",
+      "to": "自动化脚本/构建第一幕分色文稿.py"
+    },
+    {
+      "from": "scripts/build_archie_combined_docx.py",
+      "to": "自动化脚本/构建阿奇合订本文档.py"
+    },
+    {
+      "from": "scripts/build_archie_docx.py",
+      "to": "自动化脚本/构建阿奇角色本文档.py"
+    },
+    {
+      "from": "scripts/build_concordance.py",
+      "to": "自动化脚本/构建语料索引.py"
+    },
+    {
+      "from": "scripts/build_prompt_docx.py",
+      "to": "自动化脚本/构建提示词文档.py"
+    },
+    {
+      "from": "scripts/build_qingbai_editable_docx.py",
+      "to": "自动化脚本/构建青白可编辑文档.py"
+    },
+    {
+      "from": "scripts/build_school_act1_g_v5.py",
+      "to": "自动化脚本/构建末日学校第一幕人物深化第五版.py"
+    },
+    {
+      "from": "scripts/build_school_act1_human_v4.py",
+      "to": "自动化脚本/构建末日学校第一幕自然对白第四版.py"
+    },
+    {
+      "from": "scripts/build_school_act1_long.py",
+      "to": "自动化脚本/构建末日学校第一幕长时互动.py"
+    },
+    {
+      "from": "scripts/build_school_arrival_interaction.py",
+      "to": "自动化脚本/构建末日学校抵达互动.py"
+    },
+    {
+      "from": "scripts/build_school_arrival_v2.py",
+      "to": "自动化脚本/构建末日学校抵达互动第二版.py"
+    },
+    {
+      "from": "scripts/build_school_portraits_20260917.py",
+      "to": "自动化脚本/构建末日学校人物小传_20260917.py"
+    },
+    {
+      "from": "scripts/contact_sheets.py",
+      "to": "自动化脚本/生成联系图.py"
+    },
+    {
+      "from": "scripts/convert_manual_pdfs.py",
+      "to": "自动化脚本/转换参考手册便携文档.py"
+    },
+    {
+      "from": "scripts/export_act1_after_reading_original.py",
+      "to": "自动化脚本/导出读本后互动原文.py"
+    },
+    {
+      "from": "scripts/export_docx_pdf.ps1",
+      "to": "自动化脚本/导出文档便携文档.ps1"
+    },
+    {
+      "from": "scripts/extract_docx_text.py",
+      "to": "自动化脚本/提取文档文本.py"
+    },
+    {
+      "from": "scripts/migrate_pdf_temp_20261002.ps1",
+      "to": "自动化脚本/迁移便携文档临时文件_20261002.ps1"
+    },
+    {
+      "from": "scripts/ocr_qingbai_raster.ps1",
+      "to": "自动化脚本/识别青白扫描件.ps1"
+    },
+    {
+      "from": "scripts/ocr_winrt_pdf.ps1",
+      "to": "自动化脚本/识别便携文档文本.ps1"
+    },
+    {
+      "from": "scripts/organize_rejected_drafts_20261009.ps1",
+      "to": "自动化脚本/归档弃用旧稿_20261009.ps1"
+    },
+    {
+      "from": "scripts/organize_unused_20261002.ps1",
+      "to": "自动化脚本/整理弃用文件_20261002.ps1"
+    },
+    {
+      "from": "scripts/pdf_find_pages.py",
+      "to": "自动化脚本/查找便携文档页面.py"
+    },
+    {
+      "from": "scripts/photo/Edit-Photo.ps1",
+      "to": "自动化脚本/修图工具/修图.ps1"
+    },
+    {
+      "from": "scripts/photo/Get-PhotoModels.ps1",
+      "to": "自动化脚本/修图工具/获取修图模型.ps1"
+    },
+    {
+      "from": "scripts/photo/photo.env.example.ps1",
+      "to": "自动化脚本/修图工具/修图环境示例.ps1"
+    },
+    {
+      "from": "scripts/photo/photo_models.py",
+      "to": "自动化脚本/修图工具/修图模型.py"
+    },
+    {
+      "from": "scripts/photo/photo_retouch.py",
+      "to": "自动化脚本/修图工具/照片修整.py"
+    },
+    {
+      "from": "scripts/photo/prompts/analyze-system.md",
+      "to": "自动化脚本/修图工具/提示词/分析提示词.md"
+    },
+    {
+      "from": "scripts/photo/prompts/photographer-system.md",
+      "to": "自动化脚本/修图工具/提示词/摄影提示词.md"
+    },
+    {
+      "from": "scripts/qa_act1_colored_transcript.mjs",
+      "to": "自动化脚本/质检第一幕分色文稿.mjs"
+    },
+    {
+      "from": "scripts/qa_relationship_html.mjs",
+      "to": "自动化脚本/质检人物关系页面.mjs"
+    },
+    {
+      "from": "scripts/qa_school_arrival_interaction.mjs",
+      "to": "自动化脚本/质检末日学校抵达互动.mjs"
+    },
+    {
+      "from": "scripts/qa_school_portraits_20260917.mjs",
+      "to": "自动化脚本/质检末日学校人物小传.mjs"
+    },
+    {
+      "from": "scripts/rasterize_pdf.py",
+      "to": "自动化脚本/栅格化便携文档.py"
+    },
+    {
+      "from": "scripts/render_converted_manuals.py",
+      "to": "自动化脚本/渲染转换手册.py"
+    },
+    {
+      "from": "scripts/school_portraits_20260917.template.html",
+      "to": "自动化脚本/末日学校人物小传模板.html"
+    },
+    {
+      "from": "scripts/verify_docx_text.py",
+      "to": "自动化脚本/核对文档文本.py"
+    },
+    {
+      "from": "source/originals/以撒A本.docx",
+      "to": "原始资料/原始文件/以撒A本.docx"
+    },
+    {
+      "from": "source/originals/以撒B本.docx",
+      "to": "原始资料/原始文件/以撒B本.docx"
+    },
+    {
+      "from": "source/originals/以撒C本.docx",
+      "to": "原始资料/原始文件/以撒C本.docx"
+    },
+    {
+      "from": "source/originals/流氓叙事手册.docx",
+      "to": "原始资料/原始文件/流氓叙事手册.docx"
+    },
+    {
+      "from": "source/originals/流氓叙事阿奇互动手册-清理版.txt",
+      "to": "原始资料/原始文件/流氓叙事阿奇互动手册-清理版.txt"
+    },
+    {
+      "from": "source/originals/程聿怀A本.docx",
+      "to": "原始资料/原始文件/程聿怀A本.docx"
+    },
+    {
+      "from": "source/originals/程聿怀B本.docx",
+      "to": "原始资料/原始文件/程聿怀B本.docx"
+    },
+    {
+      "from": "source/originals/程聿怀C本.docx",
+      "to": "原始资料/原始文件/程聿怀C本.docx"
+    },
+    {
+      "from": "source/originals/程走柳A本.docx",
+      "to": "原始资料/原始文件/程走柳A本.docx"
+    },
+    {
+      "from": "source/originals/程走柳B本.docx",
+      "to": "原始资料/原始文件/程走柳B本.docx"
+    },
+    {
+      "from": "source/originals/程走柳C本.docx",
+      "to": "原始资料/原始文件/程走柳C本.docx"
+    },
+    {
+      "from": "source/originals/缪宏谟A本.docx",
+      "to": "原始资料/原始文件/缪宏谟A本.docx"
+    },
+    {
+      "from": "source/originals/缪宏谟B本.docx",
+      "to": "原始资料/原始文件/缪宏谟B本.docx"
+    },
+    {
+      "from": "source/originals/缪宏谟C本.docx",
+      "to": "原始资料/原始文件/缪宏谟C本.docx"
+    },
+    {
+      "from": "source/originals/蒋伯驾A本.docx",
+      "to": "原始资料/原始文件/蒋伯驾A本.docx"
+    },
+    {
+      "from": "source/originals/蒋伯驾B本.docx",
+      "to": "原始资料/原始文件/蒋伯驾B本.docx"
+    },
+    {
+      "from": "source/originals/蒋伯驾C本.docx",
+      "to": "原始资料/原始文件/蒋伯驾C本.docx"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/《青白》组织者手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/《青白》组织者手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/暗夜降至手册（最终版）.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/暗夜降至手册（最终版）.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/欲缚.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/欲缚.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/流程幕次讲解手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/流程幕次讲解手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/碌碌无为手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/碌碌无为手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/窃云台组织者手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/窃云台组织者手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/绿洲手册2.0.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/绿洲手册2.0.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/草芥手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/草芥手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/醉凌云手册.pdf",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/醉凌云手册.pdf"
+    },
+    {
+      "from": "source/originals/非《流氓叙事》的组织者手册参考/金粉手册.docx",
+      "to": "原始资料/原始文件/非《流氓叙事》的组织者手册参考/金粉手册.docx"
+    },
+    {
+      "from": "source/originals/黛利拉A本.docx",
+      "to": "原始资料/原始文件/黛利拉A本.docx"
+    },
+    {
+      "from": "source/originals/黛利拉B本.docx",
+      "to": "原始资料/原始文件/黛利拉B本.docx"
+    },
+    {
+      "from": "source/originals/黛利拉C本.docx",
+      "to": "原始资料/原始文件/黛利拉C本.docx"
+    },
+    {
+      "from": "stageflow/.gitignore",
+      "to": "舞台预演/.gitignore"
+    },
+    {
+      "from": "stageflow/AGENTS.md",
+      "to": "舞台预演/AGENTS.md"
+    },
+    {
+      "from": "stageflow/README.md",
+      "to": "舞台预演/项目说明.md"
+    },
+    {
+      "from": "stageflow/config/actors.example.json",
+      "to": "舞台预演/配置/人物配置示例.json"
+    },
+    {
+      "from": "stageflow/config/room.example.json",
+      "to": "舞台预演/配置/房间配置示例.json"
+    },
+    {
+      "from": "stageflow/docs/架构与实施方案.md",
+      "to": "舞台预演/文档/架构与实施方案.md"
+    },
+    {
+      "from": "stageflow/index.html",
+      "to": "舞台预演/index.html"
+    },
+    {
+      "from": "stageflow/package-lock.json",
+      "to": "舞台预演/package-lock.json"
+    },
+    {
+      "from": "stageflow/package.json",
+      "to": "舞台预演/package.json"
+    },
+    {
+      "from": "stageflow/scripts/import_v5.py",
+      "to": "舞台预演/自动化脚本/导入旧版示例.py"
+    },
+    {
+      "from": "stageflow/src/app/App.ts",
+      "to": "舞台预演/源码/应用/应用.ts"
+    },
+    {
+      "from": "stageflow/src/audio/AudioService.ts",
+      "to": "舞台预演/源码/音频/音频服务.ts"
+    },
+    {
+      "from": "stageflow/src/data/script.json",
+      "to": "舞台预演/源码/数据/演示流程.json"
+    },
+    {
+      "from": "stageflow/src/dialogue/DialoguePresenter.ts",
+      "to": "舞台预演/源码/对话/对话展示.ts"
+    },
+    {
+      "from": "stageflow/src/domain/World.ts",
+      "to": "舞台预演/源码/领域/世界.ts"
+    },
+    {
+      "from": "stageflow/src/flow/ActionRunner.ts",
+      "to": "舞台预演/源码/流程/动作执行.ts"
+    },
+    {
+      "from": "stageflow/src/flow/Choreography.ts",
+      "to": "舞台预演/源码/流程/走位编排.ts"
+    },
+    {
+      "from": "stageflow/src/flow/SceneDirector.ts",
+      "to": "舞台预演/源码/流程/场景调度.ts"
+    },
+    {
+      "from": "stageflow/src/flow/types.ts",
+      "to": "舞台预演/源码/流程/类型.ts"
+    },
+    {
+      "from": "stageflow/src/main.ts",
+      "to": "舞台预演/源码/主程序.ts"
+    },
+    {
+      "from": "stageflow/src/rendering/ActorView.ts",
+      "to": "舞台预演/源码/渲染/人物视图.ts"
+    },
+    {
+      "from": "stageflow/src/rendering/ThreeRoomView.ts",
+      "to": "舞台预演/源码/渲染/三维房间视图.ts"
+    },
+    {
+      "from": "stageflow/src/styles/app.css",
+      "to": "舞台预演/源码/样式/应用样式.css"
+    },
+    {
+      "from": "stageflow/src/ui/PlaybackPanel.ts",
+      "to": "舞台预演/源码/界面/播放面板.ts"
+    },
+    {
+      "from": "stageflow/src/vite-env.d.ts",
+      "to": "舞台预演/源码/构建环境声明.d.ts"
+    },
+    {
+      "from": "stageflow/tsconfig.json",
+      "to": "舞台预演/tsconfig.json"
+    }
+  ],
+  "original_files_sha256_unchanged": true,
+  "protected_file_count": 30,
+  "tracked_path_mapping_rebuilt_from_git": true
+}

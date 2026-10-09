@@ -1,0 +1,47 @@
+[
+  {
+    "docx": "《青白》组织者手册_去封面正文可编辑.docx",
+    "render_pages": 182,
+    "render_dir": "质检\\rendered_manuals\\doc01"
+  },
+  {
+    "docx": "暗夜降至手册（最终版）_去封面正文可编辑.docx",
+    "render_pages": 225,
+    "render_dir": "质检\\rendered_manuals\\doc02"
+  },
+  {
+    "docx": "欲缚_去封面正文可编辑.docx",
+    "render_pages": 296,
+    "render_dir": "质检\\rendered_manuals\\doc03"
+  },
+  {
+    "docx": "流程幕次讲解手册_去封面正文可编辑.docx",
+    "render_pages": 35,
+    "render_dir": "质检\\rendered_manuals\\doc04"
+  },
+  {
+    "docx": "碌碌无为手册_去封面正文可编辑.docx",
+    "render_pages": 383,
+    "render_dir": "质检\\rendered_manuals\\doc05"
+  },
+  {
+    "docx": "窃云台组织者手册_去封面正文可编辑.docx",
+    "render_pages": 201,
+    "render_dir": "质检\\rendered_manuals\\doc06"
+  },
+  {
+    "docx": "绿洲手册2.0_去封面正文可编辑.docx",
+    "render_pages": 225,
+    "render_dir": "质检\\rendered_manuals\\doc07"
+  },
+  {
+    "docx": "草芥手册_去封面正文可编辑.docx",
+    "render_pages": 223,
+    "render_dir": "质检\\rendered_manuals\\doc08"
+  },
+  {
+    "docx": "醉凌云手册_去封面正文可编辑.docx",
+    "render_pages": 220,
+    "render_dir": "质检\\rendered_manuals\\doc09"
+  }
+]

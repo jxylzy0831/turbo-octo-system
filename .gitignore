@@ -7,14 +7,14 @@ __pycache__/
 ~$*.docx
 
 # 可由 DOCX/PDF 重新生成的逐页渲染物
-qa/final-v3/
-qa/final-v4/
+质检/成品渲染-第三版/
+质检/成品渲染-第四版/
 
 # 修图工具：本地密钥与产物一律不入库
-scripts/photo/photo.env.ps1
-scripts/photo/.env
-scripts/photo/_tmp/
-photo_out/
+自动化脚本/修图工具/photo.env.ps1
+自动化脚本/修图工具/.env
+自动化脚本/修图工具/_tmp/
+修图成品/
 
 # 《青白》原始资料
-/source/originals/青白/
+/原始资料/原始文件/青白/
