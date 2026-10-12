@@ -1,0 +1,4 @@
+interface:
+  display_name: "情感本创作设计"
+  short_description: "从人物需求到可演互动，设计恋陪、群像、NPC行为与主持流程，并检查返修"
+  default_prompt: "使用 $emotional-script-design，依据我提供的设定设计情感本，完成可演互动、NPC回应与主持流程，并检查人物动机和前后因果。"

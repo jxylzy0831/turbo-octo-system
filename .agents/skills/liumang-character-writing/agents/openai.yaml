@@ -1,0 +1,4 @@
+interface:
+  display_name: "流氓叙事人物写作"
+  short_description: "依据原文写人物的欲望与爱恨，成稿后逐篇对照叙述口吻、心理和节奏并返修"
+  default_prompt: "请使用 $liumang-character-writing，依据已确认设定写人物故事，读原文对应场景，写完后自行对照文风并完成返修。"

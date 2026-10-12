@@ -1,0 +1,47 @@
+{
+  "日期": "2026-10-13",
+  "结果": "完整同步，引用与脚本语法检查通过",
+  "技能": [
+    {
+      "技能": "liumang-character-writing",
+      "源目录": "C:\\Users\\Yu\\.codex\\skills\\liumang-character-writing",
+      "项目目录": "D:\\GitRepo\\lmxs_aqi\\.agents\\skills\\liumang-character-writing",
+      "文件数": 4,
+      "缺失文件": [],
+      "项目适配改动": [
+        "SKILL.md",
+        "references\\叙事技法与原文依据.md"
+      ],
+      "引用检查": [
+        {
+          "来源": "SKILL.md",
+          "引用": "references/叙事技法与原文依据.md",
+          "存在": true
+        },
+        {
+          "来源": "SKILL.md",
+          "引用": "../human-writing/SKILL.md",
+          "存在": true
+        },
+        {
+          "来源": "SKILL.md",
+          "引用": "references/原文对照与返修.md",
+          "存在": true
+        }
+      ],
+      "语法检查脚本": []
+    },
+    {
+      "技能": "human-writing",
+      "源目录": "C:\\Users\\Yu\\.codex\\skills\\human-writing",
+      "项目目录": "D:\\GitRepo\\lmxs_aqi\\.agents\\skills\\human-writing",
+      "文件数": 11,
+      "缺失文件": [],
+      "项目适配改动": [],
+      "引用检查": [],
+      "语法检查脚本": [
+        "scripts\\check_prose.py"
+      ]
+    }
+  ]
+}
