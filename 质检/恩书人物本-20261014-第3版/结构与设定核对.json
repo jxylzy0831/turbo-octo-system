@@ -1,0 +1,21 @@
+{
+  "source": "草稿/四位玩家分幕故事提要-20261014-第2版.md",
+  "base": "草稿/恩书-人物本-20261014-重写第2版.md",
+  "output": "草稿/恩书-人物本-20261014-重写第3版.md",
+  "sections": {
+    "一": 1258,
+    "二": 2239,
+    "三": 2715,
+    "四": 2064,
+    "五": 2755,
+    "六": 4473,
+    "七": 633
+  },
+  "first_two_sections_preserved": true,
+  "old_early_harm_motive_removed": true,
+  "timing_and_message_sources_checked": true,
+  "single_continuous_book": true,
+  "source_sha256": "8fbdb455ebda2f592ae60e524477cfd0decef3b5354cb5988e238c1e3b095061",
+  "output_sha256": "73d2ea7bb3ec647c35e4b11d303992302b1f7d723018f366072e10a0ce315b50",
+  "verification": "文本与因果核查，未做现场试演"
+}
