@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "act": 1,
+      "title": "第一幕 · 序幕",
+      "selectedButtons": 1,
+      "bookChars": 887,
+      "hostChars": 149
+    },
+    {
+      "act": 2,
+      "title": "第二幕 · 开学",
+      "selectedButtons": 1,
+      "bookChars": 4109,
+      "hostChars": 480
+    },
+    {
+      "act": 3,
+      "title": "第三幕 · 恋爱体验",
+      "selectedButtons": 1,
+      "bookChars": 3152,
+      "hostChars": 1791
+    },
+    {
+      "act": 4,
+      "title": "第四幕 · 真相与清晨会",
+      "selectedButtons": 1,
+      "bookChars": 2455,
+      "hostChars": 722
+    },
+    {
+      "act": 5,
+      "title": "第五幕 · 复仇",
+      "selectedButtons": 1,
+      "bookChars": 2579,
+      "hostChars": 709
+    },
+    {
+      "act": 6,
+      "title": "第六幕 · 奉还礼",
+      "selectedButtons": 1,
+      "bookChars": 2753,
+      "hostChars": 799
+    },
+    {
+      "act": 7,
+      "title": "第七幕 · 收尾",
+      "selectedButtons": 1,
+      "bookChars": 558,
+      "hostChars": 168
+    }
+  ],
+  "widths": [
+    {
+      "viewportWidth": 736,
+      "scroll": 704,
+      "width": 704,
+      "body": 704,
+      "window": 704
+    },
+    {
+      "viewportWidth": 360,
+      "scroll": 328,
+      "width": 328,
+      "body": 328,
+      "window": 328
+    },
+    {
+      "viewportWidth": 320,
+      "scroll": 288,
+      "width": 288,
+      "body": 288,
+      "window": 288
+    }
+  ],
+  "errors": []
+}

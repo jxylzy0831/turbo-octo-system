@@ -1,0 +1,124 @@
+<div id="spring-story-rhythm">
+  <style>
+    #spring-story-rhythm { color: var(--foreground); }
+    #spring-story-rhythm .intro { display:flex; gap:16px; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:16px; padding-right:96px; }
+    #spring-story-rhythm .stage-nav { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 20px; }
+    #spring-story-rhythm .rhythm-table th:first-child { width:20%; }
+    #spring-story-rhythm .rhythm-table th:nth-child(2) { width:40%; }
+    #spring-story-rhythm .rhythm-table td { vertical-align:top; }
+    #spring-story-rhythm .rhythm-table .current { background:var(--accent); color:var(--accent-foreground); }
+    #spring-story-rhythm .mode-mark { display:inline-block; height:8px; width:8px; margin-right:7px; background:var(--viz-series-1); }
+    #spring-story-rhythm .mode-mark.play { background:var(--viz-series-2); border-radius:50%; }
+    #spring-story-rhythm .split { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:24px; margin:16px 0; }
+    #spring-story-rhythm .label { color:var(--muted-foreground); }
+    #spring-story-rhythm .detail-header { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-top:22px; }
+    #spring-story-rhythm .detail-header h3 { margin:0; }
+    #spring-story-rhythm .text-items, #spring-story-rhythm .play-items { padding-left:20px; }
+    #spring-story-rhythm li { margin-bottom:9px; }
+    #spring-story-rhythm dl { display:grid; grid-template-columns:5em minmax(0,1fr); gap:8px 12px; }
+    #spring-story-rhythm dt { color:var(--muted-foreground); }
+    #spring-story-rhythm dd { margin:0; }
+    #spring-story-rhythm details { margin-top:16px; }
+    #spring-story-rhythm summary { margin-bottom:12px; }
+    #spring-story-rhythm .book { max-width:70ch; margin:16px auto; overflow-wrap:anywhere; }
+    #spring-story-rhythm .book p { margin:0 0 16px; }
+    #spring-story-rhythm .book table { width:100%; }
+    #spring-story-rhythm .book h4 { font-weight:500; }
+    #spring-story-rhythm .further { margin:12px 0; }
+    @media(max-width:680px) {
+      #spring-story-rhythm .split { grid-template-columns:minmax(0,1fr); gap:8px; }
+      #spring-story-rhythm .intro { padding-right:0; }
+      #spring-story-rhythm .rhythm-table th:first-child { width:25%; }
+    }
+  </style>
+  <div class="intro">
+    <h2>春日点名 · 故事节奏</h2>
+    <span class="text-small text-muted">创作审核 · 含全剧透 · 第1版</span>
+  </div>
+  <div class="viz-row text-small">
+    <span><span class="mode-mark" aria-hidden="true"></span>文本先给来路与信息</span>
+    <span><span class="mode-mark play" aria-hidden="true"></span>互动让玩家问、做、回应</span>
+  </div>
+  <div class="stage-nav" aria-label="选择幕次"></div>
+  <div class="table-responsive">
+    <table class="table table-sm rhythm-table" aria-label="七幕文本与互动节奏总览">
+      <thead><tr><th scope="col">幕次／节奏</th><th scope="col">文本</th><th scope="col">互动</th></tr></thead>
+      <tbody class="overview"></tbody>
+    </table>
+  </div>
+  <hr>
+  <section class="selected-detail" aria-live="polite" aria-atomic="false">
+    <div class="detail-header"><h3 class="selected-title"></h3><span class="selected-day text-muted text-small"></span></div>
+    <div class="further selected-pace"></div>
+    <div class="split">
+      <section aria-label="本幕文本推进"><h3><span class="mode-mark" aria-hidden="true"></span>文本</h3><ul class="text-items"></ul></section>
+      <section aria-label="本幕现场互动"><h3><span class="mode-mark play" aria-hidden="true"></span>互动</h3><ul class="play-items"></ul></section>
+    </div>
+    <dl><dt>关系变化</dt><dd class="change"></dd><dt>下一幕</dt><dd class="gate"></dd><dt>信息边界</dt><dd class="info"></dd><dt>演员占用</dt><dd class="actors"></dd><dt>时间口径</dt><dd class="duration"></dd></dl>
+    <details class="people-details"><summary class="cursor-interaction">这一幕的四位玩家</summary><table class="table table-sm"><thead><tr><th scope="col">角色</th><th scope="col">经历与行动</th></tr></thead><tbody class="people"></tbody></table></details>
+  </section>
+  <details class="book-details"><summary class="cursor-interaction">阅读本幕恩书正文与互动入口</summary><div class="book player-book"></div></details>
+  <details class="host-details"><summary class="cursor-interaction">查看本幕互动执行与回应分支</summary><div class="book host-book"></div></details>
+  <script>
+  (() => {
+    const root = document.getElementById('spring-story-rhythm');
+    if (!root) return;
+    const data = __STORY_DATA__;
+    const select = (s) => root.querySelector(s);
+    const nav = select('.stage-nav');
+    const overview = select('.overview');
+    const bookDetails = select('.book-details');
+    const hostDetails = select('.host-details');
+    let selected = 3;
+    const stageNames = ['一','二','三','四','五','六','七'];
+    const buttons = [];
+    const rows = [];
+    const write = (s, v) => { select(s).textContent = v; };
+    function list(s, items) {
+      const el = select(s); el.replaceChildren();
+      for (const item of items) { const li = document.createElement('li'); li.textContent = item; el.append(li); }
+    }
+    function persist() {
+      const state = {modelContent:{selectedAct:selected,actName:data[selected-1].name},privateContent:{bookOpen:bookDetails.open,hostOpen:hostDetails.open}};
+      if (window.openai && typeof window.openai.setWidgetState === 'function') window.openai.setWidgetState(state).catch(() => {});
+    }
+    function draw(id, save) {
+      selected = Number(id);
+      if (!Number.isInteger(selected) || selected < 1 || selected > data.length) selected = 3;
+      const d = data[selected-1];
+      buttons.forEach((b,i) => b.setAttribute('aria-pressed', String(i+1 === selected)));
+      rows.forEach((r,i) => r.classList.toggle('current', i+1 === selected));
+      write('.selected-title', `第${stageNames[selected-1]}幕 · ${d.name}`);
+      write('.selected-day', d.day);
+      write('.selected-pace', d.pace);
+      list('.text-items', d.text); list('.play-items', d.play);
+      for (const key of ['change','gate','info','actors','duration']) write('.'+key,d[key]);
+      const people = select('.people'); people.replaceChildren();
+      for (const pair of d.people) { const tr=document.createElement('tr'); const th=document.createElement('th'); th.scope='row'; th.textContent=pair[0]; const td=document.createElement('td'); td.textContent=pair[1]; tr.append(th,td); people.append(tr); }
+      select('.player-book').innerHTML = d.book;
+      select('.host-book').innerHTML = d.host;
+      if (save) persist();
+    }
+    for (const d of data) {
+      const b = document.createElement('button'); b.type='button'; b.className='btn'; b.textContent=`${stageNames[d.id-1]} · ${d.name}`; b.setAttribute('aria-pressed','false'); b.addEventListener('click',()=>draw(d.id,true)); nav.append(b); buttons.push(b);
+      const tr=document.createElement('tr');
+      const th=document.createElement('th'); th.scope='row'; const title=document.createElement('div'); title.textContent=`${stageNames[d.id-1]} · ${d.name}`; const beat=document.createElement('div'); beat.className='text-small'; beat.textContent=d.beat; th.append(title,beat);
+      const td1=document.createElement('td'); td1.textContent=d.overviewText;
+      const td2=document.createElement('td'); td2.textContent=d.overviewPlay;
+      tr.append(th,td1,td2); overview.append(tr); rows.push(tr);
+    }
+    function restore(state) {
+      if (!state || typeof state !== 'object') return;
+      draw(state.modelContent && state.modelContent.selectedAct, false);
+      const p = state.privateContent || {};
+      bookDetails.open = Boolean(p.bookOpen); hostDetails.open = Boolean(p.hostOpen);
+    }
+    if (window.openai && window.openai.widgetState) restore(window.openai.widgetState); else draw(3,false);
+    for (const el of [bookDetails,hostDetails]) el.querySelector('summary').addEventListener('click',()=>setTimeout(persist,0));
+    window.addEventListener('openai:set_globals',e=> {
+      const s=e.detail && e.detail.globals && e.detail.globals.widgetState;
+      if (s) restore(s);
+    });
+  })();
+  </script>
+</div>

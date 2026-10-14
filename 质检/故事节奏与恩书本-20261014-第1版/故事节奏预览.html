@@ -1,0 +1,2703 @@
+<!doctype html>
+<html lang="en" data-visualize-standalone>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src 'unsafe-inline' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Spring Story Rhythm</title>
+<style>:root{color-scheme:light dark;background:light-dark(rgb(255 255 255), rgb(24 24 24))}html,body{margin:0}body{box-sizing:border-box;padding:1rem;background:inherit}iframe{display:block;width:100%;height:calc(100vh - 2rem);margin:0 auto;border:0}</style>
+
+</head>
+<body>
+<iframe id="codex-visualization" sandbox="allow-scripts" referrerpolicy="no-referrer" title="Spring Story Rhythm" data-srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot; data-visualize-standalone&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; &#x27;wasm-unsafe-eval&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src &#x27;unsafe-inline&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;&quot;&gt;
+&lt;title&gt;Spring Story Rhythm&lt;/title&gt;
+&lt;style&gt;:root {
+  color-scheme: light dark;
+  background-color: var(
+    --background,
+    var(--color-background-primary, light-dark(rgb(255 255 255), rgb(24 24 24)))
+  ) !important;
+
+  /* Agent-facing contract; keep in sync with SKILL.md. */
+  --background: var(
+    --color-background-primary,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --card: color-mix(in oklab, var(--foreground) 5%, var(--background));
+  --card-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --popover: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255), rgb(45 45 45))
+  );
+  --popover-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --primary: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --primary-foreground: var(
+    --color-text-inverse,
+    light-dark(rgb(255 255 255), rgb(13 13 13))
+  );
+  --secondary: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255 / 96%), rgb(54 54 54 / 96%))
+  );
+  --secondary-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --muted: color-mix(in srgb, var(--foreground) 10%, transparent);
+  --muted-foreground: var(
+    --color-text-secondary,
+    light-dark(rgb(26 28 31 / 49.4%), rgb(255 255 255 / 49.8%))
+  );
+  --accent: var(
+    --color-background-info,
+    light-dark(rgb(229 242 255), rgb(13 39 63))
+  );
+  --accent-foreground: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --destructive: var(
+    --color-text-warning,
+    light-dark(rgb(226 85 7), rgb(255 133 73))
+  );
+  --border: var(
+    --color-border-secondary,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+  --input: var(
+    --color-border-primary,
+    light-dark(
+      rgb(26 28 31 / 11.8%),
+      color-mix(in oklab, rgb(0 0 0) 10%, transparent)
+    )
+  );
+  --ring: var(
+    --color-ring-primary,
+    light-dark(rgb(51 156 255), rgb(131 195 255 / 76%))
+  );
+  --font-size-base: var(--font-text-md-size, 16px);
+  --blue: light-dark(rgb(51 156 255), rgb(51 156 255));
+  --orange: light-dark(rgb(226 85 7), rgb(251 106 34));
+  --green: light-dark(rgb(0 162 64), rgb(64 201 119));
+  --red: light-dark(rgb(224 46 42), rgb(255 103 100));
+  --purple: light-dark(rgb(146 79 247), rgb(173 123 249));
+  --yellow: light-dark(rgb(255 195 0), rgb(255 210 64));
+  --viz-series-1: var(--primary);
+  --viz-series-2: light-dark(rgb(243 136 59), rgb(245 154 86));
+  --viz-series-3: light-dark(rgb(93 201 119), rgb(116 213 139));
+  --viz-series-4: light-dark(rgb(235 119 177), rgb(240 143 192));
+  --viz-series-5: light-dark(rgb(155 121 236), rgb(170 145 239));
+  --viz-series-6: light-dark(rgb(58 185 177), rgb(90 203 194));
+
+  /* Internal implementation variables; not part of the agent contract. */
+  --font-sans:
+    -apple-system-body, ui-sans-serif, -apple-system, system-ui, &quot;Segoe UI&quot;,
+    Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;,
+    &quot;Segoe UI Symbol&quot;;
+  --font-mono:
+    ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;,
+    monospace;
+  --font-size-normal: max(11px, var(--font-size-base));
+  --font-size-tooltip: calc(var(--font-size-base) - 1px);
+  --font-size-small: max(11px, calc(var(--font-size-base) - 2px));
+  --font-size-h1: calc(var(--font-size-normal) * 1.7142857143);
+  --font-size-h2: calc(var(--font-size-normal) * 1.4285714286);
+  --font-size-h3: calc(var(--font-size-normal) * 1.2857142857);
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --icon-size: 16px;
+  --line-height-normal: calc(var(--font-size-normal) * 1.5);
+  --line-height-tooltip: calc(var(--font-size-tooltip) * 1.4285714286);
+  --line-height-small: calc(var(--font-size-small) + 4px);
+  --corner-shape: round;
+  --radius: var(--border-radius-lg, 8px);
+  --radius-sm: calc(var(--radius) * 0.5);
+  --radius-md: calc(var(--radius) * 0.75);
+  --radius-lg: var(--radius);
+  --radius-2xl: calc(var(--radius) * 2);
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 2px -1px rgb(0 0 0 / 8%);
+  --checkmark-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#x27;http://www.w3.org/2000/svg&#x27; viewBox=&#x27;0 0 17 17&#x27;%3E%3Cpath d=&#x27;M12.8961 3.64101C13.1297 3.41418 13.4984 3.37523 13.7779 3.56581C14.0571 3.75635 14.1554 4.11331 14.0299 4.41347L13.9615 4.53847L7.71151 13.7045C7.59411 13.8767 7.4063 13.9877 7.19881 14.0072C6.99136 14.0267 6.78564 13.9533 6.63826 13.806L2.88826 10.056L2.79842 9.9457C2.6192 9.67407 2.64927 9.30496 2.88826 9.06581C3.12738 8.82669 3.49647 8.79676 3.76815 8.97597L3.8785 9.06581L7.03084 12.2182L12.8053 3.74941L12.8961 3.64101Z&#x27;/%3E%3C/svg%3E&quot;);
+
+  /* Legacy aliases; not part of the current agent contract. */
+  --viz-bg: transparent;
+  --viz-panel: var(--card);
+  --viz-border: var(--border);
+  --viz-text: var(--foreground);
+  --viz-muted: var(--muted-foreground);
+  --viz-accent: var(--primary);
+  --viz-accent-text: var(--primary-foreground);
+  --viz-accent-bg: var(--accent);
+  --viz-font-size: var(--font-size-base);
+  --viz-warning: var(--destructive);
+}
+
+:root[data-theme=&quot;light&quot;] {
+  color-scheme: light;
+}
+
+:root[data-theme=&quot;dark&quot;] {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html &gt; body {
+  /* Preserve MCP aliases for older inline renderers without creating :root cycles. */
+  --color-background-primary: var(
+    --background,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --color-text-primary: var(
+    --foreground,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --color-border-secondary: var(
+    --border,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+
+  margin: 0;
+  padding: var(--visualize-paint-gutter, 0px);
+  color: var(--foreground);
+  background: transparent !important;
+  font-family: var(--font-sans) !important;
+  -webkit-font-smoothing: antialiased;
+  font-size: var(--font-size-base);
+  line-height: calc(var(--font-size-base) * 1.625);
+  font-weight: var(--font-weight-normal);
+}
+
+.cursor-interaction {
+  cursor: var(--cursor-interaction, pointer);
+}
+
+a {
+  color: color-mix(in srgb, var(--viz-accent) 80%, var(--viz-text) 20%);
+  cursor: var(--cursor-interaction, pointer);
+  text-decoration: none;
+  text-underline-offset: 2px;
+  font-weight: inherit;
+}
+
+a:is(:hover, :focus-visible) {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-block: 0;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+.table {
+  font-family: var(--font-sans);
+}
+
+h1 {
+  font-size: calc(var(--font-size-base) * 1.5);
+  line-height: 1.3333333333;
+}
+
+h2 {
+  font-size: calc(var(--font-size-base) * 1.25);
+  line-height: 1.4;
+}
+h3 {
+  font-size: calc(var(--font-size-base) * 1.125);
+  line-height: 1.5555555556;
+}
+h4 {
+  font-size: var(--font-size-base);
+  line-height: 1.5;
+}
+h5,
+h6 {
+  font-size: var(--font-size-base);
+  line-height: calc(var(--font-size-base) * 1.625);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+strong,
+th {
+  font-weight: 600;
+}
+
+code:not(pre code) {
+  display: inline;
+  padding: 1px 6px;
+  border-radius: var(--radius-sm);
+  corner-shape: var(--corner-shape);
+  background: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  overflow-wrap: anywhere;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  word-break: break-word;
+}
+pre,
+pre code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.table {
+  width: 100%;
+  color: var(--foreground);
+  font: inherit;
+  text-align: start;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: calc(var(--font-size-base) * 0.875);
+  line-height: calc(var(--font-size-base) * 1.625);
+  font-family: var(--font-sans);
+}
+
+.table :is(th, td) {
+  padding-block: 10px;
+  padding-inline: 0 24px;
+  overflow-wrap: anywhere;
+  border-bottom: 1px solid var(--border);
+  text-align: start;
+  vertical-align: top;
+  border-bottom-color: color-mix(in srgb, var(--foreground) 5%, transparent);
+}
+.table :is(th, td):not(:last-child) {
+  padding-inline-end: calc(var(--font-size-base) * 1.5);
+}
+
+.table-responsive &gt; .table :is(th, td) {
+  overflow-wrap: break-word;
+}
+
+.table :is(th, td):last-child {
+  padding-inline-end: 0;
+}
+
+.table :is(caption, thead th) {
+  font-weight: 600;
+}
+
+.table thead :is(th, td) {
+  border-bottom-color: var(--border-strong, var(--input));
+  padding-block: calc(var(--font-size-base) / 2);
+  line-height: var(--font-size-base);
+}
+
+.table tbody tr:last-child :is(th, td) {
+  border-bottom: 0;
+}
+.table tbody :is(th, td) {
+  padding-block: calc(var(--font-size-base) * 0.625);
+}
+
+.table.table-sm :is(th, td) {
+  padding-block: 8px;
+}
+
+.table.table-sm :is(th, td):not(:last-child) {
+  padding-inline-end: 16px;
+}
+
+.table :is(.text-end, [align=&quot;right&quot;]) {
+  text-align: end;
+  font-variant-numeric: tabular-nums;
+}
+
+.table :is(.text-center, [align=&quot;center&quot;]) {
+  text-align: center;
+}
+
+.table .text-nowrap {
+  white-space: nowrap;
+}
+
+#widget {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  padding: 0;
+  background: transparent !important;
+}
+
+.card {
+  min-width: 0;
+  padding: 12px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  border-radius: var(--radius-2xl);
+  corner-shape: var(--corner-shape);
+  color: var(--card-foreground);
+  background: var(--card);
+}
+
+.widget {
+  min-width: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: var(--radius-lg);
+  corner-shape: var(--corner-shape);
+  box-shadow: 0 0 0 0.5px var(--border-strong, var(--border));
+  color: var(--foreground);
+  background: var(--background);
+}
+
+#widget &gt; :not(.card, .widget, .progress) {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 50;
+  top: 0;
+  left: 0;
+  width: max-content;
+  max-width: min(
+    20rem,
+    var(--tooltip-available-width, calc(100vw - 10px)),
+    calc(100vw - 10px)
+  );
+  max-height: min(
+    var(--tooltip-available-height, calc(100vh - 10px)),
+    calc(100vh - 10px)
+  );
+  border: 1px solid var(--border);
+  corner-shape: var(--corner-shape);
+  overflow-wrap: break-word;
+  white-space: normal;
+  pointer-events: none;
+  user-select: none;
+  font-family: var(--font-sans);
+  padding: 5px 12px;
+  border-color: color-mix(
+    in oklab,
+    light-dark(var(--primary-foreground), var(--foreground)) 5%,
+    transparent
+  );
+  border-radius: var(--radius-2xl);
+  color: light-dark(var(--primary-foreground), var(--foreground));
+  background: light-dark(var(--foreground), var(--popover));
+  box-shadow: 0 8px 18px rgb(15 23 42 / 20%);
+  letter-spacing: -0.15px;
+  font-size: calc(var(--font-size-base) * 14 / 16);
+  font-size: round(nearest, calc(var(--font-size-base) * 14 / 16), 1px);
+  font-weight: 600;
+  line-height: 18px;
+  text-align: center;
+}
+
+.viz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(max(180px, 24%), 1fr));
+  gap: 10px;
+}
+
+.viz-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.viz-stat-value {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+.viz-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  margin-block: 6px;
+  border: 0;
+  background: var(--border);
+}
+
+.nav {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 4px;
+}
+
+.progress {
+  display: flex;
+  height: 8px;
+  margin-block: calc((var(--line-height-normal, 1.5em) - 8px) / 2);
+  overflow: hidden;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--muted);
+}
+
+.progress-bar:only-child {
+  border-radius: var(--radius-full);
+}
+
+.progress-bar {
+  height: 100%;
+  flex-shrink: 0;
+  border: 0;
+  background: var(--viz-series-1);
+}
+
+.viz-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  color: color-mix(in srgb, var(--foreground) 40%, var(--muted-foreground));
+  background: color-mix(in srgb, var(--foreground) 5%, transparent);
+  font-family: var(--font-sans);
+  font-size: calc(var(--font-size-base) * 14 / 16);
+  font-size: round(nearest, calc(var(--font-size-base) * 14 / 16), 1px);
+  font-weight: var(--font-weight-normal);
+  line-height: 1;
+}
+
+small,
+.text-small {
+  font-size: var(--font-size-small);
+  line-height: var(--line-height-small);
+}
+
+.text-muted {
+  color: var(--muted-foreground);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.viz-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.viz-controls &gt; .form-label {
+  display: grid;
+  min-width: min(100%, 260px);
+  flex: 1 1 280px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 2px 12px;
+  margin-bottom: 0;
+}
+
+.viz-controls &gt; .form-label &gt; :is(.form-control, .form-range, .form-select) {
+  grid-column: 1 / -1;
+}
+
+.btn,
+.nav-link,
+.form-check-input,
+.form-control,
+.form-range,
+.form-select {
+  font: inherit;
+}
+
+/* Match inline alignment without overriding a containing flex or grid layout. */
+.btn,
+.nav-link,
+.form-control,
+.form-select,
+.form-range,
+.form-check {
+  vertical-align: middle;
+}
+
+.btn,
+.nav-link {
+  appearance: button;
+  display: inline-flex;
+  inline-size: fit-content;
+  max-inline-size: 100%;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin: 0;
+  padding: 0 8px;
+  -webkit-app-region: no-drag;
+  border: 1px solid var(--input);
+  corner-shape: var(--corner-shape);
+  cursor: var(--cursor-interaction, pointer);
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-font-smoothing: inherit;
+  font-family: var(--font-sans);
+  height: fit-content;
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  padding-inline: var(--control-spacing, 12px);
+  border-color: transparent;
+  border-radius: var(--radius-full);
+  color: var(--foreground);
+  background: color-mix(in srgb, var(--foreground) 5%, transparent);
+  font-size: calc(var(--font-size-base) * 14 / 16);
+  font-size: round(nearest, calc(var(--font-size-base) * 14 / 16), 1px);
+  font-weight: var(--font-weight-normal);
+  line-height: 18px;
+}
+
+.btn {
+  border-color: var(--border);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+}
+
+.btn:is(.btn-block, .viz-tile) {
+  inline-size: 100%;
+}
+
+.btn.viz-tile {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+a.btn {
+  cursor: var(--cursor-interaction, pointer);
+  text-decoration: none;
+}
+
+.btn:not(:disabled):hover {
+  background: light-dark(
+    color-mix(in srgb, var(--foreground) 5.5%, transparent),
+    color-mix(in srgb, var(--foreground) 8%, transparent)
+  );
+}
+
+.nav-link:not(:disabled):not([aria-disabled=&quot;true&quot;]):hover {
+  background: color-mix(in srgb, var(--foreground) 10%, transparent);
+}
+
+.btn-primary {
+  border-color: var(--border);
+  color: var(--primary-foreground);
+  background: var(--foreground);
+  background-clip: border-box;
+}
+
+.btn-primary .text-muted {
+  color: color-mix(in srgb, var(--primary-foreground) 50%, transparent);
+}
+
+.btn-primary:not(:disabled):hover {
+  background: color-mix(in srgb, var(--foreground) 80%, transparent);
+  background-clip: border-box;
+}
+
+.btn-ghost {
+  border-color: transparent;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.btn-ghost:not(:disabled):hover {
+  color: var(--muted-foreground);
+  background: light-dark(
+    color-mix(in srgb, var(--foreground) 5.5%, transparent),
+    color-mix(in srgb, var(--foreground) 8%, transparent)
+  );
+}
+
+.nav-pills .nav-link {
+  min-width: 0;
+  border-color: transparent;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.nav-justified .nav-link {
+  flex: 1 1 0;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+.nav-pills .nav-link.active {
+  color: var(--foreground);
+  background: var(--muted);
+}
+
+/* Shared preview chrome; product styles stay inside each variant. */
+.viz-dotted-background {
+  background-image: radial-gradient(
+    circle,
+    color-mix(in srgb, var(--foreground) 14%, transparent) 0.8px,
+    transparent 0.8px
+  );
+  background-position: center;
+  background-size: 16px 16px;
+}
+
+.viz-carousel {
+  position: relative;
+  min-width: 0;
+}
+
+.viz-carousel:has(&gt; .viz-carousel-controls) {
+  min-height: calc(60px + var(--viz-carousel-picker-height, 0px));
+  padding-bottom: 60px;
+}
+
+.viz-carousel &gt; [data-variant][hidden] {
+  display: none !important;
+}
+
+.viz-carousel &gt; [data-variant] {
+  isolation: isolate;
+}
+
+.viz-carousel-controls {
+  --viz-carousel-hover: light-dark(
+    color-mix(in srgb, var(--foreground) 5.4%, transparent),
+    color-mix(in srgb, var(--foreground) 7.8%, transparent)
+  );
+  position: absolute;
+  z-index: 2;
+  bottom: 8px;
+  left: 50%;
+  display: flex;
+  width: max-content;
+  /* Leave room for the host&#x27;s design-controls launcher at the trailing edge. */
+  max-width: calc(100% - 96px);
+  align-items: center;
+  gap: 0;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-sans);
+  /* Match the settings dropdown chrome independently of the content font size. */
+  font-size: 13px;
+  font-weight: var(--font-weight-normal);
+  line-height: 18px;
+  transform: translateX(-50%);
+  user-select: none;
+}
+
+/* Keep authored mockup button styles out of the shared carousel chrome. */
+.viz-carousel-controls button,
+.viz-carousel-picker &gt; summary {
+  display: flex !important;
+  height: auto !important;
+  min-height: 30px;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 4px;
+  padding: 0 6px !important;
+  -webkit-app-region: no-drag;
+  border: 0 !important;
+  border-radius: 14px !important;
+  color: inherit !important;
+  background: transparent !important;
+  font: inherit !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.viz-carousel-controls &gt; button,
+.viz-carousel-picker &gt; summary {
+  position: relative;
+  isolation: isolate;
+}
+
+.viz-carousel-controls &gt; button {
+  --icon-size: 16px;
+  width: 30px !important;
+  padding: 0 !important;
+}
+
+.viz-carousel-picker &gt; summary {
+  padding-inline: 12px !important;
+}
+
+.viz-carousel-controls .viz-carousel-caret {
+  width: 14px;
+  height: 14px;
+  flex: none;
+  margin: 0;
+  color: inherit;
+  transform: rotate(180deg);
+}
+
+.viz-carousel-controls &gt; button &gt; svg,
+.viz-carousel-controls .viz-carousel-caret,
+.viz-carousel-count {
+  opacity: 0.5;
+}
+
+.viz-carousel-controls &gt; button::before,
+.viz-carousel-picker &gt; summary::before {
+  position: absolute;
+  z-index: -1;
+  inset: 3px;
+  border-radius: 12px;
+  content: &quot;&quot;;
+  pointer-events: none;
+}
+
+.viz-carousel-controls &gt; button:hover::before,
+.viz-carousel-picker &gt; summary:hover::before {
+  background: var(--viz-carousel-hover);
+}
+
+.viz-carousel-controls &gt; button,
+.viz-carousel-controls [data-lucide],
+.viz-carousel-controls .lucide {
+  flex-shrink: 0;
+}
+
+.viz-carousel-picker {
+  min-width: 0;
+}
+
+.viz-carousel-picker &gt; summary {
+  min-width: 0;
+  list-style: none;
+}
+
+.viz-carousel-picker &gt; summary::-webkit-details-marker {
+  display: none;
+}
+
+.viz-carousel-count {
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.viz-carousel-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.viz-carousel-options {
+  position: absolute;
+  right: 0;
+  bottom: calc(100% + 4px);
+  left: 0;
+  display: flex;
+  max-height: 240px;
+  flex-direction: column;
+  gap: 2px;
+  overflow: auto;
+  padding: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: var(--background);
+  box-shadow: 0 4px 12px light-dark(rgb(0 0 0 / 6%), rgb(0 0 0 / 25%));
+}
+
+.viz-carousel-options &gt; button {
+  border-radius: max(0px, calc(var(--radius-lg) - 5px)) !important;
+  width: 100% !important;
+  min-height: 28px;
+  justify-content: flex-start !important;
+  padding: 4px 8px !important;
+  font-size: var(--font-size-small) !important;
+  text-align: start;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.viz-carousel-options &gt; [aria-current=&quot;true&quot;],
+.viz-carousel-options &gt; button:hover {
+  background: var(--viz-carousel-hover) !important;
+}
+
+.btn:disabled,
+.nav-link:disabled,
+.nav-link[aria-disabled=&quot;true&quot;] {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+[data-lucide] {
+  stroke-width: 1.6;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--foreground);
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0 8px;
+  outline: none;
+  border: 1px solid var(--input);
+  corner-shape: var(--corner-shape);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  height: calc(12px + 2 * var(--control-spacing, 12px));
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  padding-inline: calc(4px + var(--control-spacing, 12px) / 2);
+  border-color: var(--input);
+  border-radius: var(--radius-md);
+  background: color-mix(in srgb, var(--popover) 96%, transparent);
+  font-size: calc(var(--font-size-base) * 14 / 16);
+  font-size: round(nearest, calc(var(--font-size-base) * 14 / 16), 1px);
+  font-weight: var(--font-weight-normal);
+  line-height: 1.4285714286;
+}
+.form-control:is(
+  [type=&quot;file&quot;],
+  [type=&quot;date&quot;],
+  [type=&quot;datetime-local&quot;],
+  [type=&quot;month&quot;],
+  [type=&quot;week&quot;],
+  [type=&quot;color&quot;]
+) {
+  height: calc(12px + 2 * var(--control-spacing, 12px));
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  line-height: 18px;
+}
+.form-control:is(
+  [type=&quot;date&quot;],
+  [type=&quot;datetime-local&quot;],
+  [type=&quot;month&quot;],
+  [type=&quot;week&quot;]
+) {
+  padding-inline: var(--control-spacing, 12px);
+}
+
+.form-control::placeholder {
+  color: var(--muted-foreground);
+}
+
+.form-control[type=&quot;file&quot;] {
+  overflow: hidden;
+  cursor: var(--cursor-interaction, pointer);
+  padding: 0;
+}
+
+.form-control[type=&quot;file&quot;]::file-selector-button {
+  padding: 0 8px;
+  border: 0;
+  border-right: 1px solid var(--input);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+  cursor: inherit;
+  font: inherit;
+  min-height: calc(10px + 2 * var(--control-spacing, 12px));
+  padding-inline: var(--control-spacing, 12px);
+  margin-inline-end: var(--control-spacing, 12px);
+}
+
+.form-control[type=&quot;file&quot;]:not(:disabled):hover::file-selector-button {
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.form-control-color[type=&quot;color&quot;] {
+  width: 40px;
+  height: calc(12px + 2 * var(--control-spacing, 12px));
+  padding: 3px;
+  cursor: var(--cursor-interaction, pointer);
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch {
+  border: 0;
+  border-radius: calc(var(--radius-lg) - 4px);
+  corner-shape: var(--corner-shape);
+}
+
+textarea.form-control {
+  height: auto;
+  resize: vertical;
+  min-height: 96px;
+  padding: 8px 10px;
+}
+
+.form-control:focus-visible {
+  border-color: var(--ring);
+  box-shadow: none;
+}
+.form-control:disabled {
+  color: var(--muted-foreground);
+  background: color-mix(in srgb, var(--foreground) 5%, transparent);
+  opacity: 1;
+}
+.form-control[aria-invalid=&quot;true&quot;] {
+  border-color: var(--red);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--red) 20%, transparent);
+}
+
+.form-control:disabled,
+.form-select:disabled {
+  cursor: not-allowed;
+}
+
+.form-select {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: fit-content;
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  margin: 0;
+  /* The secondary icon role is 14px at compact density and 16px at web density. */
+  --icon-size: calc(10px + var(--control-spacing, 12px) / 2);
+  /* Settings dropdowns retain a 12px inset and a 4px text-to-chevron gap. */
+  padding: 0 calc(16px + var(--icon-size)) 0 12px;
+  outline: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  corner-shape: var(--corner-shape);
+  color: var(--foreground);
+  background-color: var(--secondary);
+  background-image:
+    linear-gradient(
+      45deg,
+      transparent calc(50% - 0.6px),
+      var(--muted-foreground) calc(50% - 0.6px) calc(50% + 0.6px),
+      transparent calc(50% + 0.6px)
+    ),
+    linear-gradient(
+      135deg,
+      transparent calc(50% - 0.6px),
+      var(--muted-foreground) calc(50% - 0.6px) calc(50% + 0.6px),
+      transparent calc(50% + 0.6px)
+    );
+  background-position:
+    calc(100% - 12px - var(--icon-size) / 2) 50%,
+    calc(100% - 12px - var(--icon-size) * 0.18) 50%;
+  background-repeat: no-repeat;
+  background-size: calc(var(--icon-size) * 0.32) calc(var(--icon-size) * 0.32);
+  cursor: var(--cursor-interaction, default);
+  font-size: calc(var(--font-size-base) * 14 / 16);
+  font-size: round(nearest, calc(var(--font-size-base) * 14 / 16), 1px);
+  font-weight: var(--font-weight-normal);
+  line-height: 18px;
+}
+
+.form-select option {
+  color: var(--popover-foreground);
+  background-color: var(--popover);
+}
+
+.form-select:not(:disabled):hover {
+  background-color: light-dark(
+    color-mix(in srgb, var(--foreground) 5.5%, transparent),
+    color-mix(in srgb, var(--foreground) 8%, transparent)
+  );
+}
+
+.form-select:focus-visible {
+  box-shadow: 0 0 0 2px var(--ring);
+}
+.form-select:disabled {
+  opacity: 0.4;
+}
+
+.form-check {
+  display: flex;
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  align-items: center;
+  gap: 6px;
+}
+
+.form-check-input {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+  margin: 0;
+  border: 1px solid var(--input);
+  color: var(--primary-foreground);
+  background-color: transparent;
+  cursor: var(--cursor-interaction, default);
+  transition:
+    background-color 150ms,
+    border-color 150ms,
+    box-shadow 150ms;
+}
+
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;] {
+  corner-shape: round;
+  box-shadow: var(--shadow-sm);
+  position: relative;
+  width: calc(10px + var(--control-spacing, 12px) / 2);
+  height: calc(10px + var(--control-spacing, 12px) / 2);
+  border-color: var(--border-strong, var(--input));
+  border-radius: calc(var(--radius-sm) / 2);
+  background-color: transparent;
+  color: var(--foreground);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input:not(:disabled):not(:checked):hover {
+  background-color: var(--card);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;checkbox&quot;]:is(:checked, :indeterminate) {
+  border-color: var(--border-strong, var(--input));
+  background-color: color-mix(in srgb, var(--popover) 96%, transparent);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;checkbox&quot;]:checked::before {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--primary-foreground);
+  content: &quot;&quot;;
+  mask: var(--checkmark-image) center / 12px 12px no-repeat;
+  background-color: var(--foreground);
+}
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;checkbox&quot;]:indeterminate::before {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 65%;
+  height: 6.65%;
+  margin: auto;
+  border-radius: var(--radius-full);
+  background: var(--foreground);
+  mask: none;
+  content: &quot;&quot;;
+}
+
+.form-check-input[type=&quot;radio&quot;] {
+  border-radius: var(--radius-full);
+  width: 16px;
+  height: 16px;
+  border: 0;
+  box-shadow: inset 0 0 0 1px var(--input);
+}
+
+.form-check-input[type=&quot;radio&quot;]:checked {
+  border: 0;
+  background: radial-gradient(
+    circle,
+    var(--primary-foreground) 0 3px,
+    var(--foreground) 3px
+  );
+  box-shadow: none;
+}
+
+.form-check:not(.form-switch) .form-check-input:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;]:focus-visible {
+  border-color: var(--ring);
+  outline: none;
+  box-shadow: 0 0 0 2px var(--ring);
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+}
+.form-check:not(.form-switch) .form-check-input[type=&quot;radio&quot;]:disabled,
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;radio&quot;]:disabled
+  + .form-check-label {
+  opacity: 0.5;
+}
+
+.form-switch .form-check-input:disabled,
+.form-switch .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.form-check-label {
+  color: var(--foreground);
+  cursor: var(--cursor-interaction, default);
+}
+
+.form-switch .form-check-input {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--muted);
+  box-shadow: none;
+  transition: background-color 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.form-switch .form-check-input::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+  border: 1px solid light-dark(var(--primary-foreground), var(--foreground));
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-sm);
+  content: &quot;&quot;;
+  transform: translate(2px, -50%);
+  transition: transform 200ms cubic-bezier(0, 0, 0.2, 1);
+  border-color: #fff;
+  background: #fff;
+}
+
+.form-switch .form-check-input:checked {
+  background: var(--blue);
+}
+
+.form-switch .form-check-input:checked::before {
+  transform: translate(14px, -50%);
+}
+
+.form-switch .form-check-input:focus-visible {
+  box-shadow: 0 0 0 2px var(--ring);
+  outline: none;
+}
+
+.form-range {
+  appearance: none;
+  display: block;
+  width: 100%;
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  accent-color: var(--primary);
+  height: calc(12px + 2 * var(--control-spacing, 12px));
+  min-height: calc(12px + 2 * var(--control-spacing, 12px));
+  outline: none;
+  border-radius: var(--radius-full);
+  color: var(--foreground);
+  background: transparent;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  background: var(--form-range-track, var(--border));
+  height: 2px;
+  border-radius: var(--radius-full);
+}
+
+.form-range::-webkit-slider-thumb {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  margin-top: -9px;
+  border-color: transparent;
+  background: currentColor;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Outline the native track and thumb, preserving the larger input hit area. */
+.form-range:focus-visible::-webkit-slider-runnable-track {
+  outline: 2px auto Highlight;
+  outline-color: -webkit-focus-ring-color;
+}
+
+.form-range::-moz-range-track {
+  background: var(--form-range-track, var(--border));
+  height: 2px;
+  border-radius: var(--radius-full);
+}
+
+.form-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  border-color: transparent;
+  background: currentColor;
+  box-shadow: var(--shadow-sm);
+}
+
+.form-range:focus-visible::-moz-range-thumb {
+  outline: 2px solid Highlight;
+  outline-offset: 2px;
+}
+
+.form-range:disabled {
+  opacity: 1;
+  cursor: default;
+}
+
+.btn:not(.btn-primary, .viz-tile):is(
+  [aria-pressed=&quot;true&quot;],
+  [aria-selected=&quot;true&quot;],
+  .is-selected
+) {
+  border-color: transparent;
+  color: var(--primary-foreground);
+  background: var(--blue);
+}
+
+.btn.viz-tile:is([aria-pressed=&quot;true&quot;], [aria-selected=&quot;true&quot;], .is-selected) {
+  border-color: var(--primary);
+  box-shadow: inset 0 0 0 1px var(--primary);
+}
+
+.btn:focus-visible,
+.nav-link:focus-visible {
+  outline-offset: 2px;
+  outline: none;
+  box-shadow: 0 0 0 2px var(--ring);
+}
+
+.viz-carousel-controls :is(button, summary):focus-visible {
+  outline: 2px solid var(--ring) !important;
+  outline-offset: 2px !important;
+}
+
+/* Web recipes are the default, including on renderers without inline style queries. */
+@supports (border-radius: if(style(--corner-shape: round): 1px; else: 2px)) {
+  /* Match the host&#x27;s proportional text-sm scale at every text preference. */
+  .tooltip,
+  .viz-badge,
+  .btn,
+  .nav-link,
+  .form-control,
+  .form-select {
+    font-size: if(
+      style(--corner-shape: round): round(
+          nearest,
+          calc(var(--font-size-base) * 14 / 16),
+          1px
+        );
+        else: round(nearest, calc(var(--font-size-base) * 13 / 14), 1px)
+    );
+  }
+
+  .btn,
+  .nav-link,
+  .form-select {
+    border-radius: if(
+      style(--corner-shape: round): var(--radius-full); else: var(--radius-lg)
+    );
+  }
+
+  .form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;] {
+    border-radius: if(
+      style(--corner-shape: round): calc(var(--radius-sm) / 2);
+        else: calc(var(--radius-lg) * 0.4)
+    );
+  }
+
+  .tooltip {
+    font-weight: if(
+      style(--corner-shape: round): 600; else: var(--font-weight-normal)
+    );
+  }
+}
+
+@media (pointer: coarse) {
+  .viz-carousel:has(&gt; .viz-carousel-controls) {
+    min-height: calc(76px + var(--viz-carousel-picker-height, 0px));
+    padding-bottom: 76px;
+  }
+
+  .btn,
+  .nav-link,
+  .viz-carousel-controls button,
+  .viz-carousel-picker &gt; summary,
+  .form-control,
+  .form-select {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* Keep small-screen WebKit from zooming when a text field receives focus. */
+  .form-control,
+  .form-select {
+    font-size: max(16px, calc(var(--font-size-base) * 14 / 16));
+    font-size: max(
+      16px,
+      round(nearest, calc(var(--font-size-base) * 14 / 16), 1px)
+    );
+  }
+  .form-control:is(
+    [type=&quot;file&quot;],
+    [type=&quot;date&quot;],
+    [type=&quot;datetime-local&quot;],
+    [type=&quot;month&quot;],
+    [type=&quot;week&quot;],
+    [type=&quot;time&quot;],
+    [type=&quot;color&quot;]
+  ) {
+    height: 44px;
+    min-height: 44px;
+    font-size: max(16px, calc(var(--font-size-base) * 14 / 16));
+    font-size: max(
+      16px,
+      round(nearest, calc(var(--font-size-base) * 14 / 16), 1px)
+    );
+  }
+
+  .form-control[type=&quot;file&quot;]::file-selector-button {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  .form-control-color[type=&quot;color&quot;] {
+    width: 44px;
+    height: 44px;
+  }
+
+  .form-control:is(
+    [type=&quot;date&quot;],
+    [type=&quot;datetime-local&quot;],
+    [type=&quot;month&quot;],
+    [type=&quot;time&quot;],
+    [type=&quot;week&quot;]
+  ) {
+    min-width: 0;
+    max-width: 100%;
+    padding-block: 8px;
+  }
+
+  .form-check {
+    min-height: 44px;
+    padding-inline: 15px;
+  }
+
+  .form-check-input {
+    position: relative;
+  }
+
+  .form-check-input::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 44px;
+    height: 44px;
+    content: &quot;&quot;;
+    transform: translate(-50%, -50%);
+  }
+
+  .form-check-label {
+    display: inline-flex;
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
+  }
+
+  .form-range {
+    height: 44px;
+    touch-action: pan-y;
+  }
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#widget &gt; svg {
+  width: 100%;
+}
+
+/* Model-authored chart rules can otherwise stretch icons after these styles load. */
+svg.lucide {
+  display: block;
+  width: var(--icon-size) !important;
+  height: var(--icon-size) !important;
+  flex: none;
+  margin: 0 !important;
+  stroke-width: 1.6;
+}
+
+.text-warning,
+.text-destructive {
+  color: var(--destructive);
+}
+
+html&gt;body{padding:0}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script type=&quot;application/json&quot; id=&quot;codex-visualization-widget-state&quot;&gt;__CODEX_VISUALIZATION_WIDGET_STATE__&lt;/script&gt;
+&lt;script&gt;(() =&gt; {
+  const root = document.documentElement;
+  const mediaQuery = globalThis.matchMedia(&quot;(prefers-color-scheme: dark)&quot;);
+  const apply = Reflect.apply;
+  const isArray = Array.isArray;
+  const hasOwn = Object.hasOwn;
+  const parentWindow = globalThis.parent;
+  const stringify = JSON.stringify;
+  const parse = JSON.parse;
+  const encode = TextEncoder.prototype.encode.bind(new TextEncoder());
+  const initialStateElement = document.getElementById(
+    &quot;codex-visualization-widget-state&quot;,
+  );
+  const initialGlobals = parse(initialStateElement?.textContent ?? &quot;{}&quot;);
+  initialStateElement?.remove();
+  /** @type {Record&lt;string, unknown&gt; | null} */
+  let state = initialGlobals.widgetState ?? null;
+  const statePersistence = initialGlobals.statePersistence ?? &quot;none&quot;;
+  let nextStateRequestId = 0;
+  /** @type {Map&lt;number, { resolve: () =&gt; void; reject: (error: Error) =&gt; void; timeout: ReturnType&lt;typeof globalThis.setTimeout&gt;; serializedState: string }&gt;} */
+  const pendingStateWrites = new Map();
+  const persistenceError = () =&gt;
+    Object.assign(
+      new Error(&quot;The host could not persist the widget state update&quot;),
+      {
+        code: -32000,
+        data: { code: &quot;widget_state_persistence_failed&quot;, retryable: false },
+      },
+    );
+  /**
+   * @param {object} prototype
+   * @param {string} property
+   */
+  const getPrototypeGetter = (prototype, property) =&gt; {
+    // oxlint-disable-next-line typescript/unbound-method -- invoked through captured Reflect.apply
+    const getter = Object.getOwnPropertyDescriptor(prototype, property)?.get;
+    if (getter == null) {
+      throw new Error(`Missing ${property} getter`);
+    }
+    return getter;
+  };
+  const getMessageData = getPrototypeGetter(MessageEvent.prototype, &quot;data&quot;);
+  const getMessagePorts = getPrototypeGetter(MessageEvent.prototype, &quot;ports&quot;);
+  const getMessageSource = getPrototypeGetter(MessageEvent.prototype, &quot;source&quot;);
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const addHostMessageListener = MessagePort.prototype.addEventListener;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const postHostMessage = MessagePort.prototype.postMessage;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const startHostPort = MessagePort.prototype.start;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const stopMessagePropagation = Event.prototype.stopImmediatePropagation;
+  /** @type {MessagePort | null} */
+  let hostPort = null;
+  const postToHost = (type, payload) =&gt; {
+    if (hostPort != null) {
+      apply(postHostMessage, hostPort, [{ type, ...payload }]);
+    }
+  };
+  const openExternal = ({ href }) =&gt; {
+    if (globalThis.navigator.userActivation?.isActive === true) {
+      postToHost(&quot;open-external&quot;, { href });
+    }
+  };
+  const sendFollowUpMessage = ({ context, prompt, title }) =&gt; {
+    if (globalThis.navigator.userActivation?.isActive === true) {
+      postToHost(&quot;follow-up&quot;, { context, prompt, title });
+    }
+    return Promise.resolve();
+  };
+  /**
+   * @param {Record&lt;string, unknown&gt; | ((previous: Record&lt;string, unknown&gt; | null) =&gt; Record&lt;string, unknown&gt;)} next
+   * @returns {Promise&lt;void&gt;}
+   */
+  const setWidgetState = async (next) =&gt; {
+    const nextState = typeof next === &quot;function&quot; ? next(state) : next;
+    if (
+      nextState == null ||
+      typeof nextState !== &quot;object&quot; ||
+      isArray(nextState)
+    ) {
+      throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+    }
+    const inputState = stringify(
+      nextState,
+      (_key, /** @type {unknown} */ value) =&gt; {
+        if (
+          typeof value === &quot;undefined&quot; ||
+          typeof value === &quot;function&quot; ||
+          typeof value === &quot;symbol&quot; ||
+          (typeof value === &quot;number&quot; &amp;&amp; !Number.isFinite(value))
+        ) {
+          throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+        }
+        return value;
+      },
+    );
+    const parsedState = parse(inputState);
+    if (
+      parsedState == null ||
+      typeof parsedState !== &quot;object&quot; ||
+      isArray(parsedState)
+    ) {
+      throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+    }
+    const storedState = {
+      modelContent: null,
+      privateContent: null,
+      ...parsedState,
+    };
+    const serializedState = stringify(storedState);
+    if (encode(serializedState).length &gt; 16 * 1024) {
+      throw new TypeError(
+        &quot;Widget state must be a JSON object of at most 16 KiB&quot;,
+      );
+    }
+    if (
+      hasOwn(storedState, &quot;imageIds&quot;) &amp;&amp;
+      (!isArray(storedState.imageIds) ||
+        storedState.imageIds.some(
+          (/** @type {unknown} */ id) =&gt; typeof id !== &quot;string&quot;,
+        ))
+    ) {
+      throw new TypeError(&quot;Widget state imageIds must be an array of strings&quot;);
+    }
+    if (storedState.imageIds?.length &gt; 0) {
+      throw Object.assign(
+        new TypeError(&quot;Visualization state does not support image attachments&quot;),
+        { code: -32602, data: { code: &quot;images_unsupported&quot; } },
+      );
+    }
+    state = storedState;
+    globalThis.openai.widgetState = state;
+    globalThis.dispatchEvent(
+      new CustomEvent(&quot;openai:set_globals&quot;, {
+        detail: { globals: { widgetState: state } },
+      }),
+    );
+    if (statePersistence === &quot;none&quot;) {
+      throw persistenceError();
+    }
+    const id = ++nextStateRequestId;
+    return new Promise((resolve, reject) =&gt; {
+      const timeout = globalThis.setTimeout(() =&gt; {
+        pendingStateWrites.delete(id);
+        reject(persistenceError());
+      }, 30_000);
+      pendingStateWrites.set(id, { resolve, reject, timeout, serializedState });
+      postToHost(&quot;widget-state-write&quot;, { id, state: serializedState });
+    });
+  };
+  const syncTheme = () =&gt; {
+    const theme = mediaQuery.matches ? &quot;dark&quot; : &quot;light&quot;;
+    root.dataset.theme = theme;
+    globalThis.openai = {
+      ...globalThis.openai,
+      openExternal,
+      sendFollowUpMessage,
+      setWidgetState,
+      theme,
+      visualizationStyleVariables: {},
+      visualizationTheme: theme,
+      widgetState: state,
+      statePersistence,
+      stateModelContext: &quot;none&quot;,
+    };
+    globalThis.dispatchEvent(
+      new CustomEvent(&quot;openai:set_globals&quot;, {
+        detail: { globals: globalThis.openai },
+      }),
+    );
+  };
+  const sendHeight = () =&gt; {
+    postToHost(&quot;height&quot;, {
+      height: Math.ceil(
+        Math.max(
+          document.body.scrollHeight,
+          document.body.getBoundingClientRect().height,
+        ),
+      ),
+    });
+  };
+
+  globalThis.addEventListener(
+    &quot;message&quot;,
+    (event) =&gt; {
+      const data = apply(getMessageData, event, []);
+      const ports = apply(getMessagePorts, event, []);
+      const source = apply(getMessageSource, event, []);
+      if (
+        hostPort != null ||
+        source !== parentWindow ||
+        typeof data !== &quot;object&quot; ||
+        data?.type !== &quot;codex-visualization-initialize&quot; ||
+        !isArray(ports) ||
+        ports.length !== 1
+      ) {
+        return;
+      }
+      apply(stopMessagePropagation, event, []);
+      const nextHostPort = ports[0];
+      try {
+        apply(addHostMessageListener, nextHostPort, [
+          &quot;message&quot;,
+          (event) =&gt; {
+            const data = apply(getMessageData, event, []);
+            if (typeof data === &quot;object&quot; &amp;&amp; data?.type === &quot;measure&quot;) {
+              sendHeight();
+            } else if (
+              typeof data === &quot;object&quot; &amp;&amp;
+              data?.type === &quot;widget-state-result&quot;
+            ) {
+              /** @type {unknown} */
+              const id = data.id;
+              if (typeof id !== &quot;number&quot;) {
+                return;
+              }
+              const pending = pendingStateWrites.get(id);
+              if (pending != null) {
+                pendingStateWrites.delete(id);
+                globalThis.clearTimeout(pending.timeout);
+                if (data.ok === true) {
+                  pending.resolve();
+                } else {
+                  pending.reject(persistenceError());
+                }
+              }
+            }
+          },
+        ]);
+        apply(startHostPort, nextHostPort, []);
+      } catch {
+        return;
+      }
+      hostPort = nextHostPort;
+      for (const [id, { serializedState }] of pendingStateWrites) {
+        postToHost(&quot;widget-state-write&quot;, { id, state: serializedState });
+      }
+      sendHeight();
+    },
+    { capture: true },
+  );
+  document.currentScript?.remove();
+  mediaQuery.addEventListener(&quot;change&quot;, syncTheme);
+  globalThis.addEventListener(&quot;click&quot;, (event) =&gt; {
+    if (event.defaultPrevented) {
+      return;
+    }
+    let element = null;
+    if (event.target instanceof globalThis.Element) {
+      element = event.target;
+    } else if (event.target instanceof globalThis.Node) {
+      element = event.target.parentElement;
+    }
+    const link = element?.closest(&quot;a[href]&quot;);
+    const href = link?.getAttribute(&quot;href&quot;);
+    if (href == null) {
+      return;
+    }
+    if (href.startsWith(&quot;#&quot;)) {
+      let id;
+      try {
+        id = decodeURIComponent(href.slice(1));
+      } catch {
+        return;
+      }
+      const target = id.length === 0 ? root : document.getElementById(id);
+      if (
+        target == null ||
+        globalThis.navigator.userActivation?.isActive !== true
+      ) {
+        return;
+      }
+      event.preventDefault();
+      postToHost(&quot;scroll-to&quot;, {
+        top: target.getBoundingClientRect().top + globalThis.scrollY,
+      });
+      return;
+    }
+    event.preventDefault();
+    openExternal({ href });
+  });
+  new ResizeObserver(sendHeight).observe(document.body);
+  syncTheme();
+})();
+&lt;/script&gt;
+&lt;div id=&quot;spring-story-rhythm&quot;&gt;
+  &lt;style&gt;
+    #spring-story-rhythm { color: var(--foreground); }
+    #spring-story-rhythm .intro { display:flex; gap:16px; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:16px; padding-right:96px; }
+    #spring-story-rhythm .stage-nav { display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 20px; }
+    #spring-story-rhythm .rhythm-table th:first-child { width:20%; }
+    #spring-story-rhythm .rhythm-table th:nth-child(2) { width:40%; }
+    #spring-story-rhythm .rhythm-table td { vertical-align:top; }
+    #spring-story-rhythm .rhythm-table .current { background:var(--accent); color:var(--accent-foreground); }
+    #spring-story-rhythm .mode-mark { display:inline-block; height:8px; width:8px; margin-right:7px; background:var(--viz-series-1); }
+    #spring-story-rhythm .mode-mark.play { background:var(--viz-series-2); border-radius:50%; }
+    #spring-story-rhythm .split { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:24px; margin:16px 0; }
+    #spring-story-rhythm .label { color:var(--muted-foreground); }
+    #spring-story-rhythm .detail-header { display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-top:22px; }
+    #spring-story-rhythm .detail-header h3 { margin:0; }
+    #spring-story-rhythm .text-items, #spring-story-rhythm .play-items { padding-left:20px; }
+    #spring-story-rhythm li { margin-bottom:9px; }
+    #spring-story-rhythm dl { display:grid; grid-template-columns:5em minmax(0,1fr); gap:8px 12px; }
+    #spring-story-rhythm dt { color:var(--muted-foreground); }
+    #spring-story-rhythm dd { margin:0; }
+    #spring-story-rhythm details { margin-top:16px; }
+    #spring-story-rhythm summary { margin-bottom:12px; }
+    #spring-story-rhythm .book { max-width:70ch; margin:16px auto; overflow-wrap:anywhere; }
+    #spring-story-rhythm .book p { margin:0 0 16px; }
+    #spring-story-rhythm .book table { width:100%; }
+    #spring-story-rhythm .book h4 { font-weight:500; }
+    #spring-story-rhythm .further { margin:12px 0; }
+    @media(max-width:680px) {
+      #spring-story-rhythm .split { grid-template-columns:minmax(0,1fr); gap:8px; }
+      #spring-story-rhythm .intro { padding-right:0; }
+      #spring-story-rhythm .rhythm-table th:first-child { width:25%; }
+    }
+  &lt;/style&gt;
+  &lt;div class=&quot;intro&quot;&gt;
+    &lt;h2&gt;春日点名 · 故事节奏&lt;/h2&gt;
+    &lt;span class=&quot;text-small text-muted&quot;&gt;创作审核 · 含全剧透 · 第1版&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;viz-row text-small&quot;&gt;
+    &lt;span&gt;&lt;span class=&quot;mode-mark&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;文本先给来路与信息&lt;/span&gt;
+    &lt;span&gt;&lt;span class=&quot;mode-mark play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;互动让玩家问、做、回应&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;stage-nav&quot; aria-label=&quot;选择幕次&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;table-responsive&quot;&gt;
+    &lt;table class=&quot;table table-sm rhythm-table&quot; aria-label=&quot;七幕文本与互动节奏总览&quot;&gt;
+      &lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;幕次／节奏&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;文本&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;互动&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;
+      &lt;tbody class=&quot;overview&quot;&gt;&lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/div&gt;
+  &lt;hr&gt;
+  &lt;section class=&quot;selected-detail&quot; aria-live=&quot;polite&quot; aria-atomic=&quot;false&quot;&gt;
+    &lt;div class=&quot;detail-header&quot;&gt;&lt;h3 class=&quot;selected-title&quot;&gt;&lt;/h3&gt;&lt;span class=&quot;selected-day text-muted text-small&quot;&gt;&lt;/span&gt;&lt;/div&gt;
+    &lt;div class=&quot;further selected-pace&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;split&quot;&gt;
+      &lt;section aria-label=&quot;本幕文本推进&quot;&gt;&lt;h3&gt;&lt;span class=&quot;mode-mark&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;文本&lt;/h3&gt;&lt;ul class=&quot;text-items&quot;&gt;&lt;/ul&gt;&lt;/section&gt;
+      &lt;section aria-label=&quot;本幕现场互动&quot;&gt;&lt;h3&gt;&lt;span class=&quot;mode-mark play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;互动&lt;/h3&gt;&lt;ul class=&quot;play-items&quot;&gt;&lt;/ul&gt;&lt;/section&gt;
+    &lt;/div&gt;
+    &lt;dl&gt;&lt;dt&gt;关系变化&lt;/dt&gt;&lt;dd class=&quot;change&quot;&gt;&lt;/dd&gt;&lt;dt&gt;下一幕&lt;/dt&gt;&lt;dd class=&quot;gate&quot;&gt;&lt;/dd&gt;&lt;dt&gt;信息边界&lt;/dt&gt;&lt;dd class=&quot;info&quot;&gt;&lt;/dd&gt;&lt;dt&gt;演员占用&lt;/dt&gt;&lt;dd class=&quot;actors&quot;&gt;&lt;/dd&gt;&lt;dt&gt;时间口径&lt;/dt&gt;&lt;dd class=&quot;duration&quot;&gt;&lt;/dd&gt;&lt;/dl&gt;
+    &lt;details class=&quot;people-details&quot;&gt;&lt;summary class=&quot;cursor-interaction&quot;&gt;这一幕的四位玩家&lt;/summary&gt;&lt;table class=&quot;table table-sm&quot;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th scope=&quot;col&quot;&gt;角色&lt;/th&gt;&lt;th scope=&quot;col&quot;&gt;经历与行动&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody class=&quot;people&quot;&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/details&gt;
+  &lt;/section&gt;
+  &lt;details class=&quot;book-details&quot;&gt;&lt;summary class=&quot;cursor-interaction&quot;&gt;阅读本幕恩书正文与互动入口&lt;/summary&gt;&lt;div class=&quot;book player-book&quot;&gt;&lt;/div&gt;&lt;/details&gt;
+  &lt;details class=&quot;host-details&quot;&gt;&lt;summary class=&quot;cursor-interaction&quot;&gt;查看本幕互动执行与回应分支&lt;/summary&gt;&lt;div class=&quot;book host-book&quot;&gt;&lt;/div&gt;&lt;/details&gt;
+  &lt;script&gt;
+  (() =&gt; {
+    const root = document.getElementById(&#x27;spring-story-rhythm&#x27;);
+    if (!root) return;
+    const data = [{&quot;id&quot;: 1, &quot;name&quot;: &quot;序幕&quot;, &quot;day&quot;: &quot;开学前夜&quot;, &quot;beat&quot;: &quot;进入角色&quot;, &quot;pace&quot;: &quot;短文本 → 短演绎&quot;, &quot;basis&quot;: &quot;序幕场景为本轮新增&quot;, &quot;text&quot;: [&quot;韩国虚构城市与海原高中；四姐妹、养父与每月检查的日常。&quot;, &quot;恩书把车叙律写入小聚名单，关系起点仍是略有好感。&quot;], &quot;play&quot;: [&quot;恩01 · 主持呈现开学前餐桌与通知，四玩家同场。&quot;, &quot;回应称呼或确认一个受邀的人；此时不讲谋害，不做恋爱确认。&quot;], &quot;change&quot;: &quot;从旁观设定到能以恩书的身份回应。&quot;, &quot;gate&quot;: &quot;明日开学，小聚名单留下四位熟人。&quot;, &quot;info&quot;: &quot;仅日常身份与角色关系。&quot;, &quot;actors&quot;: &quot;主持短演绎；四 NPC 候场。&quot;, &quot;duration&quot;: &quot;沿用两三页序幕方向；现场耗时尚未确认。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;长姐，想让车叙律来参加小聚。&quot;], [&quot;知夏&quot;, &quot;邀请熟悉的尹医生。&quot;], [&quot;多允&quot;, &quot;准备小聚，邀请泰伍。&quot;], [&quot;瑞真&quot;, &quot;邀请徐老师加入。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第一幕 序幕&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;p&gt;海原高中在韩国一座临海的城市里。下课以后，校门前会堵一会儿，赶着去补习的学生低头找车，便利店的门开了又关。风大的时候，拿着热饮的人先护杯盖，谁也顾不上摆一副青春洋溢的样子。&lt;\/p&gt;\n&lt;p&gt;你在这所学校念毕业班，今年二十一岁，比班里一些同学年长。前些年家里安排你休学，后来复学，毕业日期也跟着往后挪。有人问，你会简单讲两句。对方若露出抱歉的表情，你反倒要多费一句话，让他知道这没有什么不能问的。&lt;\/p&gt;\n&lt;p&gt;你的养父叫韩成宰，是海原高中的校长。校门口挂过他的照片，基金会的宣传里也有他的名字。你从学校出去，在家里吃饭，见到的仍是同一个人。别人夸校长有耐心，照顾过许多孩子，你会想起他给你们买过的衣服，病时陪你去过的医院。有些事情你知道得比旁人细。&lt;\/p&gt;\n&lt;p&gt;家里还有知夏、多允和瑞真。你们没有血缘关系，各自带着自己的过去来到这里，后来学会一边抢浴室，一边替对方留晚饭。你是年纪最大的那个，被叫姐姐的次数太多，有时别人刚开口，你已经先替她想好了办法。&lt;\/p&gt;\n&lt;p&gt;多允嫌你这一点很烦。&lt;\/p&gt;\n&lt;p&gt;“我说我饿了，你把面包给我就行，先别替我规划明天的早餐。”&lt;\/p&gt;\n&lt;p&gt;知夏在旁边点头，瑞真把你刚拿起来的手机按回桌上。她说大家都已经成年，查一家店几点开门，还不至于非得由姐姐来做。&lt;\/p&gt;\n&lt;p&gt;你承认有道理，过一会儿又偷偷查了。&lt;\/p&gt;\n&lt;p&gt;这座城市里也有清晨会。你听过这个名字，养父有时会去参加他们的活动，讲的多是感恩、奉献和照顾。你没有参与过他们内部的仪式。基金会每个月为你们安排检查，抽一管血，医生问近来睡得好不好。父亲说，这是他能替孩子们做的一点事。&lt;\/p&gt;\n&lt;p&gt;在今天以前，你把这些同关心放在一起理解。你尚未见到任何能够改变这个理解的材料。&lt;\/p&gt;\n&lt;p&gt;明天开学。家里餐桌上已经有新学期的通知，多允说要在学校办个小聚，先把几位平日里总替大家忙的人也叫来。知夏报了尹医生的名字，瑞真说可以问问徐老师。你拿起笔，在邀请名单上写下车叙律。&lt;\/p&gt;\n&lt;p&gt;他平时很忙，又很会把忙说得像不值一提。&lt;\/p&gt;\n&lt;p&gt;这回你想让他坐下来。事情做不做得完，可以明天再谈。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;主持将呈现一段开学前的短场景。你可以听，也可以在被叫到时用自己的方式回应。只需记住你是恩书，家里有三个妹妹，明天你们准备办一场小聚。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩01 序幕后的餐桌&lt;\/p&gt;\n&lt;p&gt;主持读家庭通知的片段，告知明日开学，基金会月度检查稍后安排。点到恩书时，只问小聚名单是否还要加一个熟悉的人。她可说名字，也可让主持指向她已经写下的车叙律。&lt;\/p&gt;\n&lt;p&gt;这一场让玩家认识家庭称呼和三个妹妹。不要播放谋害回忆，不出执行者，也不演已经相爱的四对。以把通知收好、明日带去学校结束。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;学校、家庭、明日的邀请&quot;, &quot;overviewPlay&quot;: &quot;短演绎，回应身份与称呼&quot;}, {&quot;id&quot;: 2, &quot;name&quot;: &quot;开学&quot;, &quot;day&quot;: &quot;第一日&quot;, &quot;beat&quot;: &quot;放松、认识&quot;, &quot;pace&quot;: &quot;较长身世 → 轻互动&quot;, &quot;basis&quot;: &quot;沿当前提要与 NPC 统稿&quot;, &quot;text&quot;: [&quot;恩书原生家庭的幸福、失去父母与姐妹相处；认识四位 NPC 的来路。&quot;, &quot;车叙律曾帮她改掉歪曲父母的发言稿。正文停在小聚将开始。&quot;], &quot;play&quot;: [&quot;恩02 · 四位 NPC 依次出场，轻游戏带出家庭、体检与基金会话题。&quot;, &quot;每个人都与四玩家有接触；留下次日能继续聊的事。&quot;], &quot;change&quot;: &quot;四位熟人成为各有脾气、值得再见的人。&quot;, &quot;gate&quot;: &quot;小聚里反复出现父亲与检查的问题，下一幕去四室追问。&quot;, &quot;info&quot;: &quot;不公开杀亲真相、尹的身份或车的责任。&quot;, &quot;actors&quot;: &quot;一名 NPC 面对全桌，四人依次上场。&quot;, &quot;duration&quot;: &quot;读本按实际字数另排；互动不靠惨事拉长。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;想保住父母真实回忆，也想被人照顾。&quot;], [&quot;知夏&quot;, &quot;让校医在没有病人的时候参加。&quot;], [&quot;多允&quot;, &quot;让帮忙搬东西的泰伍也坐下来。&quot;], [&quot;瑞真&quot;, &quot;让徐老师离开讲台，参加游戏。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第二幕 开学&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;h4&gt;一&lt;\/h4&gt;\n&lt;p&gt;你叫恩书。&lt;\/p&gt;\n&lt;p&gt;别人说你稳重，你通常不解释。稳重听着比爱操心好一点，尤其当你把妹妹们的雨伞数到第四遍时。&lt;\/p&gt;\n&lt;p&gt;你十二岁以前，也有人替你数东西。妈妈站在门边，问书包里有没有作业，爸爸已经把自行车擦好了，故意喊你，说前面的位置今天更贵，要收一颗糖。你从书包侧袋摸出昨晚留下的糖，递过去时又舍不得，问坐后面能不能不收。&lt;\/p&gt;\n&lt;p&gt;“后面也收。”他说，“但可以赊账。”&lt;\/p&gt;\n&lt;p&gt;妈妈在厨房里笑，叫他别把孩子教坏。他回头说做生意要灵活，被她赶去洗手，你趁着这个空当把糖塞回袋里。&lt;\/p&gt;\n&lt;p&gt;那时你很会赖账。爸爸晚上问起，你说今天学校发了新作业，脑子装不下欠债。他听得十分认真，甚至替你倒了杯水，庆祝你脑子里的生意又多了一样。&lt;\/p&gt;\n&lt;p&gt;周末的煎蛋由妈妈来做。你总觉得边缘那一点焦脆更好吃，想趁她转身先夹，被她拿筷子挡住。她会问你哪一次吃快了没有烫到，你说这次不同，这次已经吹过。&lt;\/p&gt;\n&lt;p&gt;爸爸在一边替你作证，说吹了很多，风都快从厨房吹到客厅了。妈妈看看他，把先出锅的那份也扣下来，让你们一起等。&lt;\/p&gt;\n&lt;p&gt;你小时候嫌他们管得多。吃饭要等，出门要穿外套，买本子也要问清准备拿来写什么。文具店里，你看中封面漂亮的，想多买一本，妈妈问那本用到哪门功课。你答得磕磕巴巴，爸爸便说他也需要，不如先替他选。&lt;\/p&gt;\n&lt;p&gt;回家以后，两本都被你拿走了。他坐在桌前，故意翻一个空白页，问能不能给他留半张。你把一本抱得更紧，给他撕了张草稿纸。他说恩书做事很周到，真是生不出气。&lt;\/p&gt;\n&lt;p&gt;后来你再去那条街，文具店还在，柜台后面的人已经换了。你买了一个普通本子，在门口站了一会儿。没有人在旁边说他也需要，你便只拿了那一本。&lt;\/p&gt;\n&lt;p&gt;父母死在九年前的一场火灾里。你没有看见他们最后的样子，也记不清大人们当时怎样把事故讲完。最清楚的一件事，是有人问有没有可以照顾你的亲属，你坐在椅子上，鞋子够不到地，觉得自己忽然成了需要被安排的一件事。&lt;\/p&gt;\n&lt;p&gt;韩成宰来到你面前，蹲下来，问你吃过饭没有。&lt;\/p&gt;\n&lt;p&gt;你那时没有回答。他没有催，又让人找来温水。后来的手续很长，他把能做的做了，将你接进自己的家。你开始有新床，有放书的柜子，也有一位会在你生病时过来摸额头的父亲。&lt;\/p&gt;\n&lt;p&gt;你记得这份照顾。你也记得原来的爸爸妈妈。家里给你留了放旧照片的地方，韩成宰没有要求你扔掉，你曾因此觉得他是一个很好的人。&lt;\/p&gt;\n&lt;p&gt;你第一次叫他爸爸，叫得很轻。他听到了，回过头，答应得很快。&lt;\/p&gt;\n&lt;h4&gt;二&lt;\/h4&gt;\n&lt;p&gt;知夏来时比你小一岁，也是在十二岁左右失去了父母。她起初不太愿意说家里的事，吃完饭便回房间，你去敲门，她隔着门说不用管。我知道了，你回答，却仍在门口站了一会儿。&lt;\/p&gt;\n&lt;p&gt;过了几天，她自己出来找你，问一份学校通知是不是需要家长签字。你找了笔，先把自己的那张递给她看。你们在餐桌上坐了一下午，她把看不懂的地方圈出来，你讲到一半，也有一项不知道。她抬头看你，脸上终于有一点笑。&lt;\/p&gt;\n&lt;p&gt;“原来你也不知道。”&lt;\/p&gt;\n&lt;p&gt;你说当然不知道。她把那张纸拉回来，说那一会儿一起问。&lt;\/p&gt;\n&lt;p&gt;多允和瑞真又过了些时候来到家里。多允不喜欢屋里太安静，明明第一次吃饭紧张得筷子拿不稳，也要问这道菜是谁做的，能不能再来一份。瑞真则把学校发的东西排得很整齐，她将你们都找不到的通知从文件袋里取出来时，你第一次觉得自己可以少做一点。&lt;\/p&gt;\n&lt;p&gt;四个人未必事事相同。知夏不想去的聚会，多允可能已经换好鞋；瑞真讲一个道理太认真，你和多允会先笑，笑完又觉得她说得对。你们吵过借衣服，也为谁忘记交材料争过。韩成宰回来，看你们在客厅各坐一头，问要不要他帮忙调解，你总先说不用。&lt;\/p&gt;\n&lt;p&gt;那时你想，既然已经有了一个能把大家接住的家，姐妹间这些小事，自己应该处理好。&lt;\/p&gt;\n&lt;p&gt;你处理得不总好。有一次知夏出去，忘记报到家的时间，你连着打了几个电话，她回来气得问为什么不能先给她十分钟。你说是担心，她说担心可以，别因为担心便把人问得无处可躲。&lt;\/p&gt;\n&lt;p&gt;那天你们都没有先道歉。第二天她把早餐推到你面前，说以后晚了会发消息，但你也得记得，她能自己回家。&lt;\/p&gt;\n&lt;p&gt;你答应了。之后拿起电话时，会先停一停。&lt;\/p&gt;\n&lt;p&gt;她们需要你的地方很多，愿意让你少管的地方也很明确。你有时候被她们嫌弃得没话可说，又觉得，这样也很好。妹妹若永远只会说姐姐你帮我，那你可能一辈子都不知道什么时候该坐下。&lt;\/p&gt;\n&lt;h4&gt;三&lt;\/h4&gt;\n&lt;p&gt;你和车叙律熟悉，是从一篇发言稿开始的。&lt;\/p&gt;\n&lt;p&gt;上学期学校准备一次公开活动，让你作为被校长收养的学生发言。初稿写得感人，读到中间，你却没法继续。纸上说你小时候缺少照顾，常常忍着饥饿，父母忙于自己的事，后来被校长带回家才第一次明白什么是幸福。&lt;\/p&gt;\n&lt;p&gt;你读着读着，很想把稿子合上。妈妈明明会挡住你夹煎蛋的筷子，怕你烫到；爸爸为了让你多买一个本子，明明站在文具店里陪你说了许多傻话。&lt;\/p&gt;\n&lt;p&gt;负责的人说是为了整体效果，细节可以再改。你不想给大家添麻烦，也不能把父母念成那样。车叙律来帮你排练，见你第一句读了三遍，问是句子不顺，还是有什么别的事。&lt;\/p&gt;\n&lt;p&gt;你把那段给他。他看了一遍，问是不是你自己写的。你说是提供的初稿，只能改少量措辞。&lt;\/p&gt;\n&lt;p&gt;他没有立即打开电脑，先问你愿不愿意念。&lt;\/p&gt;\n&lt;p&gt;你说不愿意。&lt;\/p&gt;\n&lt;p&gt;说完反倒松了一点。有人问到了这句，你才可以不用先解释自己知道学校也有难处。你向他讲父母对你很好，讲小时候怎样吃饭，怎样上学。他一直听，后来把电脑合上，让你先把那几个真实的片段记下来。&lt;\/p&gt;\n&lt;p&gt;你担心负责的人不同意。他说可以一起去问，改动写清，谁认为不妥，便讲清具体哪件事没有发生过。&lt;\/p&gt;\n&lt;p&gt;争了很久，你们终于留下那些回忆。学校需要的其他介绍缩短了一些，感人的词少了，你却第一次可以从头读到最后。&lt;\/p&gt;\n&lt;p&gt;第二天讲完，下台时你经过他，低声问自己卡词了没有。&lt;\/p&gt;\n&lt;p&gt;“没有。”他说，“很可惜。”&lt;\/p&gt;\n&lt;p&gt;你瞪他。他把旁边的水递过来，继续鼓掌，笑得像等你生气也是今天的一项乐趣。你接了水，手指擦过杯边，他没有忽然抓住你，也没有故意避开，你们都能把那一点接触放回普通的一天里。&lt;\/p&gt;\n&lt;p&gt;他在学校很有名，成绩好，长得好，也会处理麻烦。你以前听得多，反倒没觉得这些与你有什么关系。那次以后，你再看见他，会想起自己还没说出口时，他已经问过愿不愿意。&lt;\/p&gt;\n&lt;p&gt;后来一起整理活动资料，你累得趴在图书室桌上睡了一小会。他把剩下的一摞核完，关门前叫醒你，说久到可以把所有错都归你。你当即去看纸，知道被骗，才骂他不好笑。&lt;\/p&gt;\n&lt;p&gt;署名的时候，他说都算你也行。你把他的名字写到前面，自己的留在后面。事情是谁做的，你记得清楚，没必要因为感谢，把两个人的功劳都说成一个人的。&lt;\/p&gt;\n&lt;p&gt;走出图书室，你去等打电话的妹妹。他说同路，陪你走了一段。你问他累不累，他笑，说你刚睡醒就来检查别人。你说所以更该问，脑子不清醒还硬撑，很容易出错。&lt;\/p&gt;\n&lt;p&gt;他想了想，说下次你也可以叫醒他。&lt;\/p&gt;\n&lt;p&gt;你当时随口答好。后来每一次看他盯着材料出神，那句话便又会想起来。&lt;\/p&gt;\n&lt;h4&gt;四&lt;\/h4&gt;\n&lt;p&gt;你同另外三个人也熟。&lt;\/p&gt;\n&lt;p&gt;尹时安是校医。你带妹妹们去检查，有时替她们取用品，他总能分清哪份是个人病历，哪份是大家都可以拿的通知。有一回你替知夏问一项结果，他问知夏是否同意给你看。你觉得自己只是帮忙，解释了一句，他仍等你去问。&lt;\/p&gt;\n&lt;p&gt;你起初有点不服气。姐姐帮妹妹，有什么好怀疑的。后来知夏自己来取，向你说了愿意讲的部分，你便觉得医生坚持那一下也有用。你能关心她，又不必代替她知道全部。&lt;\/p&gt;\n&lt;p&gt;你问过尹医生自己有没有人照顾。他当时正把椅子往墙边推，听见，手停了一下，说有需要会找人。你说这话等于没说，他竟笑了，问你平时是不是也这么答妹妹。&lt;\/p&gt;\n&lt;p&gt;你承认有时候。&lt;\/p&gt;\n&lt;p&gt;姜泰伍总被人说得很凶，黄头发，肩膀宽，搬东西时很省事。你真正同他多讲几句话，是帮他整理哥哥的旧报道。他不想漏掉任何一段，剪下来的纸太多，一张压着一张，后来自己也分不清哪句话是谁讲的。&lt;\/p&gt;\n&lt;p&gt;你让他先别全订到一起。记者写的概括、家属原话和有录音的采访，各自放开。他盯着你排好的三摞，问这样会不会显得证据少了。&lt;\/p&gt;\n&lt;p&gt;你说至少你拿去的时候，知道每一句怎么来的。&lt;\/p&gt;\n&lt;p&gt;他想了很久，将手机里存的采访录音也列出来，请你看看有没有漏。你听见他讲哥哥时，声音会慢，便没有急着一口气做完。后来他搬完学校的桌子，特意过来问你要不要先去吃饭，你问多允呢，他脸上那一点躲闪实在太明显，你忍住没笑得太大声。&lt;\/p&gt;\n&lt;p&gt;徐允和是你们的化学老师。他讲课认真，生活上却时常把吃饭安排到最后。有一次你来交材料，看见桌上的便当一口没动，问能不能先盖上文件，五分钟后再看。他说等签完，你坐下，说好，那我等您吃完再交。&lt;\/p&gt;\n&lt;p&gt;他拿你没办法，先开了盒子。你们聊了一道以前做错的题，他让你自己说思路，听完承认你那一步没有问题，是题干条件写得含糊。你问他能不能在课堂上也讲清楚，他答应了，第二天真的重新解释。&lt;\/p&gt;\n&lt;p&gt;你不需要在他们中间立即选谁。他们愿意与你相处的方式各不相同，你也愿意分别看看，在学校的身份之外，他们还会怎样说话。&lt;\/p&gt;\n&lt;h4&gt;五&lt;\/h4&gt;\n&lt;p&gt;开学当天，韩成宰站在门口。看到你们四个人，他先问路上顺不顺，又问多允是不是昨晚睡得迟。她说没有，瑞真笑了一下，被多允偷偷碰了手肘。&lt;\/p&gt;\n&lt;p&gt;父亲告诉你，检查通知稍后会送来，其他事不急，开学先把课上好。他又嘱咐你别总照顾妹妹，自己有事也要说。你答应得很快，仿佛九年来每次听见这句，都知道应该把声音放在哪儿。&lt;\/p&gt;\n&lt;p&gt;小聚的桌面还需要腾。你去自治室，车叙律正把一摞文件放上柜顶，够得并不轻松。你说高的地方还是应该让泰伍来，他说再这样，学生会就只拿泰伍当梯子。你扶住那摞纸，说也不必为了尊重别人，假装自己够得轻松。&lt;\/p&gt;\n&lt;p&gt;他笑，认了，将文件稳稳放好。&lt;\/p&gt;\n&lt;p&gt;你临走问他下午会不会来。他说不来你们也能玩。你回头看他，认真了一点。&lt;\/p&gt;\n&lt;p&gt;“我问会不会来，没问能不能玩。”&lt;\/p&gt;\n&lt;p&gt;他看了你片刻，说会。&lt;\/p&gt;\n&lt;p&gt;你这才点头。桌子可以少搬一张，水也能由别人来倒。你想邀请的是他，若每次见面都只能谈谁来做事，这份熟悉也太累了。&lt;\/p&gt;\n&lt;p&gt;门外，多允正招手叫你。知夏问尹医生会不会真的带着药箱来，瑞真说徐老师已经问过游戏规则，但没能从她这里提前拿到答案。你们笑着把名单再看一遍，四个名字都在。&lt;\/p&gt;\n&lt;p&gt;你把笔放下，坐到桌边。今天可以先等别人来。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;小聚开始。四位受邀的人会依次来坐，你可以介绍自己，也可以拿平日里的相处逗他们几句。游戏里的问题若谈到父亲，你知道的是这些年的家庭生活和每月检查。你尚不知道这些事情有别的安排。&lt;\/p&gt;\n&lt;p&gt;你想让每个人真正坐下来参加。车叙律若又只谈帮忙，可以把刚才那句邀请再讲给他听；也可以换一种方式，让他知道你愿意同他待一会儿。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩02 开学小聚&lt;\/p&gt;\n&lt;p&gt;四人依次在全桌坐下。每人有一次轻游戏引出的提问，主持不强迫玩家以真实隐私回答。可改为讲一件角色记忆，也可跳过。共用要问的事情是家庭生活、检查与基金会活动；这时得到的是四姐妹的观察。&lt;\/p&gt;\n&lt;p&gt;车叙律先想帮忙整理，恩书若邀请他坐，他接着她的原话说自己记得今天是受邀的人。可示范问“既然不缺一个干活的人，那我坐你旁边行不行？”不接受便另坐，不将拒绝解释成她生气。&lt;\/p&gt;\n&lt;p&gt;尹时安若仍用校医身份挡话，恩书可问没有人不舒服时他准备怎样参加。他答“那我先把病人两个字放下。你想让我玩哪一个？”随后问她什么时候才能停止替大家数东西。他听实际答案，别重复一段医生式劝告。&lt;\/p&gt;\n&lt;p&gt;泰伍问恩书那份哥哥的报道整理有没有后续，向全桌承认她教自己区分原话与概括。恩书若夸他认真，他可反问她有没有不认真的时候，让她讲一个自己的小失误；不追问原生家庭惨事。&lt;\/p&gt;\n&lt;p&gt;徐允和被提醒先吃东西时，答“这回你们监督，我不拿签完再说当借口。”他可以参加一个需要判断的轻游戏，接受输或被纠正，问恩书在校长家里是否也总先让别人选。&lt;\/p&gt;\n&lt;p&gt;每人结束时留下一个尚可继续的话头。主持将四室预约开放作为下幕入口，不发完整杀亲证据。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;幸福过往与四人相识；停在聚会前&quot;, &quot;overviewPlay&quot;: &quot;四 NPC 依次与全桌接触&quot;}, {&quot;id&quot;: 3, &quot;name&quot;: &quot;恋爱体验&quot;, &quot;day&quot;: &quot;第二至第三日&quot;, &quot;beat&quot;: &quot;靠近，同时起疑&quot;, &quot;pace&quot;: &quot;相处文本 → 四轮一对一&quot;, &quot;basis&quot;: &quot;保留每个玩家都谈四人的卖点&quot;, &quot;text&quot;: [&quot;回收小聚实际发生的回应，发现编号、日期和交接疑点。&quot;, &quot;恩书与车吃饭、读练习册，也与校医、泰伍、徐老师有私人谈话入口。&quot;], &quot;play&quot;: [&quot;恩03车／医／伍／徐 · 四室并行，四轮后每人见完四位 NPC。&quot;, &quot;每室有一件自己的事和一个调查问题；愿意亲近可更近，证据独立交付。&quot;], &quot;change&quot;: &quot;好感有共同经历，疑点有可追查出处。&quot;, &quot;gate&quot;: &quot;资料回到公共区，四姐妹交叉核对。&quot;, &quot;info&quot;: &quot;发现调查与检查异常；第四幕以前不完整确认杀亲。&quot;, &quot;actors&quot;: &quot;一室一演员一玩家；轮转无重复占用。&quot;, &quot;duration&quot;: &quot;会议规划 15 分钟 × 4 轮；本轮建议每轮 12 分钟互动＋3 分钟换房。未试演。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;车的家庭回忆更私人；其余三室都有照顾与反向关心。&quot;], [&quot;知夏&quot;, &quot;见四人，尹听她自己的毕业打算。&quot;], [&quot;多允&quot;, &quot;见四人，泰伍让她认识强壮之外的恐惧。&quot;], [&quot;瑞真&quot;, &quot;见四人，徐允和接受她追问、纠正。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第三幕 恋爱体验&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;h4&gt;一&lt;\/h4&gt;\n&lt;p&gt;小聚结束以后，你把桌上的杯子收在一起。刚才有人输得不服气，有人讲了比平常多的话。你记得自己听过什么，也记得哪些问题没有答完，那些都是今晚实际发生的事情，不需要别人再替你重写一遍。&lt;\/p&gt;\n&lt;p&gt;你仍会想起他们问到父亲的时候。有人在意检查的安排，有人问基金会的活动，有些话听着随意，问完却没有立即接着笑。你能记得生活里的细节，但几个人同时关心到那儿，便有了需要再问一遍的地方。&lt;\/p&gt;\n&lt;p&gt;回到家，你同妹妹们讲起这件事。瑞真把近期通知取出来，多允问，如果他们真在查父亲，为什么不直接说。知夏说也可能只是我们还没问到。她将一张纸递过来，让你看看上面的日期。&lt;\/p&gt;\n&lt;p&gt;这份通知你曾收好，按惯例写了检查时间，没有往下细看。现在你发现同一项检查在不同地方用着不同名称，有一个编号在物资目录里也出现过。编号相近能说明多少，你还不知道，至少可以带去请人讲清楚。&lt;\/p&gt;\n&lt;p&gt;你过去常替父亲解释学校里的事情。有人抱怨安排太紧，你说他可能忙；有人问基金会为什么选你们出席，你会想他也许希望孩子们多见一点人。那些解释有时出于熟悉，有时只是你怕别人把事情想得太坏。&lt;\/p&gt;\n&lt;p&gt;这一次，你把准备出口的话停住了。若连去问的人都先替父亲作答，几张纸放在桌上，也会变成没人愿意多看的一摞。&lt;\/p&gt;\n&lt;p&gt;第二天到学校，你想分别去找四个人。你需要听他们亲口讲，平时那一点好感仍在，也不用因为一个疑问，突然把每一扇门都当成审问室。&lt;\/p&gt;\n&lt;h4&gt;二&lt;\/h4&gt;\n&lt;p&gt;车叙律最近又忙。中午你拿着一张改错的值班表去找他，说原本确认过的时间后来被人改了。他先核记录，发现改动出自他，便把署名补上，没有让你替那次错误背锅。&lt;\/p&gt;\n&lt;p&gt;你看他写，忍不住问为什么认小错也要先想两秒。&lt;\/p&gt;\n&lt;p&gt;“可能在找别人有没有份。”他答。&lt;\/p&gt;\n&lt;p&gt;你问找到了没有。他把笔放下，说没有，所以全归他。你笑，拿回纸，问午饭吃了没有。&lt;\/p&gt;\n&lt;p&gt;他说还有一份回复，十分钟。你便在旁边整理自己的东西，告诉他十分钟后汤会凉。他看你坐下，问要等？你将手里的材料举了举，说刚好也有事，别当成专门监工。&lt;\/p&gt;\n&lt;p&gt;十分钟到了，你真的站起来。他看一眼时间，第一次没有继续说马上，将手机收好，同你一起去食堂。&lt;\/p&gt;\n&lt;p&gt;你的袖子差一点碰到汤，他把碗往里挪了挪，说校服也是有限资源。你学多允的语气，问能不能先说人话。他笑，换了一句，说怕你烫到。&lt;\/p&gt;\n&lt;p&gt;这句更好听。你没有告诉他，只让他先去找座位。&lt;\/p&gt;\n&lt;p&gt;吃饭时，你讲前些日子回过旧街，文具店还在，也讲爸爸曾怎样替你多买一个本子。他听完说妈妈也会这样，知道他想多要，故意让他找个诚实的理由。有时候找不到，她先给，再让他把理由欠着。&lt;\/p&gt;\n&lt;p&gt;你问后来还完没有。他笑，说总有没还完的。&lt;\/p&gt;\n&lt;p&gt;他叫母亲车雅琳，六年前失去了她。你从别人那里听过这个名字，知道他曾因家庭变故休学，今天却是第一次听他讲那些同调查没关系的小事。你能追问，也能先让他把饭吃完。自己的父母被问起时，你也不总愿意一口气讲到最后，没必要到他这里便忘了。&lt;\/p&gt;\n&lt;p&gt;第三天早晨，他从外头回来，带一本旧练习册。你问吃过没有，他答吃了，答得比平常快。桌上还有一份面包，你说谁想吃都可以拿。他拿了，你便笑他，吃过也不妨碍第二份。&lt;\/p&gt;\n&lt;p&gt;他不再辩。你问能不能看那本书，他点头，把其中一页翻出来。小时候的字写得用力，背面也有印子，母亲留下的批注却很平静，告诉他错了一步，下次不用把前面都说成没学过。&lt;\/p&gt;\n&lt;p&gt;你说她很会讲。他答是，声音停在那里。&lt;\/p&gt;\n&lt;p&gt;你本来还想问，她被他气得说不出话时怎么办。话讲了一半，见他喉咙有点紧，便没往下追。过了一会，他自己说起母亲会拿作业来反问，真生气时反倒不提作业。你们又能笑了。&lt;\/p&gt;\n&lt;p&gt;最后他问面包在哪家买。你将店名和路线讲给他，他听得很认真，问还卖什么。你怀疑他是不是准备管食堂，他说至少午饭不能仍靠第二份早餐。&lt;\/p&gt;\n&lt;p&gt;这样的闲话也值得花时间。你平时同他谈的多是该怎么做，难得能在一间放满材料的屋子里，只讲一种面包好不好吃。&lt;\/p&gt;\n&lt;p&gt;你对他的好感已经有了具体的来路。与此同时，桌上的疑点还在，你没有忘记自己要问什么。&lt;\/p&gt;\n&lt;h4&gt;三&lt;\/h4&gt;\n&lt;p&gt;尹医生那里也有让你在意的事。&lt;\/p&gt;\n&lt;p&gt;你这两天替大家取过检查通知，在门边见到连续几份结果，格式与措辞过分相似。他允许查看的部分很清楚，涉及知夏或妹妹们个人内容的，需要她们各自同意。你照他说的做，没有因为是姐姐，便把整份东西都带走。&lt;\/p&gt;\n&lt;p&gt;你问这些检查到底是在看什么。他把可以公开说明的部分讲给你，尚不能确证的，就说需要继续查。你喜欢他这点，有些人讲得很肯定，肯定到听的人也不好意思再问，他却肯承认手里还有空缺。&lt;\/p&gt;\n&lt;p&gt;他常问你有没有不舒服。你有时会很快说没事，答完自己先停一下，觉得这句话同他那句有需要会找人差不多。你能提醒妹妹不要逞强，轮到自己，被人多看一眼便想先替对方省事。&lt;\/p&gt;\n&lt;p&gt;你想这次可以讲具体一点。近来有没有睡好，什么事让你烦，愿意说哪一件，就从那件开始。他是医生，也是一个能同你坐着讲话的人。你还想知道，他离开这间屋子时，会给自己留什么样的生活。&lt;\/p&gt;\n&lt;p&gt;泰伍的材料又添了几份。他哥哥叫姜泰民，六年前死在仓库火灾里，后来被说成纵火者。泰伍保存的采访中，有人讲哥哥曾救过人，事情还没有得到完整确认，他仍在找更多依据。&lt;\/p&gt;\n&lt;p&gt;你记得之前排好的几摞报道，问他录音有没有一起整理。他点头，特意把其中一项出处递给你看，像是作业做完，想听你说这回没有漏。&lt;\/p&gt;\n&lt;p&gt;你不想拿自己父母的火灾去替他解释哥哥的死。两件事都有火，发生的年头、地点和经过却不同。他需要的是哥哥做过什么被人看清，你需要的是有人记得自己原来的家。你们可以听彼此讲，各自那份痛不必赶着合在一起。&lt;\/p&gt;\n&lt;p&gt;体育器材室里，东西摆得很满。他总会先挪出能走的地方，让来的人坐。你问他休息时都做什么，他说练拳。你笑说这听着还是很累。他想了想，反问你不管妹妹的时候做什么。&lt;\/p&gt;\n&lt;p&gt;你竟一时答不上来。他看着你，没有笑得很得意，只说那以后想起了也能再讲。&lt;\/p&gt;\n&lt;p&gt;徐老师有一份新的交接说明。你来问日期，他拿出原先的记录，把后来补写的地方标明，没用老师的身份要求你先相信。&lt;\/p&gt;\n&lt;p&gt;你问是不是在查父亲安排的体检。他承认有些地方不对，也讲清哪些能给你看。你能听到他对一项结论迟疑，便知道迟疑有时也有价值。事情还没核完，慢一点比急着向大家宣布更可靠。&lt;\/p&gt;\n&lt;p&gt;你拿出一道以前没弄懂的题，他陪你从条件重做。等讲到一半，你发现他停了两次，肩膀动作也不很自然，问是不是累。他说先把题做完。你将笔放下，说题可以接着做，人也可以先歇一会儿。&lt;\/p&gt;\n&lt;p&gt;他望着你，终于把椅背往后靠一点。你没有趁这个空当问出他所有不愿讲的事。今天能多了解一个人，也包括知道他什么时候愿意停下。&lt;\/p&gt;\n&lt;h4&gt;四&lt;\/h4&gt;\n&lt;p&gt;你们四个人准备把能公开的资料放在一起。瑞真坚持先写出处，多允问一句话能不能讲简单，知夏确认哪些是她愿意提供的个人内容。你给每张纸留了空白，不知道的地方先不要填。&lt;\/p&gt;\n&lt;p&gt;照过去的习惯，你该最后将它们收好，替大家记住下一步去哪儿。今天你问妹妹们，谁愿意带哪份，谁还有自己的问题。&lt;\/p&gt;\n&lt;p&gt;知夏拿走校医室那一项，瑞真将日期表放进袋里，多允说她还要问泰伍。你听完才写自己的安排。你们共同查一件事，各自仍有能直接开口的人。&lt;\/p&gt;\n&lt;p&gt;你想到车叙律那本练习册，也想到尹医生说需要继续查。父亲的解释还没有到这里来，不能让它抢在所有人的话前面。&lt;\/p&gt;\n&lt;p&gt;明天再见到他，你也许可以照常叫爸爸，再问一句通知上的名字为什么不同。你尚未决定这件事会走到哪里，只是不准备把问过的问题重新折好，塞回没人会看的地方。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;你将依次去学生自治室、校医室、体育器材室和化学准备室。每个房间都可以谈一件关于对方本人的事，再谈一件你带来的疑点。&lt;\/p&gt;\n&lt;p&gt;在自治室，你想同车叙律聊练习册和那些欠着的理由，也想问基金会目录的出处。去校医室，可以谈你最近的状态，问检查到底说明了什么。见泰伍，可以继续整理哥哥的采访，问他歇下来时怎样过。见徐老师，可以把一份通知核清，也可以请他先给自己留几分钟。&lt;\/p&gt;\n&lt;p&gt;你愿意离谁近一点，都可以按当时的感觉决定。拿资料不需要先答应示好，没说出口的喜欢也不用在离场前交出来。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩03 四室恋爱体验&lt;\/p&gt;\n&lt;h4&gt;轮转表&lt;\/h4&gt;\n&lt;div class=\&quot;table-responsive\&quot;&gt;&lt;table class=\&quot;table table-sm\&quot;&gt;\n&lt;tr&gt;&lt;th&gt;轮次&lt;\/th&gt;&lt;th&gt;学生自治室 车叙律&lt;\/th&gt;&lt;th&gt;校医室 尹时安&lt;\/th&gt;&lt;th&gt;体育器材室 姜泰伍&lt;\/th&gt;&lt;th&gt;化学准备室 徐允和&lt;\/th&gt;&lt;\/tr&gt;\n&lt;tr&gt;&lt;td&gt;一&lt;\/td&gt;&lt;td&gt;恩书&lt;\/td&gt;&lt;td&gt;知夏&lt;\/td&gt;&lt;td&gt;多允&lt;\/td&gt;&lt;td&gt;瑞真&lt;\/td&gt;&lt;\/tr&gt;\n&lt;tr&gt;&lt;td&gt;二&lt;\/td&gt;&lt;td&gt;瑞真&lt;\/td&gt;&lt;td&gt;恩书&lt;\/td&gt;&lt;td&gt;知夏&lt;\/td&gt;&lt;td&gt;多允&lt;\/td&gt;&lt;\/tr&gt;\n&lt;tr&gt;&lt;td&gt;三&lt;\/td&gt;&lt;td&gt;多允&lt;\/td&gt;&lt;td&gt;瑞真&lt;\/td&gt;&lt;td&gt;恩书&lt;\/td&gt;&lt;td&gt;知夏&lt;\/td&gt;&lt;\/tr&gt;\n&lt;tr&gt;&lt;td&gt;四&lt;\/td&gt;&lt;td&gt;知夏&lt;\/td&gt;&lt;td&gt;多允&lt;\/td&gt;&lt;td&gt;瑞真&lt;\/td&gt;&lt;td&gt;恩书&lt;\/td&gt;&lt;\/tr&gt;\n&lt;\/table&gt;&lt;\/div&gt;\n&lt;p&gt;每一玩家与四位演员各见一次，同一演员不同时在两处。其他三个玩家没有空等段。没有四间隔音空间时错开房位并降低音量，无法保密则顺序开场并让其余人读下一段可公开材料，不假称仍有同等总时长。&lt;\/p&gt;\n&lt;h4&gt;恩03车 先别考试&lt;\/h4&gt;\n&lt;p&gt;入口是恩书带目录来核，桌上有一份标明未确证的编号对照。叙律先让她选坐的位置，问是否还记得练习册那句，自己错一步时是不是也爱把整页重写。他的私人目标是被她喜欢，调查目标是了解家庭线索；隐瞒采样责任、主册删改计划和单人退路。&lt;\/p&gt;\n&lt;p&gt;她谈家庭，他从她说过的具体细节接，讲车雅琳留下练习册的普通往事。她只查文件，他先给出处，完成后问今天能不能留几分钟不谈任务。可共同选择下一次吃什么、约一段不办事的散步，不能直接宣布她已答应恋爱。&lt;\/p&gt;\n&lt;p&gt;可选亲近是并排看书、帮她挪近资料，询问后短暂握手。拒绝便保持距离，仍讲完可公开的线索。她提前问他是否利用她，他承认在查韩成宰，也承认希望得到她愿意讲的家庭信息，不假称自己全无目的；涉及自己的罪行不临时编一个能被后文推翻的清白故事，可答现在没有把全部讲出。主持记录她追问到哪一步。&lt;\/p&gt;\n&lt;p&gt;离场时她得到目录出处和交接疑点，带着是否愿意再同他单独吃饭的实际回答。材料不以饭约换取。&lt;\/p&gt;\n&lt;h4&gt;恩03医 姐姐今天自己来&lt;\/h4&gt;\n&lt;p&gt;尹时安把能公开的检查说明放在桌上，问“今天妹妹不在，你想先说你自己吗？”他要知道恩书真实的需要，也要阻止异常采样；此时不公开杀亲身份。她可讲睡眠，也可问毕业打算或他离开校医室后的生活。&lt;\/p&gt;\n&lt;p&gt;她问他是否总独自照顾人，他可以诚实说自己不太习惯请求，再问她会向谁开口。她答谁，他就记住谁，不替她指定自己。她关心他的状态，他会接受一句提醒、坐下喝口水，让关心有实际回应。&lt;\/p&gt;\n&lt;p&gt;可选动作是由她自己移动椅子，坐在舒服的位置；若想触碰或让他查看手腕，先确认许可，拒绝可用口头说明或在纸上指认。所有健康话题保持角色内照料，不提供真实医疗诊断。&lt;\/p&gt;\n&lt;p&gt;她只想取材料，他照常讲清三份结果为何值得复核，给可公开的对照；涉及姐妹隐私的仍由本人确认。她怀疑他是执行者，他不无依据否认，可说关于自己过去需要正式说明，主持把明确质问接入第五幕供述安排，必要时提前独立交供述并同步四家属，后续第五幕改为追问与后果，不逼玩家假装没猜到。&lt;\/p&gt;\n&lt;p&gt;离场时她知道异常需要复查、个人病历有授权边界，也可获得一段被当作本人关心的经历。&lt;\/p&gt;\n&lt;h4&gt;恩03伍 这回轮到你&lt;\/h4&gt;\n&lt;p&gt;泰伍拿出已区分来源的旧报道，请她核一个最难放置的采访片段。他希望哥哥的事实说得清，也愿意回馈恩书之前的帮助。此时只讲哥哥案的线索，不提前平反。&lt;\/p&gt;\n&lt;p&gt;资料核完，他把话题转回她。“你问我休息时做什么，我还真想知道你不忙的时候什么样。”她若答没有时间，他问一件当晚能做的小事，让她选想喝什么或要不要到门边吹一会儿风。他陪她做完，不转成必须谈多允。&lt;\/p&gt;\n&lt;p&gt;她愿意靠近，可一起坐在搬空的凳子旁，或由她把一段录音暂停，听他讲当时为什么不肯放弃。牵手只在询问后进行，替代动作是把水放在可取的位置。宠爱表现在他记得她的选择，不靠体格逼她接受。&lt;\/p&gt;\n&lt;p&gt;她担心追仇，他讲正在整理路线和证人，愿意听她提醒；不承诺永远不会冲动。沉默时他先完成报道核对，问下一次可否让他替她做一件小事。拒绝便收束。&lt;\/p&gt;\n&lt;p&gt;离场时她得到转移编号的出处和录音清单建议，记下他也能反过来照顾她的实际行为。&lt;\/p&gt;\n&lt;h4&gt;恩03徐 五分钟先归你&lt;\/h4&gt;\n&lt;p&gt;徐允和准备交接说明，目标是澄清材料和认识这个总照顾别人的学生。只公开现有疑点，海娜完整经过与受虐坦白留待之后。恩书提醒休息时，他真的把文件放下，再让她选先做题还是先聊。&lt;\/p&gt;\n&lt;p&gt;她选题，他承认一处条件含糊，按她思路走，不用老师身份占住答案。她选聊天，他问她平时给别人五分钟时，自己那五分钟拿来做什么。若她反问他，他讲自己会拖延休息，愿意在这五分钟先听她说完。&lt;\/p&gt;\n&lt;p&gt;可选亲近是一起俯身看同一页，给她自己决定椅子的距离；愿意被他短暂握手可询问，拒绝便递笔或把纸推近。他与成年玩家的当下好感是开放相处，未成年时期只保留教学照料。&lt;\/p&gt;\n&lt;p&gt;她质问调查目的，他承认在搜集不可信安排的证据；关于还没确证的结论，讲出缺哪一项。她想结束，他把需要带走的出处交齐，不要求先完成一个暧昧动作。&lt;\/p&gt;\n&lt;p&gt;离场时她得到真假报告的核法和交接疑点，可以留下再来聊题或生活的约定。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;共同相处；检查与交接出现疑点&quot;, &quot;overviewPlay&quot;: &quot;四室四轮，每人都见四 NPC&quot;}, {&quot;id&quot;: 4, &quot;name&quot;: &quot;真相与清晨会&quot;, &quot;day&quot;: &quot;第四日傍晚&quot;, &quot;beat&quot;: &quot;失衡 → 求证 → 护人&quot;, &quot;pace&quot;: &quot;查出主使 → 入场 → 演绎&quot;, &quot;basis&quot;: &quot;文本与现场边界保持现有安排&quot;, &quot;text&quot;: [&quot;筛选、付款、指令与四家庭事故接上，养父是主使。续命信念是骗局。&quot;, &quot;四姐妹分别消化；准备副本与接应，披黑袍混入守晨礼。读本到旁观为止。&quot;], &quot;play&quot;: [&quot;恩04 · 查验、身份暴露、演员打戏与撤离；四姐妹会合，主册留在内部。&quot;, &quot;通过专属共享细节辨认预设 CP；撤出后短出片，可不牵手、不拍摄。&quot;], &quot;change&quot;: &quot;重新认识养父；从四人开放相处进入专属关系剧情。&quot;, &quot;gate&quot;: &quot;撤出、数清同伴、带出材料已保管，进入第五幕。&quot;, &quot;info&quot;: &quot;先揭韩成宰主使；尹的执行者身份留第五幕。辨认真心不等于确认 NPC 清白。&quot;, &quot;actors&quot;: &quot;全桌公幕；打戏由演员完成，玩家有观看和撤离点。&quot;, &quot;duration&quot;: &quot;保留停读与核出处的时间；演绎和出片时长待排演。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;车真心护她，也仍追主册；不能由保护直接判清白。&quot;], [&quot;知夏&quot;, &quot;被尹照护，还未知杀亲身份。&quot;], [&quot;多允&quot;, &quot;泰伍陪她查父母，也核哥哥的救人记录。&quot;], [&quot;瑞真&quot;, &quot;与徐核海娜报告和家庭资料。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第四幕 真相与清晨会&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;h4&gt;一&lt;\/h4&gt;\n&lt;p&gt;第四日，资料到了。&lt;\/p&gt;\n&lt;p&gt;最初只是父母事故中的一项日期，同基金会记录对不上。你先请保存者重核，想知道是不是后来补录，或者复印时少了一页。瑞真将几份记录放在一起，替你把发生在前面的那一项指出来。&lt;\/p&gt;\n&lt;p&gt;那是你家的资料。父母还活着，基金会已经记录过你的家庭情况，从公益检查里取走血型和遗传标志，标记你符合他们想找的条件。后来的付款、指令与家庭安置安排，又分别同火灾前后的日期接在一起。&lt;\/p&gt;\n&lt;p&gt;你盯着那个比事故早的日期，手里仍拿着原先的说明。&lt;\/p&gt;\n&lt;p&gt;韩成宰来到你面前以前，已经知道要接谁回家。&lt;\/p&gt;\n&lt;p&gt;你请人把出处再讲一次。讲到第二遍，你才发现自己刚才全听见了，只是仍想让其中某一句不同。若是一份单独的文件，你还能说需要查；现在不同保管方留下的资料接上，谁授权，谁付款，提前为谁安排照料，已经不能只用一处日期错误解释。&lt;\/p&gt;\n&lt;p&gt;你把属于父母那页慢慢放下，指尖还留在纸上。&lt;\/p&gt;\n&lt;p&gt;爸爸的自行车，妈妈守着的煎蛋，文具店里多买的本子。他们没有知道这份筛选，更没有愿意用自己的命替女儿换一个所谓更好的家。那些你以为能同新生活并存的过去，被一个你叫了九年爸爸的人提前算进了他的安排。&lt;\/p&gt;\n&lt;p&gt;你想起第一次叫他的声音。轻轻的一句，他回头很快。&lt;\/p&gt;\n&lt;p&gt;现在你不知道该怎样再叫。&lt;\/p&gt;\n&lt;h4&gt;二&lt;\/h4&gt;\n&lt;p&gt;妹妹们的纸也在桌上。知夏的父母死在八年前的车祸里，多允的父母七年前溺亡，瑞真家里是同年发生的燃气事故。每个人约十二岁失去家庭，事故之前，都有相应的筛选和指令。&lt;\/p&gt;\n&lt;p&gt;韩成宰想要的是孩子们的血。他相信一个被爱着长大的孩子，血里会有能够替他续命的东西。他先挑中你们，毁掉原来的家，再把失去亲人的孩子养在身边，给照顾，也每月取走一管血。&lt;\/p&gt;\n&lt;p&gt;这里没有使人变年轻的医学依据。所谓能量，是他相信、也让清晨会信的一套骗局。为这套话付出生命的人，却是真的。&lt;\/p&gt;\n&lt;p&gt;你有一瞬间很想替所有人问完。知夏的资料已经到了第三页，多允看着自己的那份没说话，瑞真将笔拿起又放下。你想把她们手里那些难读的段落接过来，自己先读，仿佛这样便能少让她们疼一点。&lt;\/p&gt;\n&lt;p&gt;知夏将你快滑落的那张接稳，放回你面前。&lt;\/p&gt;\n&lt;p&gt;“你的也还没看完。”她说。&lt;\/p&gt;\n&lt;p&gt;你望着她，终于没有伸手去拿别人的。瑞真核出一处年份，多允把水杯移开，免得碰到纸。你们没有变得一样，也没有人能在这一刻替另一个人讲该恨多少。&lt;\/p&gt;\n&lt;p&gt;你问要不要先停。多允说等她读完这一段，瑞真点头，知夏坐到你旁边。于是你也继续往下看。&lt;\/p&gt;\n&lt;h4&gt;三&lt;\/h4&gt;\n&lt;p&gt;车叙律站在桌边。你把一份材料递给他，请他核目录上的日期。他给出能核清的部分，也讲了原件保管在哪儿，没有拿一个空缺替你指定执行者。&lt;\/p&gt;\n&lt;p&gt;你问自己以后是否还能记得韩成宰替你看病。那个念头很难开口，听着像在替他找借口。可你确实记得他摸过额头，记得他去接晚归的你，车里的空调开得太大，你说冷，他便调低。&lt;\/p&gt;\n&lt;p&gt;你很讨厌自己居然还记得。&lt;\/p&gt;\n&lt;p&gt;若这些都变成假的，九年的生活该放到哪里？若这些还是真的，父母又为什么必须死？你坐着，第一次想不出一句能够替妹妹们解释清楚的话。你也不想先做那个最懂事的人。&lt;\/p&gt;\n&lt;p&gt;车叙律没有替你把纸取走。他将一张便于核对的记录放近，窗外有人讲话，谈作业和新开的店，他把窗半合上，让你少听一点。&lt;\/p&gt;\n&lt;p&gt;你望着他的手，想起图书室那个傍晚。他把剩下的资料核完，让你睡到该关门才叫醒。那时候你醒来第一件事是查纸，第二件事才是笑他。今天他仍在你能看见的地方，能够回答一项日期，不能替你的父母回来。&lt;\/p&gt;\n&lt;p&gt;你希望他留一会儿，也希望他讲清自己知道多少。这两件事都可以问。感谢一个人陪你，并不需要先把接下来所有的问题收回。&lt;\/p&gt;\n&lt;p&gt;徐允和送来报告和交接凭证，哪些重新印过，哪些日期有问题，分别标明。海娜是他从前教过的学生，她的死亡被遮掩，相关报告又有补造。死因还没有全部查清，这些材料会继续核。&lt;\/p&gt;\n&lt;p&gt;泰伍去联系哥哥案里的证人，核当时的路线。尹时安在一旁为需要照护的人准备用品，他很安静。你能看见他今天的沉默，不能从沉默替他写出过去。&lt;\/p&gt;\n&lt;p&gt;这些人都有自己的事。他们肯帮你们，你愿意听，也仍要把能确认和不能确认的部分分清楚。&lt;\/p&gt;\n&lt;h4&gt;四&lt;\/h4&gt;\n&lt;p&gt;清晨会傍晚举行守晨礼。你们从几处记录中确认，检查留下的样本会进入他们的仪式，为几天后的奉还礼做准备。&lt;\/p&gt;\n&lt;p&gt;你想亲眼看看。韩成宰在家里讲关心，在宣传里讲照顾，现在你需要知道，他在人们看不到的地方，怎样解释那些从你们身上取走的东西。&lt;\/p&gt;\n&lt;p&gt;同行的人将能确认的入口、身份和接应讲清。黑袍只能使来人不那么显眼，韩成宰若正面见到你的脸，照样能认出养了九年的孩子。你们要待在彼此能看见的范围里，不能把一件衣服当作所有问题都已经解决。&lt;\/p&gt;\n&lt;p&gt;证据已经留了副本，外面有人接收。进去以后能看见多少仍有风险，若不愿进去，可以在外侧接收资料、等同伴回来。你不必靠站到最危险的地方，证明自己有多爱父母。&lt;\/p&gt;\n&lt;p&gt;你拿起那件黑袍，先看妹妹们。多允低头检查衣摆，瑞真确认名单，知夏问一处程序。你等她们各自整理完，才处理自己的领口。&lt;\/p&gt;\n&lt;p&gt;车叙律问穿着会不会不舒服。你看他一眼，忽然想到自己早些时候曾很认真地等他十分钟，只为了让他喝上没凉的汤。现在仍可以有一个人担心你冷，担心你被布边绊到。你没有准备立刻给这样的关心取名。&lt;\/p&gt;\n&lt;p&gt;他指了一个便于辨认的位置，进去以后能在那里找到他。你记住，也把妹妹们所在的方向再看了一遍。&lt;\/p&gt;\n&lt;p&gt;大厅里的查验很慢。你听到不熟悉的称呼，看到名目被一项项核过，才知道清晨会有比外面宣传更细的一套规矩。韩成宰在台前同人讲话，笑容同开学时差不多。&lt;\/p&gt;\n&lt;p&gt;样本被送往里面。誓词里仍在谈爱，谈纯净，谈一个人应当为被赐予的照顾奉还多少。&lt;\/p&gt;\n&lt;p&gt;你站在黑袍下面，记得母亲伸筷子挡住你的手，也记得爸爸问你坐前面还是后面。那些事情全都发生过，不会因为台上的人先讲了一句照顾，便归他所有。&lt;\/p&gt;\n&lt;p&gt;仪式即将开始。你望向台前，也望了一眼同行的人。&lt;\/p&gt;\n&lt;p&gt;先看清，他要你们奉还的究竟是什么。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;接下来是守晨礼现场。你会看见查验、阻拦与撤离中的行动，也有机会辨认谁对你有更私人的在意。先按现场情况回应；文本没有替你决定已经握住谁的手、答应谁的感情。&lt;\/p&gt;\n&lt;p&gt;若你待在外侧，主持会通过同伴带出的材料让你得到同等的必要信息。参加短演绎时，可以说一句话、站到同伴旁边，也可以选择不做身体动作。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩04 守晨礼、撤离与专属辨认&lt;\/p&gt;\n&lt;p&gt;先将四家属资料与基金会授权交叉核清。玩家可以停读、要求来源或让姐妹代读一段，不以哭泣为下一场条件。四家的材料都应交到本人手里。&lt;\/p&gt;\n&lt;p&gt;读本停在仪式即将开始。主持模拟誓词与样本交接，让玩家看见所谓纯净、奉还如何进入流程。韩成宰的续命观念为骗局，灯光或台词不展示实际超自然效力。&lt;\/p&gt;\n&lt;p&gt;共同流程是来人核身份，通路受到阻拦，四 NPC 配合让四玩家重新会合并撤出；主册被取回内部。查验可以由主持与场务扮演，四恋陪在玩家附近保留回应空间。打戏由演员预排完成，玩家位于标定的观看与撤离点，不抓拽、不临时要求对打。拒绝入场的玩家在外侧接取同伴传回的纸，不被关在空房。&lt;\/p&gt;\n&lt;p&gt;叙律对恩书的专属表现接前文的图书室和邀请。可演“恩书，看我这里。那次我叫你醒来，今天你先别一个人站着。”他把她能走的方向指出，让她自己靠近；同时仍追看主册转交的位置，留真实可见的矛盾。不要演他公开弃主册从此救全体，也不要让保护等同清白。&lt;\/p&gt;\n&lt;p&gt;其他 NPC 对所有危险中的玩家提供保护，私人识别按各自已经形成的共同经历落在专属对象上。主持邀请四玩家分别指出对自己有特别在意的人，接预设四对关系。若猜错，NPC 补一个共享细节再确认；玩家可不接受恋爱，后续专属剧情继续作为相关人物的对话。&lt;\/p&gt;\n&lt;p&gt;出片在撤出后的稳定空间，约一至两分钟。四人可站在各自愿意的位置，恩书可以说“我的家有人等过我，那些日子我记得。”叙律答“你愿意讲的，我听。”也可以用现场她实际说过的话。无牵手版本同样有效；不愿拍摄可以只演或直接略过。不为拍摄重演家庭死亡。&lt;\/p&gt;\n&lt;p&gt;结束条件是四姐妹会合、同伴人数确认、带出的材料有人保管，主持交代主册仍在内部，进入第五幕。若演员临场表现未完成某一亲密动作，下幕不用补成已经发生。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;养父主使杀亲；黑袍入场旁观&quot;, &quot;overviewPlay&quot;: &quot;查验与打戏、撤离、辨认专属、短出片&quot;}, {&quot;id&quot;: 5, &quot;name&quot;: &quot;复仇&quot;, &quot;day&quot;: &quot;第五至第六日&quot;, &quot;beat&quot;: &quot;消化 → 追问 → 感情回应&quot;, &quot;pace&quot;: &quot;供述先到 → 陪读 → 专属私聊&quot;, &quot;basis&quot;: &quot;公共必要信息先于四对谈话&quot;, &quot;text&quot;: [&quot;尹完整供述先同步四家属，再给调查同伴；写清被迫执行与反抗失败。&quot;, &quot;第五日晚李贞姬获救，第六日准备奉还礼；恩书与车谈母亲、喜欢及离开条件。&quot;], &quot;play&quot;: [&quot;恩05 · 家属先有向尹问询的入口，再四对专属陪读和一对一。&quot;, &quot;车仍藏采样责任；离开只有恩书的位置，必须回答姐妹怎么办。&quot;], &quot;change&quot;: &quot;感情要同尚未交代的事实相处；愿意靠近、拒绝或暂缓都能继续。&quot;, &quot;gate&quot;: &quot;副本、接应与本人位置确认后，进入第七日奉还礼。&quot;, &quot;info&quot;: &quot;公开尹的身份与胁迫；不让知夏晚于同伴取得供述。车完整罪责留第六幕。&quot;, &quot;actors&quot;: &quot;供述同步与问询先完成；随后四对并行。&quot;, &quot;duration&quot;: &quot;供述阅读与停顿单列；私聊约 15 至 20 分钟为本轮排演建议。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;问车知道多少，单人退路为何没有姐妹。&quot;], [&quot;知夏&quot;, &quot;直面杀亲事实，可理解、拒绝、追问；救母不换原谅。&quot;], [&quot;多允&quot;, &quot;问泰伍复仇后是否仍想活着毕业。&quot;], [&quot;瑞真&quot;, &quot;听徐讲搜证与受虐，可继续只当老师。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第五幕 复仇&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;h4&gt;一&lt;\/h4&gt;\n&lt;p&gt;这一册从同伴撤出守晨礼以后开始。若刚才你留在外侧，此处是你从他们的讲述和带出的记录中得到的共同经过。&lt;\/p&gt;\n&lt;p&gt;入场以后有人被查验，行动受到阻拦，同行的人设法让处在危险里的人离开。大家回到能够暂时休息的地方，先核人数，再让需要照护的人坐下。四姐妹都已经同同伴重新会合，主册还留在清晨会里面。&lt;\/p&gt;\n&lt;p&gt;你知道哪些关心是在刚才发生的。谁记住你说过的话，谁在危险中先想到你的具体处境，你可以把自己的回答留下。一次保护使你更了解一个人，也不需要立即替未来作保证。&lt;\/p&gt;\n&lt;p&gt;车叙律来问你有没有不适，想同你单独待一会儿。你能让他留下，也能先去看妹妹们。他的目光停在你身上，有些话没有说，你现在至少知道，这份在意与你们平时的客气不同。&lt;\/p&gt;\n&lt;p&gt;那天夜里，你又想到父母。你很想讲火灾以前的一次普通早晨，可话到嘴边，首先冒出来的却是今天看见的日期。你怕以后再回忆他们，总要先看见那些文件，怕连爸爸的玩笑也只能同谁签过指令放在一起。&lt;\/p&gt;\n&lt;p&gt;你把旧本子放在旁边，暂时没有写。妈妈叫你吃饭的声音还在，你愿意等自己能再讲时，将它单独讲出来。&lt;\/p&gt;\n&lt;h4&gt;二&lt;\/h4&gt;\n&lt;p&gt;第五日，尹时安将完整供述交给你们四个人。知夏同你一起取得材料，其他同伴随后才拿到副本。&lt;\/p&gt;\n&lt;p&gt;第一部分写他的身份。退伍特种兵，执行四起任务，亲自设计并造成四个家庭的死亡。火灾、车祸、溺亡和燃气事故，都在供述中有对应的时间与经过。&lt;\/p&gt;\n&lt;p&gt;你读到自己家的部分，终于知道执行者的名字。&lt;\/p&gt;\n&lt;p&gt;尹时安。&lt;\/p&gt;\n&lt;p&gt;那个在校医室里分清个人病历和公共通知的人，那个会问你有没有睡好的医生，知道你父母怎么死。他在你面前活了这些日子，声调、神态都很熟悉，你却从没有把这份熟悉同九年前的事联系起来。&lt;\/p&gt;\n&lt;p&gt;你抬头，先看知夏。她也正在读，不需要由你替她把最难的一句说出来。你想问她怎样，又把这句话咽回去。今天她同样是死者的孩子，手里的那一份属于她。&lt;\/p&gt;\n&lt;p&gt;供述接着写李贞姬。她是尹时安的母亲，被韩成宰控制，用来逼他执行。求助与尝试救人的经过写在后面，有受阻的条件，也有失败以后受到的惩罚。目标家庭早已被另外的人盯住，韩成宰用母亲的生命威胁他，还明确说过，拒绝任务，会把孩子也杀掉。&lt;\/p&gt;\n&lt;p&gt;他试着求助、示警、带母亲离开，也试着改变父母的结局。没有成功。后来能争取的范围被收得很窄，他让四个孩子活了下来，父母仍被他亲手害死。&lt;\/p&gt;\n&lt;p&gt;你没有因为读到胁迫，就突然不痛。你也无法将那几次反抗划掉，好让眼前的人只剩一个你更容易恨的形状。你想知道的事情比一份结论多，哪一次尝试还差什么，父母当时知道多少，韩成宰怎样把几个人逼到那个位置。这些问题属于家属，能直接去问，不用先向他的喜欢作任何回应。&lt;\/p&gt;\n&lt;p&gt;他没有拿自己母亲的安危向你们换原谅。供述和受害者名单已经送往外部，救援会沿自己的安排继续。&lt;\/p&gt;\n&lt;p&gt;你将材料读到最后，忽然很想听父亲再说一句可以赊账。那时候你赖掉的只是一颗糖，回家总有下一次。现在你得到一份可以继续查证的事实，父母仍然没有下一次。&lt;\/p&gt;\n&lt;p&gt;你坐了一会儿，才将纸交给旁边的人复核。交出去以前，你看清副本留在哪里。关于他们的真相，你要自己也能再找到。&lt;\/p&gt;\n&lt;h4&gt;三&lt;\/h4&gt;\n&lt;p&gt;第五日晚，消息传来，李贞姬已经被救出，得到照料。你知道这个人质的名字从此可以放进获救的人里，没必要先由四个失去父母的女儿决定她该不该被救。&lt;\/p&gt;\n&lt;p&gt;知夏有自己的话要同尹时安讲。你没有要求她选一种能让所有人安心的态度，也没有先去告诉医生，妹妹其实已经理解。她刚才说过什么，仍由她来讲。&lt;\/p&gt;\n&lt;p&gt;多允继续核泰民的材料，瑞真把收到的文件编号写清。你们暂时还不能称旧案已经平反，不能因为见到罪证便宣布所有人都已得到公道。事情在往外走，至少不再只放在韩成宰能够关上的房间里。&lt;\/p&gt;\n&lt;p&gt;第六日，众人准备第七日的奉还礼。父亲会在那里重新安排仪式，你们也要把已有的证据和问题带到他面前。副本有人接收，名单有人核，撤离与接应各有负责的人。拿不到主册会增加调查的难度，已经送出的事实仍然存在。&lt;\/p&gt;\n&lt;p&gt;车叙律与公司管理方有过联络。他告诉你母亲当年查基金会资金后遇害，成年以后，他借公司的渠道用项目核查向韩成宰施压。具体能调哪些材料，需要管理层决定，事情并不全由一个二十一岁的学生签字。&lt;\/p&gt;\n&lt;p&gt;他讲了怎样从没人肯多回答一句，到终于让问题进入正式核查。你听他讲，那本练习册里熟悉的母亲又出现在另一个年头。十五岁的他失去她，停学，把东西收进箱子。现在他坐在你旁边，比那个年纪更会说话，也还是会在妈妈两个字后面停一下。&lt;\/p&gt;\n&lt;p&gt;你有些话愿意告诉他。爸妈生活里的琐碎，叫养父爸爸时如今怎样难受，你为什么总先看妹妹在不在。他可以陪着听，不需要替你把每一次停顿都解释好。&lt;\/p&gt;\n&lt;p&gt;他的讲述也有空处。用了资金压力以后，具体做过哪些决定；手里的材料有多少，给出去的又有多少。你能继续问。他若只讲大体安排，你便只知道大体安排，不能因为认识他的母亲，就算认识了他的全部。&lt;\/p&gt;\n&lt;h4&gt;四&lt;\/h4&gt;\n&lt;p&gt;你们今晚有一段单独的时间。&lt;\/p&gt;\n&lt;p&gt;车叙律希望陪你读完，也想讲一讲喜欢。他已经让你知道，愿意同你坐在没有事情需要解决的地方。你记得那个下午自己问他来不来，也记得他拿着空杯、还要装不累的样子。&lt;\/p&gt;\n&lt;p&gt;你同他相处时，有时候想要的很简单。饭能按时吃完，困了就承认困；他不必每次都找到最漂亮的回答，你也能有一句话只是说给他听。若喜欢可以往前一点，你想先看看，他愿不愿意把不那么聪明的部分也留给你。&lt;\/p&gt;\n&lt;p&gt;他又提出一个暂时离开的安排。涉及去处、联络和时间，需要你本人确认。他想先给你一个能离开父亲视线的机会，准备把详细条件在私聊里讲清。&lt;\/p&gt;\n&lt;p&gt;你最先想到的是妹妹们。知夏、多允、瑞真在哪里，谁来接她们，是同去、稍后去，还是另有安排。你不用先把离开理解成抛下，也不用为了相信他，停止问这些名字。&lt;\/p&gt;\n&lt;p&gt;你还想知道他接下来去哪儿。既然他能提出离开，为什么仍要留到奉还礼？主册里有他必须取得的什么，拿不到又会怎样？他答到哪一步，你才算知道哪一步。&lt;\/p&gt;\n&lt;p&gt;从前你拿来一份不肯念的假稿，他先问你愿不愿意。今天你也可以先听自己的答案，再告诉他。&lt;\/p&gt;\n&lt;p&gt;你不想让这段喜欢只剩一道需要答对的题。你想看看，面对一个他没安排好的回答，车叙律还会怎样同你说话。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;车叙律可以在你愿意的范围里陪读。读完后，你们进入专属私聊。你可以讲父母，也可以直接问他母亲和资金联络；关于离开，请问清去处、谁来接，以及妹妹们怎么办。&lt;\/p&gt;\n&lt;p&gt;你可以接受喜欢、暂时不回答，或者拒绝。若想先向尹时安追问家里的事，可由主持安排短暂问询后再回到专属谈话。知夏已经取得供述，她的私人回答无需由你带来，也无需由你转交。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩05 供述、陪读和一个人的退路&lt;\/p&gt;\n&lt;p&gt;第五日先同步四姐妹取得尹时安供述。知夏本人先取一份，再与另外三家属同场或同一时段发放，其他调查同伴在之后取得副本。材料包括身份、四案对应、胁迫、求助与示警受阻、被迫执行及孩子存活；具体执行细节直接用尹本已写事实，主持不临时另造杀法。&lt;\/p&gt;\n&lt;p&gt;需要向尹问询的家属，在专属陪读前安排共同问询或按序短问，其他 NPC 与对应玩家整理已公开材料。问询不占知夏之后的专属私聊时段；不许叙律偷看知夏的私人页来取得公共信息。尹接受追问，不以母亲获救换原谅。第五日晚的救援信息独立发布。&lt;\/p&gt;\n&lt;p&gt;第六日进入四对专属陪读与私聊。叙律先问恩书希望他坐哪里、何处停。她拒绝陪读，就让她独读，他在约定的距离候场。阅读不用不断解说，玩家抬头或明确问时再回应。&lt;\/p&gt;\n&lt;p&gt;进专属房后，他讲车雅琳、自己失去母亲的经过和对恩书的喜欢，仍未完整交代采样责任。他可说“你让我来那天，我很高兴。那回不用先想我能替你做什么。”接恩书自己的反应，不把她写成已爱。&lt;\/p&gt;\n&lt;p&gt;离开安排必须交一份能问清条件的纸。恩书问姐妹，他承认眼下只有她的确认位置，不许谎称其余三人已经有同等安排。她问为何只留一个，他可以辩称条件、时间和注意风险，保留自私与遮掩；若被逼问原始人数，他承认自己把四改成一。提前揭出这一件，六幕仍有完整责任证据与删改计划，不要求她忘掉。&lt;\/p&gt;\n&lt;p&gt;她拒绝，他失望、争取多讲一句，也可以显露不愿她走的欲望，但不能挡门或代签。她接受，记录本人同意，立即讲清实际接应条件。进入第六幕对峙的参与可以现场、外围见证或先出发后通过外部联络获知；她独自离开不取消其余人的共同救援，也不撤销叙律争夺主册与固定死亡。第五幕结束核对她所在位置，别在下一幕把已离开的人强行写回台上。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;执行者供述；陪读与离开安排&quot;, &quot;overviewPlay&quot;: &quot;家属问询后，四对专属陪读与私聊&quot;}, {&quot;id&quot;: 6, &quot;name&quot;: &quot;奉还礼&quot;, &quot;day&quot;: &quot;第七日&quot;, &quot;beat&quot;: &quot;对峙 → 决裂 → 告别&quot;, &quot;pace&quot;: &quot;甲册 → 公幕揭露 → 乙册 → 专属场&quot;, &quot;basis&quot;: &quot;车固定死亡；其余三人按实际条件&quot;, &quot;text&quot;: [&quot;甲册只到入场前，记住实际私聊回应与证据留存。&quot;, &quot;乙册在揭露后读：车主动延压风险、谋划删责任与接管、由四人退路改成一人；重伤。&quot;], &quot;play&quot;: [&quot;恩06公 · 四姐妹各有发言或交证据入口，公开车的往来与主册登记，演争夺和重伤。&quot;, &quot;恩06私 · 交接剩余事实，再告别；拒绝身体动作有效。三对按撤离和救治分支。&quot;], &quot;change&quot;: &quot;恩书必须面对车的真心与主动伤害同在；死亡不决定原谅。&quot;, &quot;gate&quot;: &quot;固定车死亡与其他三人的实际生死被记录，才发尾声。&quot;, &quot;info&quot;: &quot;第六幕乙册封存，不能在对峙前阅读。离开支线可经外部联络见证。&quot;, &quot;actors&quot;: &quot;全桌对峙后四对并行；不以告白或哭泣决定生还。&quot;, &quot;duration&quot;: &quot;甲乙阅读分别安排；揭露后给回应间隔，避免立刻用死演吞掉追问。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;问车责任和主册去处，可爱、恨或沉默；固定死亡。&quot;], [&quot;知夏&quot;, &quot;尹按接应与救治走生还或死亡线。&quot;], [&quot;多允&quot;, &quot;泰伍可撤离生还，也可因自选追仇错失机会。&quot;], [&quot;瑞真&quot;, &quot;徐按通路和救治走相应结局，爱情答案不决定生死。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第六幕 奉还礼&lt;\/p&gt;\n&lt;h4&gt;文本 甲册 入场前&lt;\/h4&gt;\n&lt;h4&gt;一&lt;\/h4&gt;\n&lt;p&gt;第七日早晨，你把属于父母的资料放好。昨天私聊里说过的话仍在，你不需要因为今天将见韩成宰，便把给车叙律的回答换成更适合别人观看的样子。&lt;\/p&gt;\n&lt;p&gt;你想到第一次来这里，自己只有十二岁，听见大人讨论安置，想找一个地方让脚能碰到地。九年过去，你长到二十一岁，有妹妹，有能自己去找的人，也能把关于父母的问题拿稳。&lt;\/p&gt;\n&lt;p&gt;今天要问的很多。筛选为什么先于事故，收养为什么提前安排，长期照顾为什么与不断取样放在同一份计划里。你可以问其中一件，再让别人接着问；不必为了当长姐，把四个家庭的全部痛都先放到自己身上。&lt;\/p&gt;\n&lt;p&gt;多允将一份材料递给你，确认是你要带的。瑞真核完副本，告诉大家留存的位置。知夏坐在一旁，你问她有没有准备好想带的东西，她点头，你便没有再问她心里怎样。&lt;\/p&gt;\n&lt;p&gt;你们各自有自己的事。今天仍一起出去。&lt;\/p&gt;\n&lt;h4&gt;二&lt;\/h4&gt;\n&lt;p&gt;清晨会把仪式叫奉还礼。你从前也听人说，父亲给了你们这样的生活，应该懂得感恩。你愿意感谢过的许多照顾，今天有了需要追问的来路。父母的生活被人毁掉，然后那个人把收养变成一种恩情，要求你把身体再交回去。&lt;\/p&gt;\n&lt;p&gt;你已经知道他信的是骗局。他信得有多深，怎样向别人解释，都不能让四个家庭因此少死一个人。&lt;\/p&gt;\n&lt;p&gt;你也知道已有的证据送出了这里。今日带进去的副本，不是所有事实的最后一份。撤离通路、接应与救治会按现场条件进行，有人负责接，不要求你先许给谁一段感情。&lt;\/p&gt;\n&lt;p&gt;车叙律在你看得见的地方。他未必还像前几天那样从容，你也未必愿意同他坐得那么近。关于离开的安排，昨日若问过，就按实际听见的继续；若还有没问的，可以记下，今天不会自动得到一个完整答案。&lt;\/p&gt;\n&lt;p&gt;你望向他，想起发言那天自己低声问卡了没有。那时你想听一个人告诉你，做得不错。现在你想听他讲清楚，接下来准备怎样做。&lt;\/p&gt;\n&lt;p&gt;有些事情可以互相照顾，有些话需要本人回答。你将材料收好。若你决定入场，便向奉还礼的入口走；若昨晚已经确认先离开，今天的证据与对峙会经外部联络传到你手里，你可以从那一端继续提出自己的问题。&lt;\/p&gt;\n&lt;h4&gt;互动入口 甲册&lt;\/h4&gt;\n&lt;p&gt;你将与妹妹们共同面对韩成宰。可以提问，可以将一页证据放出来，也可以让同伴读出你暂时讲不下去的部分。车叙律的另一部分事实会在现场出现，请在演绎结束后再读乙册。&lt;\/p&gt;\n&lt;h4&gt;文本 乙册 揭露后&lt;\/h4&gt;\n&lt;p&gt;此册仅在公共对峙、主册争夺和车叙律重伤的演绎完成后发放。若你已先行离开，其中的现场经过由外部联络和同伴转述得知，告别可以经声音或回忆完成。后文的相见按你所在的位置呈现。&lt;\/p&gt;\n&lt;h4&gt;三&lt;\/h4&gt;\n&lt;p&gt;公开出来的材料里，有车叙律的名字。&lt;\/p&gt;\n&lt;p&gt;他借成年管理方的项目核查向韩成宰施压，这件事曾帮助调查往前走。后来，关于采样危险与健康异常的说明已经到他手里，他仍建议把问题继续核，压后本来可以及时处理的部分，让原来的安排又走了下去。&lt;\/p&gt;\n&lt;p&gt;他知道风险落在人的身上。让采样继续，能逼韩成宰交出更多流程，也能让他握住一份不愿交回去的控制。他逐渐想接管清晨会，想先拿到主册，删去能够证明自己责任的记录，再将剩下的罪证送出。&lt;\/p&gt;\n&lt;p&gt;往来记录有出处，主册中有相应登记。这些事情没有靠他一句为了妈妈便结束。&lt;\/p&gt;\n&lt;p&gt;你还看见那份只留一个人的安排。最初问过四人，他自己改成一人，后来没有继续为另三人争取同等的退路。名额的限制有真实程序，那个由四变一的决定却先出自他。&lt;\/p&gt;\n&lt;p&gt;留在纸上的名字是恩书。&lt;\/p&gt;\n&lt;p&gt;知夏、多允和瑞真，被他放在了可以稍后再谈的位置。&lt;\/p&gt;\n&lt;p&gt;你想起自己问他什么时候吃饭，想起他真的等了十分钟，同你去食堂。你那时管得很细，汤会不会凉，袖子有没有碰到碗。原来他也能这样细，领口紧不紧，杯沿有没有缺口，一样一样想着你，又让别人的危险继续。&lt;\/p&gt;\n&lt;p&gt;你可能仍喜欢他，想起那几个下午，照样会舍不得。你也已经看见那个数字，知道有三个人被留在安排之外。你望向妹妹们，很想当着他的面把她们的名字再叫一遍。&lt;\/p&gt;\n&lt;p&gt;你很想问他改稿那天的事。他当时帮你留下爸爸妈妈的真实回忆，是否已经习惯只交出能让人喜欢的一部分？以后每一次说妈妈，每一次讲没还完的理由，又藏着多少还不肯讲的责任？&lt;\/p&gt;\n&lt;p&gt;你可以听他回答。回答会改变你怎样理解过去，不会使过去被重新做一次。&lt;\/p&gt;\n&lt;h4&gt;四&lt;\/h4&gt;\n&lt;p&gt;争夺主册时，韩成宰已经发现资金施压与车叙律的关系，冲突随之加重。叙律试图取得册子，处理涉及自己的部分，在争夺中受到重伤。救援被请求，现场仍在设法让受伤的人获得照料；他的伤已经十分严重。&lt;\/p&gt;\n&lt;p&gt;你望着眼前的人，第一次很生气他连现在也不能给你足够多的时间。&lt;\/p&gt;\n&lt;p&gt;他母亲死后有六年，他将身体风险压后时有一轮又一轮。昨天还能坐着讲喜欢，你可以问第二遍，也可以第三遍。今天所有人突然说要快，要让该说的先说，声音还没落稳，下一件事就往前来了。&lt;\/p&gt;\n&lt;p&gt;你不想因此省略自己要问的话。&lt;\/p&gt;\n&lt;p&gt;你想知道他让谁继续受伤，哪份记录还没有交，主册最后到哪里，删改是否已经发生。以后能够去查的人需要这些，妹妹们也需要。你想叫他车叙律，让那个熟悉的人亲口回答。&lt;\/p&gt;\n&lt;p&gt;同时，你也想让他活。&lt;\/p&gt;\n&lt;p&gt;这种想法令你难受。若他活着，你能继续问，能发火，能有一天当着他的面讲图书室的事，再让他听完你今天还讲不清的另一部分。眼前却只剩很短的一段，他不能用将死让你快点原谅，你也不能用今天的愤怒使自己完全不在意他的呼吸。&lt;\/p&gt;\n&lt;p&gt;你可以待在他身边，也可以隔开一点。刚才被你拒绝过的动作，现在仍然可以拒绝；之前接受过的亲近，现在也能改变。喜欢过车叙律，不会让你失去自己的手该放在哪儿的决定。&lt;\/p&gt;\n&lt;p&gt;你想起他问过愿不愿意念那篇假稿。那个下午有人终于听到你的不愿意，才使一份错误的叙述停下来。&lt;\/p&gt;\n&lt;p&gt;今天你愿意说什么，也该被他听到。&lt;\/p&gt;\n&lt;h4&gt;五&lt;\/h4&gt;\n&lt;p&gt;他说喜欢是真的，做过的事情也是真的。&lt;\/p&gt;\n&lt;p&gt;这句话来得太晚，你不急着替他补成一个好听的结局。他若还知道主册去处和记录位置，就让他说清，交给能够继续核查的人。关于车雅琳的案子仍会查，关于他后来造成的伤害也会查，不需要你在其中替某一份藏起来。&lt;\/p&gt;\n&lt;p&gt;你有自己的话。你可能想骂他，可能还想叫他的名字。有的事情可以先做，将一份未交出的材料送到能接收的人那里，先让事实完整。你可以按此刻的自己说，留一点以后才能想明白的也可以。&lt;\/p&gt;\n&lt;p&gt;你记得他的聪明，记得他愿意把另一只椅子拉过来。你也记得他其实有过机会，将危险及时交出去，将四个人的名字都留下。他没有做。&lt;\/p&gt;\n&lt;p&gt;前几天那份轻松，今天已经不能原样回来。你还没找到以后如何想他的办法，眼前的人却要先停下了。&lt;\/p&gt;\n&lt;p&gt;如果你愿意，便再看他一眼。若你不愿意，也可以听着救援的人讲完他们能做的事，将最后需要交接的材料送出。&lt;\/p&gt;\n&lt;p&gt;你原来还想同他去一次那家卖面包的店，到了柜台前，让他自己选，看看他究竟喜欢哪一种。店还会开，店员仍会把没卖完的收好。你很生气这么小的一件事也做不完，更生气到了现在，自己竟还会想。&lt;\/p&gt;\n&lt;h4&gt;互动入口 乙册&lt;\/h4&gt;\n&lt;p&gt;进入专属告别场景。车叙律的死亡是当前故事固定结局，无法用拥抱、告白或原谅改变；你能决定如何同他相处，问哪些问题，是否接受触碰。可以请他把仍知道的事实讲清，也可以留下没有回答的部分。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩06 对峙、揭露与告别&lt;\/p&gt;\n&lt;h4&gt;公共场&lt;\/h4&gt;\n&lt;p&gt;先发甲册，读完后四姐妹面对韩成宰。每人至少有交资料、问一句或请别人代读的入口；主持不把全桌变成恩书替所有人发言。韩成宰不能用曾经照顾或逼迫的借口改变主使杀亲事实。&lt;\/p&gt;\n&lt;p&gt;车的秘密通过可核的往来记录、异常回报、主册登记与外部联络副本呈现，公开顺序为他本来可交出的风险、他主动压后的决定、他想取册删责任和接管的目的、他删成一人的离开安排。第五幕已揭过的部分只接一句，别演成玩家首次听到。&lt;\/p&gt;\n&lt;p&gt;叙律会试图辩解，会想恩书理解，会争主册。他在恩书拒绝时仍有怒意、失望和执拗，不能瞬间变成一位只会祝福的好人。韩成宰确认叙律与资金方的关联，争夺中造成重伤，按既有固定死亡线推进；不另演临时舍身洗清。主册当下实际由谁拿到、什么已传出，由现场道具交接清楚。&lt;\/p&gt;\n&lt;p&gt;并行三对的生死按主持预先公布和记录的撤离、通路、救治条件执行。不能等看谁哭得多再决定。泰伍若自己独追而错失撤离，后果属于他的决定。四份 NPC 本都提供了备演，根据实际过程选用，不把两种结果同时发给玩家。&lt;\/p&gt;\n&lt;h4&gt;专属场&lt;\/h4&gt;\n&lt;p&gt;公幕完成后发乙册，四对分别进入结局场。若恩书此前选择先离开，她通过外部同伴收到完整事实；可在角色内经联络听到叙律最后的声音，或由资料与回忆完成告别。真实玩家仍能观看演绎，角色不被凭空搬回现场。&lt;\/p&gt;\n&lt;p&gt;先求救并尝试照料，再进入不可挽回的告别段；不把恩书的一次求救口令当作生还隐藏条件。叙律须答主册去处、仍可找的记录和自己延压的已知部分，不到最后只讲情话。&lt;\/p&gt;\n&lt;p&gt;她继续追问，他在体力允许处答，不责备她残忍。她主动靠近，他问清愿意到何种程度，不能因最后一面免除许可。她沉默，他交事实，停一段，不无限催一句再叫我。她说喜欢，他回应喜欢，不拿喜欢抵责。她说恨，他承认她有理由恨，仍可不甘、难过，不用死亡逼她改口。&lt;\/p&gt;\n&lt;p&gt;最后死亡演绎明确结束，外部调查继续。恩书可带走公开材料，原件由剧情指定接收者保管，既不逼她替他保密，也不让她承担全部后续搜证。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;甲册到入场前；乙册在揭露后读&quot;, &quot;overviewPlay&quot;: &quot;全桌对峙、车黑化与重伤、四对结局场&quot;}, {&quot;id&quot;: 7, &quot;name&quot;: &quot;收尾&quot;, &quot;day&quot;: &quot;结局之后／舞台返场&quot;, &quot;beat&quot;: &quot;回响 → 离戏&quot;, &quot;pace&quot;: &quot;短尾声 → 返场 → 谢幕&quot;, &quot;basis&quot;: &quot;结局继续有效，不增加反转&quot;, &quot;text&quot;: [&quot;父母案与车的责任继续被调查，四姐妹各有以后的生活。&quot;, &quot;尾声承接实际三对结局，不写全员统一生还或统一死亡。&quot;], &quot;play&quot;: [&quot;恩07 · 四 NPC 依次返场，玩家可以最后回应，也可以不说。&quot;, &quot;以已交出的证据、获救和继续行动收束，再统一谢幕。&quot;], &quot;change&quot;: &quot;记忆可以复杂，角色停止后玩家离戏。&quot;, &quot;gate&quot;: &quot;返场结束、谢幕、休息。&quot;, &quot;info&quot;: &quot;车返场是舞台相见，故事中的死亡仍然成立。&quot;, &quot;actors&quot;: &quot;四 NPC 依次返场，最后全体谢幕。&quot;, &quot;duration&quot;: &quot;短阅读与短返场，现场耗时待排演。&quot;, &quot;people&quot;: [[&quot;恩书&quot;, &quot;决定最后怎样回应车，再回到自己的生活。&quot;], [&quot;知夏&quot;, &quot;延续自己的感情态度与实际结局。&quot;], [&quot;多允&quot;, &quot;有机会记得日常，哥哥案有人继续查。&quot;], [&quot;瑞真&quot;, &quot;可以称老师，也可以使用此前的私人称呼。&quot;]], &quot;book&quot;: &quot;&lt;p&gt;第七幕 收尾&lt;\/p&gt;\n&lt;h4&gt;文本&lt;\/h4&gt;\n&lt;p&gt;车叙律死了。&lt;\/p&gt;\n&lt;p&gt;这句话落下以后，你仍不必马上知道自己该怎样想他。图书室那个下午在，关于健康异常的记录也在。以后有人追问他的所作所为，不能只听见一位失去母亲的少年，也不能只由你来保存他愿意给人看的样子。&lt;\/p&gt;\n&lt;p&gt;父母的案子有人继续查。你送出去的材料有保管处，妹妹们的名字仍能在获救与后续联系中找到。知夏同尹时安之间的事，由她继续回答；多允和瑞真也有各自的结果。谁生还，谁未能等到救援，依照刚才已经发生的结局，你不会替她们另写一场都没失去的离开。&lt;\/p&gt;\n&lt;p&gt;你们以后仍会吃饭，仍会为小事争几句。某一天走进文具店，你可能想买一个漂亮本子，也可能站一会儿便出去。爸爸不会在旁边说他也需要，那个曾听你讲这件事的人也不能再陪你吃下一顿饭。&lt;\/p&gt;\n&lt;p&gt;你可以慢慢想，再慢慢做。明天要去哪里，不需要韩成宰替你安排，也不需要车叙律留下一个名额。&lt;\/p&gt;\n&lt;p&gt;舞台还留了一次相见。他会走到你能看见的地方，叫恩书。那个人的笑容可能使你想起前几天，也可能使你生气。你按自己的意思回应就好。这次返场不会改变故事里已经发生的死亡。&lt;\/p&gt;\n&lt;p&gt;等最后一盏灯落下，演员们会一起谢幕。&lt;\/p&gt;\n&lt;p&gt;你可以坐着听完，也可以向他们点一点头。然后去看看妹妹们，谁想说话，谁想先喝水。你也可以先给自己倒一杯。&lt;\/p&gt;\n&lt;h4&gt;互动入口&lt;\/h4&gt;\n&lt;p&gt;NPC 返场时，你可以说最后一句话，也可以沉默。返场结束后谢幕，角色故事到此结束。&lt;\/p&gt;&quot;, &quot;host&quot;: &quot;&lt;p&gt;恩07 返场和谢幕&lt;\/p&gt;\n&lt;p&gt;按实际三对结局发尾声与返场提示。车叙律的返场为舞台相见，无复活。开场可叫一声恩书，让她讲完最后的话，不新增秘密，不索求原谅。&lt;\/p&gt;\n&lt;p&gt;高燃由众人确认已经交出的事实、获救名单和继续追查的行动组成。四姐妹各自保有声音，可一起说出仍要活着走下去的打算，也可分别回应。演员依次返场后统一谢幕，主持明确角色结束，留短暂休息和饮水时间。&lt;\/p&gt;&quot;, &quot;overviewText&quot;: &quot;承接实际结局，回到后续生活&quot;, &quot;overviewPlay&quot;: &quot;依次返场，全体谢幕&quot;}];
+    const select = (s) =&gt; root.querySelector(s);
+    const nav = select(&#x27;.stage-nav&#x27;);
+    const overview = select(&#x27;.overview&#x27;);
+    const bookDetails = select(&#x27;.book-details&#x27;);
+    const hostDetails = select(&#x27;.host-details&#x27;);
+    let selected = 3;
+    const stageNames = [&#x27;一&#x27;,&#x27;二&#x27;,&#x27;三&#x27;,&#x27;四&#x27;,&#x27;五&#x27;,&#x27;六&#x27;,&#x27;七&#x27;];
+    const buttons = [];
+    const rows = [];
+    const write = (s, v) =&gt; { select(s).textContent = v; };
+    function list(s, items) {
+      const el = select(s); el.replaceChildren();
+      for (const item of items) { const li = document.createElement(&#x27;li&#x27;); li.textContent = item; el.append(li); }
+    }
+    function persist() {
+      const state = {modelContent:{selectedAct:selected,actName:data[selected-1].name},privateContent:{bookOpen:bookDetails.open,hostOpen:hostDetails.open}};
+      if (window.openai &amp;&amp; typeof window.openai.setWidgetState === &#x27;function&#x27;) window.openai.setWidgetState(state).catch(() =&gt; {});
+    }
+    function draw(id, save) {
+      selected = Number(id);
+      if (!Number.isInteger(selected) || selected &lt; 1 || selected &gt; data.length) selected = 3;
+      const d = data[selected-1];
+      buttons.forEach((b,i) =&gt; b.setAttribute(&#x27;aria-pressed&#x27;, String(i+1 === selected)));
+      rows.forEach((r,i) =&gt; r.classList.toggle(&#x27;current&#x27;, i+1 === selected));
+      write(&#x27;.selected-title&#x27;, `第${stageNames[selected-1]}幕 · ${d.name}`);
+      write(&#x27;.selected-day&#x27;, d.day);
+      write(&#x27;.selected-pace&#x27;, d.pace);
+      list(&#x27;.text-items&#x27;, d.text); list(&#x27;.play-items&#x27;, d.play);
+      for (const key of [&#x27;change&#x27;,&#x27;gate&#x27;,&#x27;info&#x27;,&#x27;actors&#x27;,&#x27;duration&#x27;]) write(&#x27;.&#x27;+key,d[key]);
+      const people = select(&#x27;.people&#x27;); people.replaceChildren();
+      for (const pair of d.people) { const tr=document.createElement(&#x27;tr&#x27;); const th=document.createElement(&#x27;th&#x27;); th.scope=&#x27;row&#x27;; th.textContent=pair[0]; const td=document.createElement(&#x27;td&#x27;); td.textContent=pair[1]; tr.append(th,td); people.append(tr); }
+      select(&#x27;.player-book&#x27;).innerHTML = d.book;
+      select(&#x27;.host-book&#x27;).innerHTML = d.host;
+      if (save) persist();
+    }
+    for (const d of data) {
+      const b = document.createElement(&#x27;button&#x27;); b.type=&#x27;button&#x27;; b.className=&#x27;btn&#x27;; b.textContent=`${stageNames[d.id-1]} · ${d.name}`; b.setAttribute(&#x27;aria-pressed&#x27;,&#x27;false&#x27;); b.addEventListener(&#x27;click&#x27;,()=&gt;draw(d.id,true)); nav.append(b); buttons.push(b);
+      const tr=document.createElement(&#x27;tr&#x27;);
+      const th=document.createElement(&#x27;th&#x27;); th.scope=&#x27;row&#x27;; const title=document.createElement(&#x27;div&#x27;); title.textContent=`${stageNames[d.id-1]} · ${d.name}`; const beat=document.createElement(&#x27;div&#x27;); beat.className=&#x27;text-small&#x27;; beat.textContent=d.beat; th.append(title,beat);
+      const td1=document.createElement(&#x27;td&#x27;); td1.textContent=d.overviewText;
+      const td2=document.createElement(&#x27;td&#x27;); td2.textContent=d.overviewPlay;
+      tr.append(th,td1,td2); overview.append(tr); rows.push(tr);
+    }
+    function restore(state) {
+      if (!state || typeof state !== &#x27;object&#x27;) return;
+      draw(state.modelContent &amp;&amp; state.modelContent.selectedAct, false);
+      const p = state.privateContent || {};
+      bookDetails.open = Boolean(p.bookOpen); hostDetails.open = Boolean(p.hostOpen);
+    }
+    if (window.openai &amp;&amp; window.openai.widgetState) restore(window.openai.widgetState); else draw(3,false);
+    for (const el of [bookDetails,hostDetails]) el.querySelector(&#x27;summary&#x27;).addEventListener(&#x27;click&#x27;,()=&gt;setTimeout(persist,0));
+    window.addEventListener(&#x27;openai:set_globals&#x27;,e=&gt; {
+      const s=e.detail &amp;&amp; e.detail.globals &amp;&amp; e.detail.globals.widgetState;
+      if (s) restore(s);
+    });
+  })();
+  &lt;/script&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;https://unpkg.com/@floating-ui/core@1.7.3/dist/floating-ui.core.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://unpkg.com/@floating-ui/dom@1.7.4/dist/floating-ui.dom.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  if (window.FloatingUIDOM == null) {
+    return;
+  }
+  const { autoUpdate, computePosition, flip, offset, shift, size } =
+    window.FloatingUIDOM;
+  const tooltipPlacements = new Set([&quot;top&quot;, &quot;right&quot;, &quot;bottom&quot;, &quot;left&quot;]);
+  const tooltipId = `codex-visualization-tooltip-${
+    window.crypto?.randomUUID?.() ?? Date.now().toString(36)
+  }`;
+  const tooltipGap = 5;
+  const hoverDelay = 700;
+  const skipDelay = 300;
+  let activeTrigger = null;
+  let pendingTrigger = null;
+  let tooltip = null;
+  let openTimeout = null;
+  let autoUpdateCleanup = null;
+  let positionRequest = 0;
+  let skipDelayUntil = 0;
+  let lastPointerWasTouch = false;
+  let pinnedByTouch = false;
+
+  const getTrigger = (event) =&gt; {
+    for (const target of event.composedPath()) {
+      if (target?.nodeType === Node.ELEMENT_NODE) {
+        const trigger = target.closest(&quot;[data-tooltip]&quot;);
+        if (trigger) return trigger;
+      }
+    }
+    return null;
+  };
+  const containsTarget = (trigger, target) =&gt;
+    target?.nodeType != null &amp;&amp; trigger.contains(target);
+  const getContent = (trigger) =&gt;
+    trigger.getAttribute(&quot;data-tooltip&quot;)?.trim() ?? &quot;&quot;;
+  const getPlacement = (trigger) =&gt; {
+    const placement = trigger.getAttribute(&quot;data-tooltip-placement&quot;);
+    return tooltipPlacements.has(placement) ? placement : &quot;top&quot;;
+  };
+  const getTooltip = () =&gt; {
+    if (tooltip == null) {
+      tooltip = document.createElement(&quot;div&quot;);
+      tooltip.id = tooltipId;
+      tooltip.className = &quot;tooltip&quot;;
+      tooltip.setAttribute(&quot;role&quot;, &quot;tooltip&quot;);
+    }
+    return tooltip;
+  };
+  const setDescribedBy = (trigger, described) =&gt; {
+    const ids = new Set(
+      (trigger.getAttribute(&quot;aria-describedby&quot;) ?? &quot;&quot;)
+        .split(/\s+/)
+        .filter(Boolean),
+    );
+    if (described) {
+      ids.add(tooltipId);
+    } else {
+      ids.delete(tooltipId);
+    }
+    if (ids.size === 0) {
+      trigger.removeAttribute(&quot;aria-describedby&quot;);
+    } else {
+      trigger.setAttribute(&quot;aria-describedby&quot;, [...ids].join(&quot; &quot;));
+    }
+  };
+  const clearOpenTimeout = () =&gt; {
+    if (openTimeout != null) {
+      window.clearTimeout(openTimeout);
+      openTimeout = null;
+    }
+    pendingTrigger = null;
+  };
+  const closeTooltip = (activateSkipDelay = true) =&gt; {
+    clearOpenTimeout();
+    pinnedByTouch = false;
+    positionRequest += 1;
+    autoUpdateCleanup?.();
+    autoUpdateCleanup = null;
+    if (activeTrigger == null) {
+      return;
+    }
+    setDescribedBy(activeTrigger, false);
+    activeTrigger = null;
+    tooltip?.remove();
+    if (activateSkipDelay) {
+      skipDelayUntil = Date.now() + skipDelay;
+    }
+  };
+  const updatePosition = (trigger, floating) =&gt; {
+    const request = ++positionRequest;
+    void computePosition(trigger, floating, {
+      middleware: [
+        offset(tooltipGap),
+        flip({ padding: tooltipGap }),
+        shift({ padding: tooltipGap }),
+        size({
+          padding: tooltipGap,
+          apply({ availableHeight, availableWidth, elements }) {
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-width&quot;,
+              `${Math.max(0, availableWidth)}px`,
+            );
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-height&quot;,
+              `${Math.max(0, availableHeight)}px`,
+            );
+          },
+        }),
+      ],
+      placement: getPlacement(trigger),
+      strategy: &quot;fixed&quot;,
+    })
+      .then(({ x, y }) =&gt; {
+        if (activeTrigger !== trigger || request !== positionRequest) {
+          return;
+        }
+        const scale = window.devicePixelRatio || 1;
+        floating.style.transform = `translate(${Math.round(x * scale) / scale}px, ${Math.round(y * scale) / scale}px)`;
+        floating.style.visibility = &quot;visible&quot;;
+      })
+      .catch(() =&gt; {
+        if (activeTrigger === trigger &amp;&amp; request === positionRequest) {
+          closeTooltip(false);
+        }
+      });
+  };
+  const openTooltip = (trigger) =&gt; {
+    const content = getContent(trigger);
+    if (!trigger.isConnected || content.length === 0) {
+      return;
+    }
+    clearOpenTimeout();
+    if (activeTrigger === trigger) {
+      return;
+    }
+    closeTooltip();
+    const floating = getTooltip();
+    floating.textContent = content;
+    floating.style.visibility = &quot;hidden&quot;;
+    floating.style.transform = &quot;translate(0, 0)&quot;;
+    document.body.appendChild(floating);
+    activeTrigger = trigger;
+    setDescribedBy(trigger, true);
+    autoUpdateCleanup = autoUpdate(trigger, floating, () =&gt; {
+      updatePosition(trigger, floating);
+    });
+  };
+  const requestOpen = (trigger, immediate = false) =&gt; {
+    if (
+      getContent(trigger).length === 0 ||
+      activeTrigger === trigger ||
+      pendingTrigger === trigger
+    ) {
+      return;
+    }
+    clearOpenTimeout();
+    pendingTrigger = trigger;
+    const delay =
+      immediate || activeTrigger != null || Date.now() &lt; skipDelayUntil
+        ? 0
+        : hoverDelay;
+    if (delay === 0) {
+      openTooltip(trigger);
+      return;
+    }
+    openTimeout = window.setTimeout(() =&gt; {
+      openTimeout = null;
+      pendingTrigger = null;
+      openTooltip(trigger);
+    }, delay);
+  };
+  const handlePointerOpen = (event) =&gt; {
+    if (event.pointerType === &quot;touch&quot;) {
+      return;
+    }
+    const trigger = getTrigger(event);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    requestOpen(trigger);
+  };
+  const handlePointer = (event) =&gt; {
+    lastPointerWasTouch =
+      event.type === &quot;pointerdown&quot; &amp;&amp; event.pointerType === &quot;touch&quot;;
+  };
+  const handleTouchClick = (event) =&gt; {
+    const isTouch = event.pointerType === &quot;touch&quot; || lastPointerWasTouch;
+    lastPointerWasTouch = false;
+    if (!isTouch || event.detail === 0) {
+      return;
+    }
+    const trigger = getTrigger(event);
+    if (
+      trigger == null ||
+      !trigger.isConnected ||
+      getContent(trigger).length === 0 ||
+      (pinnedByTouch &amp;&amp; activeTrigger === trigger)
+    ) {
+      if (pinnedByTouch) {
+        closeTooltip();
+      }
+      return;
+    }
+    openTooltip(trigger);
+    pinnedByTouch = activeTrigger === trigger;
+    window.setTimeout(() =&gt; {
+      if (activeTrigger === trigger &amp;&amp; !trigger.isConnected) {
+        closeTooltip(false);
+      }
+    }, 0);
+  };
+  const handleLeave = (event) =&gt; {
+    if (pinnedByTouch) {
+      return;
+    }
+    const trigger = getTrigger(event);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const handleFocusIn = (event) =&gt; {
+    const trigger = getTrigger(event);
+    if (trigger?.matches(&quot;:focus-visible&quot;)) {
+      requestOpen(trigger, true);
+    }
+  };
+  const handleKeyDown = (event) =&gt; {
+    if (event.key === &quot;Escape&quot;) {
+      closeTooltip();
+    }
+  };
+  const handleContextMenu = (event) =&gt; {
+    lastPointerWasTouch = false;
+    const trigger = getTrigger(event);
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const handlers = {
+    pointerover: handlePointerOpen,
+    pointerdown: handlePointer,
+    pointercancel: handlePointer,
+    click: handleTouchClick,
+    pointerout: handleLeave,
+    focusin: handleFocusIn,
+    focusout: handleLeave,
+    keydown: handleKeyDown,
+    contextmenu: handleContextMenu,
+  };
+  const roots = new Map();
+  const handledEvents = new WeakSet();
+  const handleEvent = (event) =&gt; {
+    if (handledEvents.has(event)) return;
+    handledEvents.add(event);
+    handlers[event.type](event);
+  };
+  const discoverRoots = (node) =&gt; {
+    if (node.shadowRoot) listen(node.shadowRoot);
+    for (const element of node.querySelectorAll(&quot;*&quot;)) {
+      if (element.shadowRoot) listen(element.shadowRoot);
+    }
+  };
+  const listen = (root) =&gt; {
+    if (roots.has(root)) return;
+    for (const type of Object.keys(handlers)) root.addEventListener(type, handleEvent);
+    const observer = new window.MutationObserver((records) =&gt; {
+      for (const { addedNodes } of records) {
+        for (const node of addedNodes) {
+          if (node.nodeType === Node.ELEMENT_NODE) discoverRoots(node);
+        }
+      }
+      for (const [root, cleanup] of roots) {
+        if (root.host &amp;&amp; !root.host.isConnected) {
+          cleanup();
+          roots.delete(root);
+        }
+      }
+      if (activeTrigger &amp;&amp; !activeTrigger.isConnected) closeTooltip(false);
+    });
+    observer.observe(root, { childList: true, subtree: true });
+    roots.set(root, () =&gt; {
+      observer.disconnect();
+      for (const type of Object.keys(handlers)) root.removeEventListener(type, handleEvent);
+    });
+    discoverRoots(root);
+  };
+  const destroy = () =&gt; {
+    closeTooltip(false);
+    lastPointerWasTouch = false;
+    for (const cleanup of roots.values()) cleanup();
+    roots.clear();
+    tooltip = null;
+  };
+
+  // Events between children of one shadow root never reach the document.
+  listen(document);
+  window.addEventListener(&quot;pagehide&quot;, destroy, { once: true });
+})();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-tabs&quot;&gt;
+(() =&gt; {
+  const selector = &#x27;.nav[role=&quot;tablist&quot;] [role=&quot;tab&quot;]&#x27;;
+  const disabled = &#x27;:disabled,[aria-disabled=&quot;true&quot;]&#x27;;
+  const selectTab = (selected) =&gt; {
+    const panelId = selected.getAttribute(&quot;aria-controls&quot;);
+    for (const tab of selected.closest(&#x27;[role=&quot;tablist&quot;]&#x27;).querySelectorAll(&#x27;[role=&quot;tab&quot;]&#x27;)) {
+      const active = tab === selected;
+      tab.classList.toggle(&quot;active&quot;, active);
+      tab.setAttribute(&quot;aria-selected&quot;, String(active));
+      const id = tab.getAttribute(&quot;aria-controls&quot;);
+      const panel = id &amp;&amp; document.getElementById(id);
+      if (panel != null) {
+        panel.hidden = id !== panelId;
+        if (!panel.hidden &amp;&amp; selected.id) {
+          panel.setAttribute(&quot;aria-labelledby&quot;, selected.id);
+        }
+      }
+    }
+  };
+  const interact = (event) =&gt; {
+    const tab = event.target?.closest?.(selector);
+    if (event.defaultPrevented || tab == null || tab.matches(disabled)) {
+      return;
+    }
+    if (event.type === &quot;click&quot;) {
+      selectTab(tab);
+      return;
+    }
+    const tabs = Array.from(
+      tab.closest(&#x27;[role=&quot;tablist&quot;]&#x27;).querySelectorAll(&#x27;[role=&quot;tab&quot;]&#x27;),
+    ).filter((candidate) =&gt; !candidate.matches(disabled));
+    const current = tabs.indexOf(tab);
+    let next;
+    if (event.key === &quot;ArrowRight&quot; || event.key === &quot;ArrowDown&quot;) {
+      next = (current + 1) % tabs.length;
+    } else if (event.key === &quot;ArrowLeft&quot; || event.key === &quot;ArrowUp&quot;) {
+      next = (current + tabs.length - 1) % tabs.length;
+    } else if (event.key === &quot;Home&quot;) {
+      next = 0;
+    } else if (event.key === &quot;End&quot;) {
+      next = tabs.length - 1;
+    } else {
+      return;
+    }
+    event.preventDefault();
+    tabs[next].focus();
+    selectTab(tabs[next]);
+  };
+
+  for (const list of document.querySelectorAll(&#x27;.nav[role=&quot;tablist&quot;]&#x27;)) {
+    const selected =
+      list.querySelector(&#x27;[role=&quot;tab&quot;][aria-selected=&quot;true&quot;]&#x27;) ??
+      list.querySelector(&#x27;[role=&quot;tab&quot;].active&#x27;) ??
+      list.querySelector(&#x27;[role=&quot;tab&quot;]&#x27;);
+    if (selected != null) {
+      selectTab(selected);
+    }
+  }
+  document.addEventListener(&quot;click&quot;, interact);
+  document.addEventListener(&quot;keydown&quot;, interact);
+  window.addEventListener(&quot;pagehide&quot;, () =&gt; {
+    document.removeEventListener(&quot;click&quot;, interact);
+    document.removeEventListener(&quot;keydown&quot;, interact);
+  }, { once: true });
+})();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-carousel&quot;&gt;
+  (() =&gt; {
+    for (const root of document.querySelectorAll(&quot;.viz-carousel&quot;)) {
+      const panels = Array.from(
+        root.querySelectorAll(&quot;:scope &gt; [data-variant]&quot;),
+      );
+      if (panels.length === 0) {
+        continue;
+      }
+      root.setAttribute(&quot;role&quot;, &quot;group&quot;);
+      panels.forEach((panel, index) =&gt; {
+        panel.hidden = index !== 0;
+        panel.setAttribute(&quot;role&quot;, &quot;group&quot;);
+        if (!panel.hasAttribute(&quot;aria-label&quot;)) {
+          panel.setAttribute(&quot;aria-label&quot;, panel.dataset.variant);
+        }
+      });
+      root.dataset.activeVariant = panels[0].dataset.variant;
+      if (panels.length === 1) {
+        continue;
+      }
+
+      const controls = document.createElement(&quot;div&quot;);
+      controls.className = &quot;viz-carousel-controls&quot;;
+      // Portable copy of the settings dropdown&#x27;s legacy glyph; no 14px icon-package preset matches it.
+      // https://github.com/openai/openai/blob/master/codex/codex-apps/webview/src/icons/chevron.svg
+      controls.innerHTML = `
+      &lt;button type=&quot;button&quot; class=&quot;viz-carousel-previous cursor-interaction&quot;&gt;&lt;i data-lucide=&quot;chevron-left&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+      &lt;details class=&quot;viz-carousel-picker&quot;&gt;
+        &lt;summary class=&quot;cursor-interaction&quot;&gt;
+          &lt;span class=&quot;viz-carousel-count tabular-nums&quot;&gt;&lt;/span&gt;
+          &lt;span class=&quot;viz-carousel-name&quot;&gt;&lt;/span&gt;
+          &lt;svg class=&quot;viz-carousel-caret&quot; width=&quot;14&quot; height=&quot;14&quot; viewBox=&quot;0 0 20 21&quot; fill=&quot;none&quot; aria-hidden=&quot;true&quot; focusable=&quot;false&quot;&gt;
+            &lt;path d=&quot;M15.2793 7.71101C15.539 7.45131 15.961 7.45131 16.2207 7.71101C16.4804 7.97071 16.4804 8.39272 16.2207 8.65242L10.4707 14.4024C10.211 14.6621 9.78902 14.6621 9.52932 14.4024L3.77932 8.65242L3.69436 8.54792C3.52385 8.28979 3.55205 7.93828 3.77932 7.71101C4.00659 7.48374 4.3581 7.45554 4.61623 7.62605L4.72073 7.71101L10 12.9903L15.2793 7.71101Z&quot; fill=&quot;currentColor&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;0.6&quot; /&gt;
+          &lt;/svg&gt;
+        &lt;/summary&gt;
+        &lt;div class=&quot;viz-carousel-options&quot;&gt;&lt;/div&gt;
+      &lt;/details&gt;
+      &lt;button type=&quot;button&quot; class=&quot;viz-carousel-next cursor-interaction&quot;&gt;&lt;i data-lucide=&quot;chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/button&gt;`;
+      const previous = controls.querySelector(&quot;.viz-carousel-previous&quot;);
+      const next = controls.querySelector(&quot;.viz-carousel-next&quot;);
+      const picker = controls.querySelector(&quot;.viz-carousel-picker&quot;);
+      const summary = picker.querySelector(&quot;summary&quot;);
+      const count = controls.querySelector(&quot;.viz-carousel-count&quot;);
+      const name = controls.querySelector(&quot;.viz-carousel-name&quot;);
+      const options = controls.querySelector(&quot;.viz-carousel-options&quot;);
+      const status = document.createElement(&quot;span&quot;);
+      status.className = &quot;sr-only&quot;;
+      status.setAttribute(&quot;role&quot;, &quot;status&quot;);
+      status.setAttribute(&quot;aria-live&quot;, &quot;polite&quot;);
+      status.setAttribute(&quot;aria-atomic&quot;, &quot;true&quot;);
+      previous.setAttribute(
+        &quot;aria-label&quot;,
+        root.dataset.previousLabel ?? &quot;Previous variant&quot;,
+      );
+      next.setAttribute(&quot;aria-label&quot;, root.dataset.nextLabel ?? &quot;Next variant&quot;);
+
+      let active = 0;
+      let mousePointerId = null;
+      let summaryPointerHandled = false;
+      summary.addEventListener(&quot;pointerdown&quot;, (event) =&gt; {
+        summaryPointerHandled =
+          event.pointerType === &quot;mouse&quot; &amp;&amp; event.button === 0 &amp;&amp; !event.ctrlKey;
+        if (!summaryPointerHandled) {
+          return;
+        }
+        event.preventDefault();
+        summary.focus({ preventScroll: true });
+        picker.open = !picker.open;
+        mousePointerId = picker.open ? event.pointerId : null;
+      });
+      summary.addEventListener(&quot;click&quot;, (event) =&gt; {
+        if (summaryPointerHandled &amp;&amp; event.detail &gt; 0) {
+          event.preventDefault();
+        }
+      });
+      const choices = panels.map((panel, index) =&gt; {
+        const choice = document.createElement(&quot;button&quot;);
+        choice.type = &quot;button&quot;;
+        choice.className = &quot;cursor-interaction&quot;;
+        choice.textContent = panel.dataset.variant;
+        choice.addEventListener(&quot;click&quot;, () =&gt; {
+          select(index);
+          summary.focus();
+        });
+        choice.addEventListener(&quot;pointerup&quot;, (event) =&gt; {
+          if (
+            picker.open &amp;&amp;
+            event.pointerType === &quot;mouse&quot; &amp;&amp;
+            event.button === 0 &amp;&amp;
+            event.pointerId === mousePointerId
+          ) {
+            choice.click();
+          }
+        });
+        options.appendChild(choice);
+        return choice;
+      });
+      const select = (index) =&gt; {
+        const changed = active !== index;
+        active = index;
+        panels.forEach((panel, position) =&gt; {
+          panel.hidden = position !== active;
+          choices[position].setAttribute(
+            &quot;aria-current&quot;,
+            String(position === active),
+          );
+        });
+        root.dataset.activeVariant = panels[active].dataset.variant;
+        count.textContent = `${active + 1} / ${panels.length}`;
+        name.textContent = panels[active].dataset.variant;
+        picker.open = false;
+        mousePointerId = null;
+        if (changed) {
+          status.textContent = `${count.textContent}: ${name.textContent}`;
+        }
+      };
+      previous.addEventListener(&quot;click&quot;, () =&gt;
+        select((active + panels.length - 1) % panels.length),
+      );
+      next.addEventListener(&quot;click&quot;, () =&gt;
+        select((active + 1) % panels.length),
+      );
+      picker.addEventListener(&quot;keydown&quot;, (event) =&gt; {
+        if (event.key === &quot;Escape&quot; &amp;&amp; picker.open) {
+          event.preventDefault();
+          picker.open = false;
+          mousePointerId = null;
+          summary.focus();
+          return;
+        }
+        if (event.altKey || event.ctrlKey || event.metaKey) {
+          return;
+        }
+        const index = choices.indexOf(document.activeElement);
+        let nextIndex;
+        if (event.key === &quot;ArrowDown&quot;) {
+          nextIndex = index &lt; 0 ? active : (index + 1) % choices.length;
+        } else if (event.key === &quot;ArrowUp&quot;) {
+          nextIndex = index &lt; 0 ? active : (index + choices.length - 1) % choices.length;
+        } else if (picker.open &amp;&amp; event.key === &quot;Home&quot;) {
+          nextIndex = 0;
+        } else if (picker.open &amp;&amp; event.key === &quot;End&quot;) {
+          nextIndex = choices.length - 1;
+        } else {
+          return;
+        }
+        event.preventDefault();
+        picker.open = true;
+        choices[nextIndex].focus();
+      });
+      picker.addEventListener(&quot;focusout&quot;, (event) =&gt; {
+        if (!picker.contains(event.relatedTarget)) {
+          picker.open = false;
+          mousePointerId = null;
+        }
+      });
+      const dismiss = (event) =&gt; {
+        if (!summary.contains(event.target)) {
+          mousePointerId = null;
+        }
+        if (!picker.contains(event.target)) {
+          picker.open = false;
+        }
+      };
+      const endPointerSelection = () =&gt; {
+        mousePointerId = null;
+      };
+      const sizePicker = () =&gt; {
+        root.style.setProperty(
+          &quot;--viz-carousel-picker-height&quot;,
+          `${picker.open ? options.offsetHeight : 0}px`,
+        );
+      };
+      picker.addEventListener(&quot;toggle&quot;, sizePicker);
+      window.addEventListener(&quot;resize&quot;, sizePicker);
+      document.addEventListener(&quot;pointerdown&quot;, dismiss);
+      document.addEventListener(&quot;pointerup&quot;, endPointerSelection);
+      document.addEventListener(&quot;pointercancel&quot;, endPointerSelection);
+      window.addEventListener(&quot;blur&quot;, endPointerSelection);
+      window.addEventListener(
+        &quot;pagehide&quot;,
+        () =&gt; {
+          document.removeEventListener(&quot;pointerdown&quot;, dismiss);
+          document.removeEventListener(&quot;pointerup&quot;, endPointerSelection);
+          document.removeEventListener(&quot;pointercancel&quot;, endPointerSelection);
+          window.removeEventListener(&quot;blur&quot;, endPointerSelection);
+          window.removeEventListener(&quot;resize&quot;, sizePicker);
+        },
+        { once: true },
+      );
+      root.append(controls, status);
+      select(0);
+    }
+  })();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-lucide&quot; async src=&quot;https://unpkg.com/lucide@1.17.0/dist/umd/lucide.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  const initialize = () =&gt; {
+    globalThis.lucide?.createIcons({ attrs: { width: 16, height: 16 } });
+  };
+  if (globalThis.lucide != null) {
+    initialize();
+    return;
+  }
+  document
+    .getElementById(&quot;codex-visualization-lucide&quot;)
+    ?.addEventListener(&quot;load&quot;, initialize, { once: true });
+})();
+&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+"></iframe>
+
+<script>(() => {
+  const frame = document.getElementById("codex-visualization");
+  if (!(frame instanceof HTMLIFrameElement)) {
+    return;
+  }
+  let viewportHeight = globalThis.innerHeight;
+  const storageKey = `codex:visualization-widget-state-v2:${JSON.stringify([
+    globalThis.location.pathname,
+    globalThis.location.search,
+  ])}`;
+  const parseState = (serializedState) => {
+    if (
+      typeof serializedState !== "string" ||
+      new TextEncoder().encode(serializedState).length > 16 * 1024
+    ) {
+      throw new TypeError(
+        "Widget state must be a JSON object of at most 16 KiB",
+      );
+    }
+    /** @type {unknown} */
+    const state = JSON.parse(serializedState);
+    if (
+      state == null ||
+      typeof state !== "object" ||
+      Array.isArray(state) ||
+      ("imageIds" in state &&
+        (!Array.isArray(state.imageIds) || state.imageIds.length > 0))
+    ) {
+      throw new TypeError("Widget state must be a JSON object");
+    }
+    const storedState = { modelContent: null, privateContent: null, ...state };
+    const canonicalState = JSON.stringify(
+      storedState,
+      (_key, /** @type {unknown} */ value) => {
+        if (typeof value === "number" && !Number.isFinite(value)) {
+          throw new TypeError("Widget state must contain finite numbers");
+        }
+        return value;
+      },
+    );
+    if (new TextEncoder().encode(canonicalState).length > 16 * 1024) {
+      throw new TypeError(
+        "Widget state must be a JSON object of at most 16 KiB",
+      );
+    }
+    return storedState;
+  };
+  let storage = null;
+  let state = null;
+  try {
+    const localStorage = globalThis.localStorage;
+    const probeKey = `${storageKey}:probe`;
+    localStorage.setItem(probeKey, "1");
+    localStorage.removeItem(probeKey);
+    storage = localStorage;
+    const savedState = storage.getItem(storageKey);
+    if (savedState != null) {
+      try {
+        state = parseState(savedState);
+      } catch {
+        // Invalid saved state does not disable future writes.
+      }
+    }
+  } catch {
+    storage = null;
+  }
+  const initialGlobals = {
+    widgetState: state,
+    statePersistence: storage == null ? "none" : "local",
+  };
+
+  const channel = new MessageChannel();
+  channel.port1.addEventListener("message", (event) => {
+    const data = event.data;
+    if (typeof data !== "object" || data == null) {
+      return;
+    }
+    if (data.type === "widget-state-write") {
+      if (!Number.isSafeInteger(data.id) || data.id <= 0) {
+        return;
+      }
+      let ok = false;
+      try {
+        if (storage != null) {
+          const state = parseState(data.state);
+          storage.setItem(storageKey, JSON.stringify(state));
+          ok = true;
+        }
+      } catch {
+        // Storage denial, quota limits, and invalid state return a failed receipt.
+      }
+      channel.port1.postMessage({
+        type: "widget-state-result",
+        id: data.id,
+        ok,
+      });
+      return;
+    }
+    if (data.type === "height") {
+      const height = data.height;
+      if (
+        typeof height === "number" &&
+        Number.isFinite(height) &&
+        height >= 0 &&
+        height <= 10_000
+      ) {
+        frame.style.height = Math.ceil(height) + "px";
+      }
+      return;
+    }
+    if (data.type === "scroll-to") {
+      const top = data.top;
+      if (
+        typeof top === "number" &&
+        Number.isFinite(top) &&
+        top >= 0 &&
+        globalThis.navigator.userActivation?.isActive === true
+      ) {
+        globalThis.scrollTo({
+          top: Math.ceil(
+            globalThis.scrollY + frame.getBoundingClientRect().top + top,
+          ),
+        });
+      }
+      return;
+    }
+    if (data.type === "open-external") {
+      const rawHref = data.href;
+      if (typeof rawHref !== "string") {
+        return;
+      }
+      let href;
+      try {
+        const url = new URL(rawHref, document.baseURI);
+        if (url.protocol !== "https:") {
+          return;
+        }
+        href = url.href;
+      } catch {
+        return;
+      }
+      if (globalThis.navigator.userActivation?.isActive === true) {
+        const anchor = document.createElement("a");
+        anchor.href = href;
+        anchor.rel = "noopener noreferrer";
+        anchor.target = "_blank";
+        document.body.appendChild(anchor);
+        anchor.click();
+        anchor.remove();
+      }
+      return;
+    }
+    if (data.type === "follow-up") {
+      const prompt = data.prompt;
+      if (
+        typeof prompt !== "string" ||
+        globalThis.navigator.userActivation?.isActive !== true
+      ) {
+        return;
+      }
+      const title = data.title;
+      globalThis.prompt(typeof title === "string" ? title : prompt, prompt);
+    }
+  });
+  channel.port1.start();
+  const srcdoc = frame.dataset.srcdoc;
+  if (srcdoc == null) {
+    return;
+  }
+  globalThis.addEventListener("resize", () => {
+    const height = Number.parseFloat(frame.style.height);
+    if (!Number.isFinite(height) || height <= viewportHeight) {
+      frame.style.removeProperty("height");
+    }
+    viewportHeight = globalThis.innerHeight;
+    channel.port1.postMessage({ type: "measure" });
+  });
+  frame.addEventListener(
+    "load",
+    () => {
+      frame.contentWindow?.postMessage(
+        { type: "codex-visualization-initialize" },
+        "*",
+        [channel.port2],
+      );
+    },
+    { once: true },
+  );
+  // Match the trusted bootstrap element, not the same text in an authored title.
+  frame.srcdoc = srcdoc.replace(
+    '<script type="application/json" id="codex-visualization-widget-state">__CODEX_VISUALIZATION_WIDGET_STATE__<\/script>',
+    () =>
+      '<script type="application/json" id="codex-visualization-widget-state">' +
+      JSON.stringify(initialGlobals).replaceAll("<", "\\u003c") +
+      "<\/script>",
+  );
+  delete frame.dataset.srcdoc;
+})();
+</script>
+</body>
+</html>
