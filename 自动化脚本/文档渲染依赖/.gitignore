@@ -1,0 +1,5 @@
+*.msi
+*.cab
+*.log
+LibreOffice_*/
+柜文件解包/

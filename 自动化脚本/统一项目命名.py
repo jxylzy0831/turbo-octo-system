@@ -9,7 +9,7 @@ import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKIP = {"垃圾箱", "垃圾桶", "临时存储", ".git", "node_modules", "dist", "__pycache__", "_tmp", "修图成品", "技能验证依赖", "skill-validation-deps"}
+SKIP = {"工具依赖", "垃圾箱", "垃圾桶", "临时存储", ".git", "node_modules", "dist", "__pycache__", "_tmp", "修图成品", "技能验证依赖", "skill-validation-deps"}
 FIXED = {"AGENTS.md", "SKILL.md", "package.json", "package-lock.json", "tsconfig.json", "index.html", ".gitignore", ".gitkeep", "openai.yaml", "__init__.py", ".env", "photo.env.ps1", ".npmrc", "LICENSE", "NOTICE", "METADATA", "INSTALLER", "RECORD", "WHEEL", "REQUESTED", "top_level.txt"}
 DIRS = {
     "analysis": "分析", "assets": "素材", "drafts": "草稿", "output": "成品", "qa": "质检",

@@ -27,7 +27,7 @@ PAIRS = [
     ('\u6cf0\u4f0d', '泰俊'),
     ('\u6210\u5bb0', '正勋'),
 ]
-SKIP = {'.git', '垃圾箱', '垃圾桶', '临时存储', 'node_modules', 'dist', '__pycache__',
+SKIP = {'工具依赖', '.git', '垃圾箱', '垃圾桶', '临时存储', 'node_modules', 'dist', '__pycache__',
         '.venv', 'venv', '依赖', '命名统一依赖', '命名统一记录', 'skill-validation-deps',
         '技能验证依赖', '.pytest_cache', '.mypy_cache'}
 TEXT_EXT = {'.md'}
